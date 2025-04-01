@@ -4,6 +4,12 @@ Date: April 1, 2025
 
 Code available in: C++, Java, Python, Go
 
+Difficulty: Easy
+
+Tags: Dynamic Programming, 1D Dynamic Programming, Knapsack, 0/1 Knapsack
+
+Pre-requisites: 0/1 Knapsack Dynamic Programming
+
 > Note: The language specific code files in this folder have only the most efficient solution.
 
 ## Approach
