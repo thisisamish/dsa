@@ -1,0 +1,33 @@
+[
+  {
+    "sheet": "leetcode-75",
+    "url": "https://leetcode.com/graphql/",
+    "body": {
+      "query": "\n    query studyPlanPastSolved($slug: String!) {\n  studyPlanV2Detail(planSlug: $slug) {\n    planSubGroups {\n      slug\n      questions {\n        titleSlug\n        status\n      }\n    }\n  }\n}\n    ",
+      "variables": { "slug": "leetcode-75" },
+      "operationName": "studyPlanPastSolved"
+    }
+  },
+  {
+    "sheet": "interview-150",
+    "url": "https://leetcode.com/graphql/",
+    "body": {
+      "query": "\n    query studyPlanPastSolved($slug: String!) {\n  studyPlanV2Detail(planSlug: $slug) {\n    planSubGroups {\n      slug\n      questions {\n        titleSlug\n        status\n      }\n    }\n  }\n}\n    ",
+      "variables": { "slug": "top-interview-150" },
+      "operationName": "studyPlanPastSolved"
+    }
+  },
+  {
+    "sheet": "past-150-daily-questions",
+    "url": "https://leetcode.com/graphql/",
+    "body": {
+      "query": "\n    query panelQuestionList($currentQuestionSlug: String!, $categorySlug: String, $envId: String, $envType: String, $filters: QuestionListFilterInput) {\n  panelQuestionList(\n    currentQuestionSlug: $currentQuestionSlug\n    categorySlug: $categorySlug\n    envId: $envId\n    envType: $envType\n    filters: $filters\n  ) {\n    hasViewPermission\n    panelName\n    finishedLength\n    totalLength\n    questions {\n      difficulty\n      id\n      paidOnly\n      questionFrontendId\n      status\n      title\n      titleSlug\n      score\n      questionNumber\n      topicTags {\n        name\n        slug\n      }\n    }\n  }\n}\n    ",
+      "variables": {
+        "envType": "daily-question",
+        "envId": "2025-04-07",
+        "currentQuestionSlug": "partition-equal-subset-sum"
+      },
+      "operationName": "panelQuestionList"
+    }
+  }
+]

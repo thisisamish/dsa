@@ -1,0 +1,418 @@
+{
+  "data": {
+    "studyPlanV2Detail": {
+      "planSubGroups": [
+        {
+          "slug": "leetcode-75-24-ocvm",
+          "questions": [
+            {
+              "titleSlug": "merge-strings-alternately",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "greatest-common-divisor-of-strings",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "kids-with-the-greatest-number-of-candies",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "can-place-flowers",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "reverse-vowels-of-a-string",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "reverse-words-in-a-string",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "product-of-array-except-self",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "increasing-triplet-subsequence",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "string-compression",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-25-0zdf",
+          "questions": [
+            {
+              "titleSlug": "move-zeroes",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "is-subsequence",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "container-with-most-water",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "max-number-of-k-sum-pairs",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-26-43fm",
+          "questions": [
+            {
+              "titleSlug": "maximum-average-subarray-i",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "max-consecutive-ones-iii",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-27-wtsd",
+          "questions": [
+            {
+              "titleSlug": "find-the-highest-altitude",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "find-pivot-index",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-28-j7cd",
+          "questions": [
+            {
+              "titleSlug": "find-the-difference-of-two-arrays",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "unique-number-of-occurrences",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "determine-if-two-strings-are-close",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "equal-row-and-column-pairs",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-29-jubo",
+          "questions": [
+            {
+              "titleSlug": "removing-stars-from-a-string",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "asteroid-collision",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "decode-string",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-30-1a5r",
+          "questions": [
+            {
+              "titleSlug": "number-of-recent-calls",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "dota2-senate",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-31-tr16",
+          "questions": [
+            {
+              "titleSlug": "delete-the-middle-node-of-a-linked-list",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "odd-even-linked-list",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "reverse-linked-list",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "maximum-twin-sum-of-a-linked-list",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-32-iuby",
+          "questions": [
+            {
+              "titleSlug": "maximum-depth-of-binary-tree",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "leaf-similar-trees",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "count-good-nodes-in-binary-tree",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "path-sum-iii",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "longest-zigzag-path-in-a-binary-tree",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-33-ibku",
+          "questions": [
+            {
+              "titleSlug": "binary-tree-right-side-view",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "maximum-level-sum-of-a-binary-tree",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-34-o6nm",
+          "questions": [
+            {
+              "titleSlug": "search-in-a-binary-search-tree",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "delete-node-in-a-bst",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-35-udu6",
+          "questions": [
+            {
+              "titleSlug": "keys-and-rooms",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "number-of-provinces",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "evaluate-division",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-36-8hgd",
+          "questions": [
+            {
+              "titleSlug": "nearest-exit-from-entrance-in-maze",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "rotting-oranges",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-37-s8hv",
+          "questions": [
+            {
+              "titleSlug": "kth-largest-element-in-an-array",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "smallest-number-in-infinite-set",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "maximum-subsequence-score",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "total-cost-to-hire-k-workers",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-38-mv3u",
+          "questions": [
+            {
+              "titleSlug": "guess-number-higher-or-lower",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "successful-pairs-of-spells-and-potions",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "find-peak-element",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "koko-eating-bananas",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-39-17n8",
+          "questions": [
+            {
+              "titleSlug": "letter-combinations-of-a-phone-number",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "combination-sum-iii",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-40-yz6i",
+          "questions": [
+            {
+              "titleSlug": "n-th-tribonacci-number",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "min-cost-climbing-stairs",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "house-robber",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "domino-and-tromino-tiling",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-41-yome",
+          "questions": [
+            {
+              "titleSlug": "unique-paths",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "longest-common-subsequence",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "edit-distance",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-42-0tkm",
+          "questions": [
+            {
+              "titleSlug": "counting-bits",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "single-number",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "minimum-flips-to-make-a-or-b-equal-to-c",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-43-icuq",
+          "questions": [
+            {
+              "titleSlug": "implement-trie-prefix-tree",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "search-suggestions-system",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-44-3wd2",
+          "questions": [
+            {
+              "titleSlug": "non-overlapping-intervals",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "minimum-number-of-arrows-to-burst-balloons",
+              "status": "TO_DO"
+            }
+          ]
+        },
+        {
+          "slug": "leetcode-75-45-ztok",
+          "questions": [
+            {
+              "titleSlug": "daily-temperatures",
+              "status": "TO_DO"
+            },
+            {
+              "titleSlug": "online-stock-span",
+              "status": "TO_DO"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
