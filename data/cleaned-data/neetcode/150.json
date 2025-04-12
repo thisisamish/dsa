@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "217LC",
+        "type": "problem",
+        "title": "Contains Duplicate",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/contains-duplicate/"
+    },
+    {
+        "id": "242LC",
+        "type": "problem",
+        "title": "Valid Anagram",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/valid-anagram/"
+    },
+    {
+        "id": "1LC",
+        "type": "problem",
+        "title": "Two Sum",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "id": "49LC",
+        "type": "problem",
+        "title": "Group Anagrams",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/group-anagrams/"
+    },
+    {
+        "id": "347LC",
+        "type": "problem",
+        "title": "Top K Frequent Elements",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/top-k-frequent-elements/"
+    },
+    {
+        "id": "271LC",
+        "type": "problem",
+        "title": "Encode and Decode Strings",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/encode-and-decode-strings/"
+    },
+    {
+        "id": "238LC",
+        "type": "problem",
+        "title": "Product of Array Except Self",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/product-of-array-except-self/"
+    },
+    {
+        "id": "36LC",
+        "type": "problem",
+        "title": "Valid Sudoku",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "id": "128LC",
+        "type": "problem",
+        "title": "Longest Consecutive Sequence",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/longest-consecutive-sequence/"
+    },
+    {
+        "id": "125LC",
+        "type": "problem",
+        "title": "Valid Palindrome",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/valid-palindrome/"
+    },
+    {
+        "id": "167LC",
+        "type": "problem",
+        "title": "Two Sum II - Input Array Is Sorted",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+    },
+    {
+        "id": "15LC",
+        "type": "problem",
+        "title": "3Sum",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/3sum/"
+    },
+    {
+        "id": "11LC",
+        "type": "problem",
+        "title": "Container With Most Water",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+        "id": "42LC",
+        "type": "problem",
+        "title": "Trapping Rain Water",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "id": "121LC",
+        "type": "problem",
+        "title": "Best Time to Buy and Sell Stock",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "id": "3LC",
+        "type": "problem",
+        "title": "Longest Substring Without Repeating Characters",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+        "id": "424LC",
+        "type": "problem",
+        "title": "Longest Repeating Character Replacement",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+    },
+    {
+        "id": "567LC",
+        "type": "problem",
+        "title": "Permutation in String",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/permutation-in-string/"
+    },
+    {
+        "id": "76LC",
+        "type": "problem",
+        "title": "Minimum Window Substring",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "id": "239LC",
+        "type": "problem",
+        "title": "Sliding Window Maximum",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/sliding-window-maximum/"
+    },
+    {
+        "id": "20LC",
+        "type": "problem",
+        "title": "Valid Parentheses",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "id": "155LC",
+        "type": "problem",
+        "title": "Min Stack",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/min-stack/"
+    },
+    {
+        "id": "150LC",
+        "type": "problem",
+        "title": "Evaluate Reverse Polish Notation",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+    },
+    {
+        "id": "22LC",
+        "type": "problem",
+        "title": "Generate Parentheses",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/generate-parentheses/"
+    },
+    {
+        "id": "739LC",
+        "type": "problem",
+        "title": "Daily Temperatures",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/daily-temperatures/"
+    },
+    {
+        "id": "853LC",
+        "type": "problem",
+        "title": "Car Fleet",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/car-fleet/"
+    },
+    {
+        "id": "84LC",
+        "type": "problem",
+        "title": "Largest Rectangle in Histogram",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+    },
+    {
+        "id": "704LC",
+        "type": "problem",
+        "title": "Binary Search",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/binary-search/"
+    },
+    {
+        "id": "74LC",
+        "type": "problem",
+        "title": "Search a 2D Matrix",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/search-a-2d-matrix/"
+    },
+    {
+        "id": "875LC",
+        "type": "problem",
+        "title": "Koko Eating Bananas",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/koko-eating-bananas/"
+    },
+    {
+        "id": "153LC",
+        "type": "problem",
+        "title": "Find Minimum in Rotated Sorted Array",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+    },
+    {
+        "id": "33LC",
+        "type": "problem",
+        "title": "Search in Rotated Sorted Array",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+        "id": "981LC",
+        "type": "problem",
+        "title": "Time Based Key-Value Store",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/time-based-key-value-store/"
+    },
+    {
+        "id": "4LC",
+        "type": "problem",
+        "title": "Median of Two Sorted Arrays",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "id": "206LC",
+        "type": "problem",
+        "title": "Reverse Linked List",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/reverse-linked-list/"
+    },
+    {
+        "id": "21LC",
+        "type": "problem",
+        "title": "Merge Two Sorted Lists",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/merge-two-sorted-lists/"
+    },
+    {
+        "id": "141LC",
+        "type": "problem",
+        "title": "Linked List Cycle",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/linked-list-cycle/"
+    },
+    {
+        "id": "143LC",
+        "type": "problem",
+        "title": "Reorder List",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/reorder-list/"
+    },
+    {
+        "id": "19LC",
+        "type": "problem",
+        "title": "Remove Nth Node From End of List",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    },
+    {
+        "id": "138LC",
+        "type": "problem",
+        "title": "Copy List with Random Pointer",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+    },
+    {
+        "id": "2LC",
+        "type": "problem",
+        "title": "Add Two Numbers",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/add-two-numbers/"
+    },
+    {
+        "id": "287LC",
+        "type": "problem",
+        "title": "Find the Duplicate Number",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/find-the-duplicate-number/"
+    },
+    {
+        "id": "146LC",
+        "type": "problem",
+        "title": "LRU Cache",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/lru-cache/"
+    },
+    {
+        "id": "23LC",
+        "type": "problem",
+        "title": "Merge k Sorted Lists",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/merge-k-sorted-lists/"
+    },
+    {
+        "id": "25LC",
+        "type": "problem",
+        "title": "Reverse Nodes in k-Group",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+    },
+    {
+        "id": "226LC",
+        "type": "problem",
+        "title": "Invert Binary Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/invert-binary-tree/"
+    },
+    {
+        "id": "104LC",
+        "type": "problem",
+        "title": "Maximum Depth of Binary Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+    },
+    {
+        "id": "543LC",
+        "type": "problem",
+        "title": "Diameter of Binary Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/diameter-of-binary-tree/"
+    },
+    {
+        "id": "110LC",
+        "type": "problem",
+        "title": "Balanced Binary Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/balanced-binary-tree/"
+    },
+    {
+        "id": "100LC",
+        "type": "problem",
+        "title": "Same Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/same-tree/"
+    },
+    {
+        "id": "572LC",
+        "type": "problem",
+        "title": "Subtree of Another Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/subtree-of-another-tree/"
+    },
+    {
+        "id": "235LC",
+        "type": "problem",
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+    },
+    {
+        "id": "102LC",
+        "type": "problem",
+        "title": "Binary Tree Level Order Traversal",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+    },
+    {
+        "id": "199LC",
+        "type": "problem",
+        "title": "Binary Tree Right Side View",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/binary-tree-right-side-view/"
+    },
+    {
+        "id": "1448LC",
+        "type": "problem",
+        "title": "Count Good Nodes in Binary Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
+    },
+    {
+        "id": "98LC",
+        "type": "problem",
+        "title": "Validate Binary Search Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/validate-binary-search-tree/"
+    },
+    {
+        "id": "230LC",
+        "type": "problem",
+        "title": "Kth Smallest Element in a BST",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+    },
+    {
+        "id": "105LC",
+        "type": "problem",
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+    },
+    {
+        "id": "124LC",
+        "type": "problem",
+        "title": "Binary Tree Maximum Path Sum",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+    },
+    {
+        "id": "297LC",
+        "type": "problem",
+        "title": "Serialize and Deserialize Binary Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+    },
+    {
+        "id": "703LC",
+        "type": "problem",
+        "title": "Kth Largest Element in a Stream",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/kth-largest-element-in-a-stream/"
+    },
+    {
+        "id": "1046LC",
+        "type": "problem",
+        "title": "Last Stone Weight",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/last-stone-weight/"
+    },
+    {
+        "id": "973LC",
+        "type": "problem",
+        "title": "K Closest Points to Origin",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/k-closest-points-to-origin/"
+    },
+    {
+        "id": "215LC",
+        "type": "problem",
+        "title": "Kth Largest Element in an Array",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+    },
+    {
+        "id": "621LC",
+        "type": "problem",
+        "title": "Task Scheduler",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/task-scheduler/"
+    },
+    {
+        "id": "355LC",
+        "type": "problem",
+        "title": "Design Twitter",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/design-twitter/"
+    },
+    {
+        "id": "295LC",
+        "type": "problem",
+        "title": "Find Median from Data Stream",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/find-median-from-data-stream/"
+    },
+    {
+        "id": "78LC",
+        "type": "problem",
+        "title": "Subsets",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/subsets/"
+    },
+    {
+        "id": "39LC",
+        "type": "problem",
+        "title": "Combination Sum",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/combination-sum/"
+    },
+    {
+        "id": "40LC",
+        "type": "problem",
+        "title": "Combination Sum II",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/combination-sum-ii/"
+    },
+    {
+        "id": "46LC",
+        "type": "problem",
+        "title": "Permutations",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/permutations/"
+    },
+    {
+        "id": "90LC",
+        "type": "problem",
+        "title": "Subsets II",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/subsets-ii/"
+    },
+    {
+        "id": "79LC",
+        "type": "problem",
+        "title": "Word Search",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/word-search/"
+    },
+    {
+        "id": "131LC",
+        "type": "problem",
+        "title": "Palindrome Partitioning",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/palindrome-partitioning/"
+    },
+    {
+        "id": "17LC",
+        "type": "problem",
+        "title": "Letter Combinations of a Phone Number",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+        "id": "51LC",
+        "type": "problem",
+        "title": "N-Queens",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/n-queens/"
+    },
+    {
+        "id": "208LC",
+        "type": "problem",
+        "title": "Implement Trie (Prefix Tree)",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+    },
+    {
+        "id": "211LC",
+        "type": "problem",
+        "title": "Design Add and Search Words Data Structure",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
+    },
+    {
+        "id": "212LC",
+        "type": "problem",
+        "title": "Word Search II",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/word-search-ii/"
+    },
+    {
+        "id": "200LC",
+        "type": "problem",
+        "title": "Number of Islands",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/number-of-islands/"
+    },
+    {
+        "id": "695LC",
+        "type": "problem",
+        "title": "Max Area of Island",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/max-area-of-island/"
+    },
+    {
+        "id": "133LC",
+        "type": "problem",
+        "title": "Clone Graph",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/clone-graph/"
+    },
+    {
+        "id": "286LC",
+        "type": "problem",
+        "title": "Walls and Gates",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/walls-and-gates/"
+    },
+    {
+        "id": "994LC",
+        "type": "problem",
+        "title": "Rotting Oranges",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/rotting-oranges/"
+    },
+    {
+        "id": "417LC",
+        "type": "problem",
+        "title": "Pacific Atlantic Water Flow",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/pacific-atlantic-water-flow/"
+    },
+    {
+        "id": "130LC",
+        "type": "problem",
+        "title": "Surrounded Regions",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/surrounded-regions/"
+    },
+    {
+        "id": "207LC",
+        "type": "problem",
+        "title": "Course Schedule",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/course-schedule/"
+    },
+    {
+        "id": "210LC",
+        "type": "problem",
+        "title": "Course Schedule II",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/course-schedule-ii/"
+    },
+    {
+        "id": "261LC",
+        "type": "problem",
+        "title": "Graph Valid Tree",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/graph-valid-tree/"
+    },
+    {
+        "id": "323LC",
+        "type": "problem",
+        "title": "Number of Connected Components in an Undirected Graph",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/"
+    },
+    {
+        "id": "684LC",
+        "type": "problem",
+        "title": "Redundant Connection",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/redundant-connection/"
+    },
+    {
+        "id": "127LC",
+        "type": "problem",
+        "title": "Word Ladder",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/word-ladder/"
+    },
+    {
+        "id": "743LC",
+        "type": "problem",
+        "title": "Network Delay Time",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/network-delay-time/"
+    },
+    {
+        "id": "332LC",
+        "type": "problem",
+        "title": "Reconstruct Itinerary",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/reconstruct-itinerary/"
+    },
+    {
+        "id": "1584LC",
+        "type": "problem",
+        "title": "Min Cost to Connect All Points",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/min-cost-to-connect-all-points/"
+    },
+    {
+        "id": "778LC",
+        "type": "problem",
+        "title": "Swim in Rising Water",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/swim-in-rising-water/"
+    },
+    {
+        "id": "269LC",
+        "type": "problem",
+        "title": "Alien Dictionary",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/alien-dictionary/"
+    },
+    {
+        "id": "787LC",
+        "type": "problem",
+        "title": "Cheapest Flights Within K Stops",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
+    },
+    {
+        "id": "70LC",
+        "type": "problem",
+        "title": "Climbing Stairs",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/climbing-stairs/"
+    },
+    {
+        "id": "746LC",
+        "type": "problem",
+        "title": "Min Cost Climbing Stairs",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/min-cost-climbing-stairs/"
+    },
+    {
+        "id": "198LC",
+        "type": "problem",
+        "title": "House Robber",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/house-robber/"
+    },
+    {
+        "id": "213LC",
+        "type": "problem",
+        "title": "House Robber II",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/house-robber-ii/"
+    },
+    {
+        "id": "5LC",
+        "type": "problem",
+        "title": "Longest Palindromic Substring",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+        "id": "647LC",
+        "type": "problem",
+        "title": "Palindromic Substrings",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/palindromic-substrings/"
+    },
+    {
+        "id": "91LC",
+        "type": "problem",
+        "title": "Decode Ways",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/decode-ways/"
+    },
+    {
+        "id": "322LC",
+        "type": "problem",
+        "title": "Coin Change",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/coin-change/"
+    },
+    {
+        "id": "152LC",
+        "type": "problem",
+        "title": "Maximum Product Subarray",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/maximum-product-subarray/"
+    },
+    {
+        "id": "139LC",
+        "type": "problem",
+        "title": "Word Break",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/word-break/"
+    },
+    {
+        "id": "300LC",
+        "type": "problem",
+        "title": "Longest Increasing Subsequence",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/longest-increasing-subsequence/"
+    },
+    {
+        "id": "416LC",
+        "type": "problem",
+        "title": "Partition Equal Subset Sum",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/partition-equal-subset-sum/"
+    },
+    {
+        "id": "62LC",
+        "type": "problem",
+        "title": "Unique Paths",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/unique-paths/"
+    },
+    {
+        "id": "1143LC",
+        "type": "problem",
+        "title": "Longest Common Subsequence",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/longest-common-subsequence/"
+    },
+    {
+        "id": "309LC",
+        "type": "problem",
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/"
+    },
+    {
+        "id": "518LC",
+        "type": "problem",
+        "title": "Coin Change II",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/coin-change-ii/"
+    },
+    {
+        "id": "494LC",
+        "type": "problem",
+        "title": "Target Sum",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/target-sum/"
+    },
+    {
+        "id": "97LC",
+        "type": "problem",
+        "title": "Interleaving String",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/interleaving-string/"
+    },
+    {
+        "id": "329LC",
+        "type": "problem",
+        "title": "Longest Increasing Path in a Matrix",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"
+    },
+    {
+        "id": "115LC",
+        "type": "problem",
+        "title": "Distinct Subsequences",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/distinct-subsequences/"
+    },
+    {
+        "id": "72LC",
+        "type": "problem",
+        "title": "Edit Distance",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/edit-distance/"
+    },
+    {
+        "id": "312LC",
+        "type": "problem",
+        "title": "Burst Balloons",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/burst-balloons/"
+    },
+    {
+        "id": "10LC",
+        "type": "problem",
+        "title": "Regular Expression Matching",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "id": "53LC",
+        "type": "problem",
+        "title": "Maximum Subarray",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "id": "55LC",
+        "type": "problem",
+        "title": "Jump Game",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+        "id": "45LC",
+        "type": "problem",
+        "title": "Jump Game II",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/jump-game-ii/"
+    },
+    {
+        "id": "134LC",
+        "type": "problem",
+        "title": "Gas Station",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/gas-station/"
+    },
+    {
+        "id": "846LC",
+        "type": "problem",
+        "title": "Hand of Straights",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/hand-of-straights/"
+    },
+    {
+        "id": "1899LC",
+        "type": "problem",
+        "title": "Merge Triplets to Form Target Triplet",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/"
+    },
+    {
+        "id": "763LC",
+        "type": "problem",
+        "title": "Partition Labels",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/partition-labels/"
+    },
+    {
+        "id": "678LC",
+        "type": "problem",
+        "title": "Valid Parenthesis String",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/valid-parenthesis-string/"
+    },
+    {
+        "id": "57LC",
+        "type": "problem",
+        "title": "Insert Interval",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/insert-interval/"
+    },
+    {
+        "id": "56LC",
+        "type": "problem",
+        "title": "Merge Intervals",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/merge-intervals/"
+    },
+    {
+        "id": "435LC",
+        "type": "problem",
+        "title": "Non-overlapping Intervals",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/non-overlapping-intervals/"
+    },
+    {
+        "id": "252LC",
+        "type": "problem",
+        "title": "Meeting Rooms",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/meeting-rooms/"
+    },
+    {
+        "id": "253LC",
+        "type": "problem",
+        "title": "Meeting Rooms II",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/meeting-rooms-ii/"
+    },
+    {
+        "id": "1851LC",
+        "type": "problem",
+        "title": "Minimum Interval to Include Each Query",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/minimum-interval-to-include-each-query/"
+    },
+    {
+        "id": "48LC",
+        "type": "problem",
+        "title": "Rotate Image",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/rotate-image/"
+    },
+    {
+        "id": "54LC",
+        "type": "problem",
+        "title": "Spiral Matrix",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/spiral-matrix/"
+    },
+    {
+        "id": "73LC",
+        "type": "problem",
+        "title": "Set Matrix Zeroes",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/set-matrix-zeroes/"
+    },
+    {
+        "id": "202LC",
+        "type": "problem",
+        "title": "Happy Number",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/happy-number/"
+    },
+    {
+        "id": "66LC",
+        "type": "problem",
+        "title": "Plus One",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/plus-one/"
+    },
+    {
+        "id": "50LC",
+        "type": "problem",
+        "title": "Pow(x, n)",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/powx-n/"
+    },
+    {
+        "id": "43LC",
+        "type": "problem",
+        "title": "Multiply Strings",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/multiply-strings/"
+    },
+    {
+        "id": "2013LC",
+        "type": "problem",
+        "title": "Detect Squares",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/detect-squares/"
+    },
+    {
+        "id": "136LC",
+        "type": "problem",
+        "title": "Single Number",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/single-number/"
+    },
+    {
+        "id": "191LC",
+        "type": "problem",
+        "title": "Number of 1 Bits",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/number-of-1-bits/"
+    },
+    {
+        "id": "338LC",
+        "type": "problem",
+        "title": "Counting Bits",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/counting-bits/"
+    },
+    {
+        "id": "190LC",
+        "type": "problem",
+        "title": "Reverse Bits",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/reverse-bits/"
+    },
+    {
+        "id": "268LC",
+        "type": "problem",
+        "title": "Missing Number",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/missing-number/"
+    },
+    {
+        "id": "371LC",
+        "type": "problem",
+        "title": "Sum of Two Integers",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/sum-of-two-integers/"
+    },
+    {
+        "id": "7LC",
+        "type": "problem",
+        "title": "Reverse Integer",
+        "platform": "LC",
+        "href": "https://leetcode.com/problems/reverse-integer/"
+    }
+]
