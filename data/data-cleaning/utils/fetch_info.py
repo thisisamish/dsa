@@ -61,8 +61,9 @@ async def fetch_tutorial_data(session: aiohttp.ClientSession, url: str) -> dict[
             print(f"Error fetching {url}: {e}")
 
     return {
-        "id":       tutorial_id,
-        "title":    title,
+        "id_base": slug,
+        "id": tutorial_id,
+        "title": title,
         "platform": platform,
     }
         
@@ -93,6 +94,7 @@ async def fetch_problem_data(session: aiohttp.ClientSession, url: str) -> dict[s
             id, title = await fetch_fn(session, param)
 
             return {
+                "id_base": slug,
                 "id": id,
                 "title": title,
                 "platform": platform,
@@ -243,22 +245,26 @@ async def fetch_info(
     duration = time.time() - start
     print(f"\nFetched {len(results)}/{len(urls)} items in {duration:.1f}s.")
 
-    ids: list[str | None]= []
+    id_bases: list[str | None] = []
+    ids: list[str | None] = []
     titles: list[str | None] = []
     platforms: list[str | None] = []
 
     for i in range(len(urls)):
         entry = results.get(str(i))
         if entry:
+            id_bases.append(entry['id_base'])
             ids.append(entry['id'])
             titles.append(entry['title'])
             platforms.append(entry['platform'])
         else:
+            id_bases.append(None)
             ids.append(None)
             titles.append(None)
             platforms.append(None)
 
     df = df.copy()
+    df['id_base'] = id_bases
     df['id'] = ids
     df['title'] = titles
     df['platform'] = platforms
