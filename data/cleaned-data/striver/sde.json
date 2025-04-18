@@ -1,1339 +1,2103 @@
 [
     {
+        "url": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "original_title": "Set Matrix Zeros",
+        "step_title": "Arrays",
+        "expanded_url": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "expanded_stripped_url": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "type": "problem",
         "id": "73LC",
-        "type": "problem",
-        "title": "Set Matrix Zeros",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/set-matrix-zeroes/"
+        "title": "Set Matrix Zeroes",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/pascals-triangle/",
+        "original_title": "Pascal's Triangle",
+        "step_title": "Arrays",
+        "expanded_url": "https://leetcode.com/problems/pascals-triangle/",
+        "expanded_stripped_url": "https://leetcode.com/problems/pascals-triangle/",
+        "type": "problem",
         "id": "118LC",
-        "type": "problem",
         "title": "Pascal's Triangle",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/pascals-triangle/"
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/next-permutation/",
+        "original_title": "Next Permutation",
+        "step_title": "Arrays",
+        "expanded_url": "https://leetcode.com/problems/next-permutation/",
+        "expanded_stripped_url": "https://leetcode.com/problems/next-permutation/",
+        "type": "problem",
         "id": "31LC",
-        "type": "problem",
         "title": "Next Permutation",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/next-permutation/"
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/maximum-subarray/",
+        "original_title": "Kadane's Algorithm",
+        "step_title": "Arrays",
+        "expanded_url": "https://leetcode.com/problems/maximum-subarray/",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-subarray/",
+        "type": "problem",
         "id": "53LC",
-        "type": "problem",
-        "title": "Kadane's Algorithm",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/maximum-subarray/"
+        "title": "Maximum Subarray",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/sort-colors/",
+        "original_title": "Sort an array of 0's, 1's and 2's",
+        "step_title": "Arrays",
+        "expanded_url": "https://leetcode.com/problems/sort-colors/",
+        "expanded_stripped_url": "https://leetcode.com/problems/sort-colors/",
+        "type": "problem",
         "id": "75LC",
-        "type": "problem",
-        "title": "Sort an array of 0's, 1's and 2's",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/sort-colors/"
+        "title": "Sort Colors",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "original_title": "Stock Buy and Sell",
+        "step_title": "Arrays",
+        "expanded_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "expanded_stripped_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+        "type": "problem",
         "id": "121LC",
-        "type": "problem",
-        "title": "Stock Buy and Sell",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+        "title": "Best Time to Buy and Sell Stock",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/rotate-image/",
+        "original_title": "Rotate Matrix",
+        "step_title": "Arrays Part-II",
+        "expanded_url": "https://leetcode.com/problems/rotate-image/",
+        "expanded_stripped_url": "https://leetcode.com/problems/rotate-image/",
+        "type": "problem",
         "id": "48LC",
-        "type": "problem",
-        "title": "Rotate Matrix",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/rotate-image/"
+        "title": "Rotate Image",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/merge-intervals/",
+        "original_title": "Merge Overlapping Subintervals",
+        "step_title": "Arrays Part-II",
+        "expanded_url": "https://leetcode.com/problems/merge-intervals/",
+        "expanded_stripped_url": "https://leetcode.com/problems/merge-intervals/",
+        "type": "problem",
         "id": "56LC",
-        "type": "problem",
-        "title": "Merge Overlapping Subintervals",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/merge-intervals/"
+        "title": "Merge Intervals",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/merge-sorted-array/",
+        "original_title": "Merge two sorted arrays without extra space",
+        "step_title": "Arrays Part-II",
+        "expanded_url": "https://leetcode.com/problems/merge-sorted-array/",
+        "expanded_stripped_url": "https://leetcode.com/problems/merge-sorted-array/",
+        "type": "problem",
         "id": "88LC",
-        "type": "problem",
-        "title": "Merge two sorted arrays without extra space",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/merge-sorted-array/"
+        "title": "Merge Sorted Array",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "original_title": "Find the duplicate in an array of N+1 integers",
+        "step_title": "Arrays Part-II",
+        "expanded_url": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "expanded_stripped_url": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "type": "problem",
         "id": "287LC",
-        "type": "problem",
-        "title": "Find the duplicate in an array of N+1 integers",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/find-the-duplicate-number/"
+        "title": "Find the Duplicate Number",
+        "platform": "LC"
     },
     {
+        "url": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+        "original_title": "Repeat and Missing Number",
+        "step_title": "Arrays Part-II",
+        "expanded_url": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+        "expanded_stripped_url": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
+        "type": "problem",
         "id": "60IB",
-        "type": "problem",
-        "title": "Repeat and Missing Number",
-        "platform": "IB",
-        "href": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/"
+        "title": "Repeat and Missing Number Array",
+        "platform": "IB"
     },
     {
+        "url": "https://www.codingninjas.com/codestudio/problems/count-inversions_615",
+        "original_title": "Inversion of Array (Pre-req: Merge Sort)",
+        "step_title": "Arrays Part-II",
+        "expanded_url": "https://www.naukri.com/code360/problems/count-inversions_615",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/count-inversions_615",
+        "type": "problem",
         "id": "594C360",
-        "type": "problem",
-        "title": "Inversion of Array (Pre-req: Merge Sort)",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/count-inversions_615"
+        "title": "Count Inversions",
+        "platform": "C360"
     },
     {
+        "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "original_title": "Search in a 2 D matrix",
+        "step_title": "Arrays Part-III",
+        "expanded_url": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "expanded_stripped_url": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "type": "problem",
         "id": "74LC",
-        "type": "problem",
-        "title": "Search in a 2 D matrix",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/search-a-2d-matrix/"
+        "title": "Search a 2D Matrix",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/powx-n/",
+        "original_title": "Pow(x, n)",
+        "step_title": "Arrays Part-III",
+        "expanded_url": "https://leetcode.com/problems/powx-n/",
+        "expanded_stripped_url": "https://leetcode.com/problems/powx-n/",
+        "type": "problem",
         "id": "50LC",
-        "type": "problem",
         "title": "Pow(x, n)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/powx-n/"
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/majority-element/",
+        "original_title": "Majority Element (>n/2 times)",
+        "step_title": "Arrays Part-III",
+        "expanded_url": "https://leetcode.com/problems/majority-element/",
+        "expanded_stripped_url": "https://leetcode.com/problems/majority-element/",
+        "type": "problem",
         "id": "169LC",
-        "type": "problem",
-        "title": "Majority Element (>n/2 times)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/majority-element/"
+        "title": "Majority Element",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/majority-element-ii/",
+        "original_title": "Majority Element (n/3 times)",
+        "step_title": "Arrays Part-III",
+        "expanded_url": "https://leetcode.com/problems/majority-element-ii/",
+        "expanded_stripped_url": "https://leetcode.com/problems/majority-element-ii/",
+        "type": "problem",
         "id": "229LC",
-        "type": "problem",
-        "title": "Majority Element (n/3 times)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/majority-element-ii/"
+        "title": "Majority Element II",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/unique-paths/",
+        "original_title": "Grid Unique Paths",
+        "step_title": "Arrays Part-III",
+        "expanded_url": "https://leetcode.com/problems/unique-paths/",
+        "expanded_stripped_url": "https://leetcode.com/problems/unique-paths/",
+        "type": "problem",
         "id": "62LC",
-        "type": "problem",
-        "title": "Grid Unique Paths",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/unique-paths/"
+        "title": "Unique Paths",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/reverse-pairs/",
+        "original_title": "Reverse Pairs (Leetcode)",
+        "step_title": "Arrays Part-III",
+        "expanded_url": "https://leetcode.com/problems/reverse-pairs/",
+        "expanded_stripped_url": "https://leetcode.com/problems/reverse-pairs/",
+        "type": "problem",
         "id": "493LC",
-        "type": "problem",
-        "title": "Reverse Pairs (Leetcode)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/reverse-pairs/"
+        "title": "Reverse Pairs",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/two-sum/",
+        "original_title": "2Sum Problem",
+        "step_title": "Arrays Part-IV",
+        "expanded_url": "https://leetcode.com/problems/two-sum/",
+        "expanded_stripped_url": "https://leetcode.com/problems/two-sum/",
+        "type": "problem",
         "id": "1LC",
-        "type": "problem",
-        "title": "2Sum Problem",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/two-sum/"
+        "title": "Two Sum",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/4sum/",
+        "original_title": "4-Sum Problem",
+        "step_title": "Arrays Part-IV",
+        "expanded_url": "https://leetcode.com/problems/4sum/",
+        "expanded_stripped_url": "https://leetcode.com/problems/4sum/",
+        "type": "problem",
         "id": "18LC",
-        "type": "problem",
-        "title": "4-Sum Problem",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/4sum/"
+        "title": "4Sum",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "original_title": "Longest Consecutive Sequence",
+        "step_title": "Arrays Part-IV",
+        "expanded_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "expanded_stripped_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+        "type": "problem",
         "id": "128LC",
-        "type": "problem",
         "title": "Longest Consecutive Sequence",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/longest-consecutive-sequence/"
+        "platform": "LC"
     },
     {
+        "url": "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+        "original_title": "Largest Subarray with K sum",
+        "step_title": "Arrays Part-IV",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+        "type": "problem",
         "id": "700254GFG",
-        "type": "problem",
-        "title": "Largest Subarray with K sum",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1"
+        "title": "Largest subarray with 0 sum",
+        "platform": "GFG"
     },
     {
+        "url": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
+        "original_title": "Count number of subarrays with given xor K",
+        "step_title": "Arrays Part-IV",
+        "expanded_url": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
+        "expanded_stripped_url": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
+        "type": "problem",
         "id": "12036IB",
-        "type": "problem",
-        "title": "Count number of subarrays with given xor K",
-        "platform": "IB",
-        "href": "https://www.interviewbit.com/problems/subarray-with-given-xor/"
+        "title": "Subarray with given XOR",
+        "platform": "IB"
     },
     {
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "original_title": "Longest Substring without repeat",
+        "step_title": "Arrays Part-IV",
+        "expanded_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "expanded_stripped_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "type": "problem",
         "id": "3LC",
-        "type": "problem",
-        "title": "Longest Substring without repeat",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+        "title": "Longest Substring Without Repeating Characters",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/reverse-linked-list/",
+        "original_title": "Reverse a LinkedList",
+        "step_title": "Linked List",
+        "expanded_url": "https://leetcode.com/problems/reverse-linked-list/",
+        "expanded_stripped_url": "https://leetcode.com/problems/reverse-linked-list/",
+        "type": "problem",
         "id": "206LC",
-        "type": "problem",
-        "title": "Reverse a LinkedList",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/reverse-linked-list/"
+        "title": "Reverse Linked List",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "original_title": "Find the middle of LinkedList",
+        "step_title": "Linked List",
+        "expanded_url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "expanded_stripped_url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "type": "problem",
         "id": "876LC",
-        "type": "problem",
-        "title": "Find the middle of LinkedList",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/middle-of-the-linked-list/"
+        "title": "Middle of the Linked List",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "original_title": "Merge two sorted Linked List (use method used in mergeSort)",
+        "step_title": "Linked List",
+        "expanded_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "expanded_stripped_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "type": "problem",
         "id": "21LC",
-        "type": "problem",
-        "title": "Merge two sorted Linked List (use method used in mergeSort)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/merge-two-sorted-lists/"
+        "title": "Merge Two Sorted Lists",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "original_title": "Remove N-th node from back of LinkedList",
+        "step_title": "Linked List",
+        "expanded_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "expanded_stripped_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "type": "problem",
         "id": "19LC",
-        "type": "problem",
-        "title": "Remove N-th node from back of LinkedList",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+        "title": "Remove Nth Node From End of List",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/add-two-numbers/",
+        "original_title": "Add two numbers as LinkedList",
+        "step_title": "Linked List",
+        "expanded_url": "https://leetcode.com/problems/add-two-numbers/",
+        "expanded_stripped_url": "https://leetcode.com/problems/add-two-numbers/",
+        "type": "problem",
         "id": "2LC",
-        "type": "problem",
-        "title": "Add two numbers as LinkedList",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/add-two-numbers/"
+        "title": "Add Two Numbers",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "original_title": "Delete a given Node when a node is given.(0(1) solution)",
+        "step_title": "Linked List",
+        "expanded_url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "expanded_stripped_url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "type": "problem",
         "id": "237LC",
-        "type": "problem",
-        "title": "Delete a given Node when a node is given.(0(1) solution)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/delete-node-in-a-linked-list/"
+        "title": "Delete Node in a Linked List",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "original_title": "Find intersection point of Y LinkedList",
+        "step_title": "Linked List Part-II",
+        "expanded_url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "expanded_stripped_url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "type": "problem",
         "id": "160LC",
-        "type": "problem",
-        "title": "Find intersection point of Y LinkedList",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+        "title": "Intersection of Two Linked Lists",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/linked-list-cycle/",
+        "original_title": "Detect a cycle in Linked List",
+        "step_title": "Linked List Part-II",
+        "expanded_url": "https://leetcode.com/problems/linked-list-cycle/",
+        "expanded_stripped_url": "https://leetcode.com/problems/linked-list-cycle/",
+        "type": "problem",
         "id": "141LC",
-        "type": "problem",
-        "title": "Detect a cycle in Linked List",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/linked-list-cycle/"
+        "title": "Linked List Cycle",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "original_title": "Reverse a LinkedList in groups of size k.",
+        "step_title": "Linked List Part-II",
+        "expanded_url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "expanded_stripped_url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "type": "problem",
         "id": "25LC",
-        "type": "problem",
-        "title": "Reverse a LinkedList in groups of size k.",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+        "title": "Reverse Nodes in k-Group",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/palindrome-linked-list/",
+        "original_title": "Check if a LinkedList is palindrome or not.",
+        "step_title": "Linked List Part-II",
+        "expanded_url": "https://leetcode.com/problems/palindrome-linked-list/",
+        "expanded_stripped_url": "https://leetcode.com/problems/palindrome-linked-list/",
+        "type": "problem",
         "id": "234LC",
-        "type": "problem",
-        "title": "Check if a LinkedList is palindrome or not.",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/palindrome-linked-list/"
+        "title": "Palindrome Linked List",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "original_title": "Find the starting point of the Loop of LinkedList",
+        "step_title": "Linked List Part-II",
+        "expanded_url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "expanded_stripped_url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "type": "problem",
         "id": "142LC",
-        "type": "problem",
-        "title": "Find the starting point of the Loop of LinkedList",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/linked-list-cycle-ii/"
+        "title": "Linked List Cycle II",
+        "platform": "LC"
     },
     {
+        "url": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+        "original_title": "Flattening of a LinkedList",
+        "step_title": "Linked List Part-II",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+        "type": "problem",
         "id": "700192GFG",
-        "type": "problem",
-        "title": "Flattening of a LinkedList",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1"
+        "title": "Flattening a Linked List",
+        "platform": "GFG"
     },
     {
+        "url": "https://leetcode.com/problems/rotate-list/description/",
+        "original_title": "Rotate a LinkedList",
+        "step_title": "Linked List and Arrays",
+        "expanded_url": "https://leetcode.com/problems/rotate-list/description/",
+        "expanded_stripped_url": "https://leetcode.com/problems/rotate-list/description/",
+        "type": "problem",
         "id": "61LC",
-        "type": "problem",
-        "title": "Rotate a LinkedList",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/rotate-list/description/"
+        "title": "Rotate List",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "original_title": "Clone a Linked List with random and next pointer",
+        "step_title": "Linked List and Arrays",
+        "expanded_url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "expanded_stripped_url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "type": "problem",
         "id": "138LC",
-        "type": "problem",
-        "title": "Clone a Linked List with random and next pointer",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+        "title": "Copy List with Random Pointer",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/3sum/",
+        "original_title": "3 sum",
+        "step_title": "Linked List and Arrays",
+        "expanded_url": "https://leetcode.com/problems/3sum/",
+        "expanded_stripped_url": "https://leetcode.com/problems/3sum/",
+        "type": "problem",
         "id": "15LC",
-        "type": "problem",
-        "title": "3 sum",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/3sum/"
+        "title": "3Sum",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/trapping-rain-water/",
+        "original_title": "Trapping Rainwater",
+        "step_title": "Linked List and Arrays",
+        "expanded_url": "https://leetcode.com/problems/trapping-rain-water/",
+        "expanded_stripped_url": "https://leetcode.com/problems/trapping-rain-water/",
+        "type": "problem",
         "id": "42LC",
-        "type": "problem",
-        "title": "Trapping Rainwater",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/trapping-rain-water/"
+        "title": "Trapping Rain Water",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "original_title": "Remove Duplicate from Sorted array",
+        "step_title": "Linked List and Arrays",
+        "expanded_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "expanded_stripped_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "type": "problem",
         "id": "26LC",
-        "type": "problem",
-        "title": "Remove Duplicate from Sorted array",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+        "title": "Remove Duplicates from Sorted Array",
+        "platform": "LC"
     },
     {
+        "url": "https://leetcode.com/problems/max-consecutive-ones/",
+        "original_title": "Max consecutive ones",
+        "step_title": "Linked List and Arrays",
+        "expanded_url": "https://leetcode.com/problems/max-consecutive-ones/",
+        "expanded_stripped_url": "https://leetcode.com/problems/max-consecutive-ones/",
+        "type": "problem",
         "id": "485LC",
-        "type": "problem",
-        "title": "Max consecutive ones",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/max-consecutive-ones/"
+        "title": "Max Consecutive Ones",
+        "platform": "LC"
     },
     {
+        "url": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
+        "original_title": "N meetings in one room",
+        "step_title": "Greedy Algorithm",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
+        "type": "problem",
         "id": "701364GFG",
-        "type": "problem",
         "title": "N meetings in one room",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1"
+        "platform": "GFG"
     },
     {
+        "url": "https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#",
+        "original_title": "Minimum number of platforms required for a railway",
+        "step_title": "Greedy Algorithm",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+        "type": "problem",
         "id": "701368GFG",
-        "type": "problem",
-        "title": "Minimum number of platforms required for a railway",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1"
+        "title": "Minimum Platforms",
+        "platform": "GFG"
     },
     {
+        "url": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#",
+        "original_title": "Job sequencing Problem",
+        "step_title": "Greedy Algorithm",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+        "type": "problem",
         "id": "701367GFG",
-        "type": "problem",
-        "title": "Job sequencing Problem",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1"
+        "title": "Job Sequencing Problem",
+        "platform": "GFG"
     },
     {
+        "url": "https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+        "original_title": "Fractional Knapsack Problem",
+        "step_title": "Greedy Algorithm",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
+        "type": "problem",
         "id": "701365GFG",
-        "type": "problem",
-        "title": "Fractional Knapsack Problem",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1"
-    },
-    {
-        "id": "455LC",
-        "type": "problem",
-        "title": "Assign Cookies",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/assign-cookies/"
-    },
-    {
-        "id": "704723GFG",
-        "type": "problem",
-        "title": "Subset Sums",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/subset-sums2234/1"
-    },
-    {
-        "id": "90LC",
-        "type": "problem",
-        "title": "Subset-II",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/subsets-ii/"
-    },
-    {
-        "id": "39LC",
-        "type": "problem",
-        "title": "Combination sum-1",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/combination-sum/"
-    },
-    {
-        "id": "40LC",
-        "type": "problem",
-        "title": "Combination sum-2",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/combination-sum-ii/"
-    },
-    {
-        "id": "131LC",
-        "type": "problem",
-        "title": "Palindrome Partitioning",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/palindrome-partitioning/"
-    },
-    {
-        "id": "60LC",
-        "type": "problem",
-        "title": "K-th permutation Sequence",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/permutation-sequence/"
-    },
-    {
-        "id": "46LC",
-        "type": "problem",
-        "title": "Print all permutations of a string/array",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/permutations/"
-    },
-    {
-        "id": "51LC",
-        "type": "problem",
-        "title": "N queens Problem",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/n-queens/"
-    },
-    {
-        "id": "37LC",
-        "type": "problem",
-        "title": "Sudoko Solver",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/sudoku-solver/"
-    },
-    {
-        "id": "701374GFG",
-        "type": "problem",
-        "title": "M Coloring Problem",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1"
-    },
-    {
-        "id": "700408GFG",
-        "type": "problem",
-        "title": "Rat in a Maze",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
-    },
-    {
-        "id": "9373C360",
-        "type": "problem",
-        "title": "Word Break (print all ways)",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/983635"
-    },
-    {
-        "id": "9580C360",
-        "type": "problem",
-        "title": "The N-th root of an integer",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/1062679"
-    },
-    {
-        "id": "704712GFG",
-        "type": "problem",
-        "title": "Matrix Median",
-        "platform": "GFG",
-        "href": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1"
-    },
-    {
-        "id": "540LC",
-        "type": "problem",
-        "title": "Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/single-element-in-a-sorted-array/"
-    },
-    {
-        "id": "33LC",
-        "type": "problem",
-        "title": "Search element in a sorted and rotated array/ find pivot where it is rotated",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
-    },
-    {
-        "id": "4LC",
-        "type": "problem",
-        "title": "Median of 2 sorted arrays",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
-    },
-    {
-        "id": "703253GFG",
-        "type": "problem",
-        "title": "K-th element of two sorted arrays",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1"
-    },
-    {
-        "id": "270IB",
-        "type": "problem",
-        "title": "Allocate Minimum Number of Pages",
-        "platform": "IB",
-        "href": "https://www.interviewbit.com/problems/allocate-books/"
-    },
-    {
-        "id": "AGGRCOWSPOJ",
-        "type": "problem",
-        "title": "Aggressive Cows",
-        "platform": "SPOJ",
-        "href": "https://www.spoj.com/problems/AGGRCOW/"
-    },
-    {
-        "id": "20655C360",
-        "type": "problem",
-        "title": "Max heap, Min Heap Implementation (Only for interviews)",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/min-heap_4691801"
-    },
-    {
-        "id": "215LC",
-        "type": "problem",
-        "title": "Kth Largest Element",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
-    },
-    {
-        "id": "11051IB",
-        "type": "problem",
-        "title": "Maximum Sum Combination",
-        "platform": "IB",
-        "href": "https://www.interviewbit.com/problems/maximum-sum-combinations/"
-    },
-    {
-        "id": "295LC",
-        "type": "problem",
-        "title": "Find Median from Data Stream",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/find-median-from-data-stream/"
-    },
-    {
-        "id": "9108C360",
-        "type": "problem",
-        "title": "Merge K sorted arrays",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/merge-k-sorted-arrays_975379"
-    },
-    {
-        "id": "347LC",
-        "type": "problem",
-        "title": "K most frequent elements",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/top-k-frequent-elements/"
-    },
-    {
-        "id": "700208GFG",
-        "type": "problem",
-        "title": "Implement Stack using Arrays",
-        "platform": "GFG",
-        "href": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1"
-    },
-    {
-        "id": "700211GFG",
-        "type": "problem",
-        "title": "Implement Queue using Arrays",
-        "platform": "GFG",
-        "href": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1"
-    },
-    {
-        "id": "225LC",
-        "type": "problem",
-        "title": "Implement Stack using Queue (using single queue)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/implement-stack-using-queues/"
-    },
-    {
-        "id": "232LC",
-        "type": "problem",
-        "title": "Implement Queue using Stack (0(1) amortized method)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/implement-queue-using-stacks/"
-    },
-    {
-        "id": "20LC",
-        "type": "problem",
-        "title": "Check for balanced parentheses",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/valid-parentheses/"
-    },
-    {
-        "id": "496LC",
-        "type": "problem",
-        "title": "Next Greater Element",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/next-greater-element-i/"
-    },
-    {
-        "id": "9413C360",
-        "type": "problem",
-        "title": "Sort a Stack",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/sort-a-stack_985275"
-    },
-    {
-        "id": "332IB",
-        "type": "problem",
-        "title": "Next Smaller Element",
-        "platform": "IB",
-        "href": "https://www.interviewbit.com/problems/nearest-smaller-element/"
-    },
-    {
-        "id": "146LC",
-        "type": "problem",
-        "title": "LRU cache (IMPORTANT)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/lru-cache/"
-    },
-    {
-        "id": "460LC",
-        "type": "problem",
-        "title": "LFU cache",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/lfu-cache/"
-    },
-    {
-        "id": "84LC",
-        "type": "problem",
-        "title": "Largest rectangle in a histogram",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
-    },
-    {
-        "id": "239LC",
-        "type": "problem",
-        "title": "Sliding Window maximum",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/sliding-window-maximum/"
-    },
-    {
-        "id": "155LC",
-        "type": "problem",
-        "title": "Implement Min Stack",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/min-stack/"
-    },
-    {
-        "id": "994LC",
-        "type": "problem",
-        "title": "Rotten Orange (Using BFS)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/rotting-oranges/"
-    },
-    {
-        "id": "901LC",
-        "type": "problem",
-        "title": "Stock span problem",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/online-stock-span/"
-    },
-    {
-        "id": "9337C360",
-        "type": "problem",
-        "title": "Find the maximum of minimums of every window size",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/max-of-min_982935"
-    },
-    {
-        "id": "645LINT",
-        "type": "problem",
-        "title": "The Celebrity Problem",
-        "platform": "LINT",
-        "href": "https://www.lintcode.com/problem/645/"
-    },
-    {
-        "id": "151LC",
-        "type": "problem",
-        "title": "Reverse Words in a String",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/reverse-words-in-a-string/"
-    },
-    {
-        "id": "5LC",
-        "type": "problem",
-        "title": "Longest Palindrome in a string",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/longest-palindromic-substring/"
-    },
-    {
-        "id": "13LC",
-        "type": "problem",
-        "title": "Roman Number to Integer and vice versa",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/roman-to-integer/"
-    },
-    {
-        "id": "8LC",
-        "type": "problem",
-        "title": "Implement ATOI/STRSTR",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/string-to-integer-atoi/"
-    },
-    {
-        "id": "14LC",
-        "type": "problem",
-        "title": "Longest Common Prefix",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/longest-common-prefix/"
-    },
-    {
-        "id": "686LC",
-        "type": "problem",
-        "title": "Rabin Karp",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation"
-    },
-    {
-        "id": "28LC",
-        "type": "problem",
-        "title": "Z-Function",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
-    },
-    {
-        "id": "28LC",
-        "type": "problem",
-        "title": "KMP algo / LPS(pi) array",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
-    },
-    {
-        "id": "363IB",
-        "type": "problem",
-        "title": "Minimum characters needed to be inserted in the beginning to make it palindromic",
-        "platform": "IB",
-        "href": "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/"
-    },
-    {
-        "id": "242LC",
-        "type": "problem",
-        "title": "Check for Anagrams",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/valid-anagram/"
-    },
-    {
-        "id": "38LC",
-        "type": "problem",
-        "title": "Count and say",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/count-and-say/"
-    },
-    {
-        "id": "165LC",
-        "type": "problem",
-        "title": "Compare version numbers",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/compare-version-numbers/"
-    },
-    {
-        "id": "94LC",
-        "type": "problem",
-        "title": "Inorder Traversal",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
-    },
-    {
-        "id": "144LC",
-        "type": "problem",
-        "title": "Preorder Traversal",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
-    },
-    {
-        "id": "145LC",
-        "type": "problem",
-        "title": "Postorder Traversal",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/binary-tree-postorder-traversal/"
-    },
-    {
-        "id": "94LC",
-        "type": "problem",
-        "title": "Morris Inorder Traversal",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
-    },
-    {
-        "id": "17201C360",
-        "type": "problem",
-        "title": "Morris Preorder Traversal",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/preorder-traversal_3838888"
-    },
-    {
-        "id": "700174GFG",
-        "type": "problem",
-        "title": "LeftView Of Binary Tree",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1"
-    },
-    {
-        "id": "700160GFG",
-        "type": "problem",
-        "title": "Bottom View of Binary Tree",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
-    },
-    {
-        "id": "700490GFG",
-        "type": "problem",
-        "title": "Top View of Binary Tree",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
-    },
-    {
-        "id": "9238C360",
-        "type": "problem",
-        "title": "Preorder inorder postorder in a single traversal",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/981269"
-    },
-    {
-        "id": "987LC",
-        "type": "problem",
-        "title": "Vertical order traversal",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/"
-    },
-    {
-        "id": "700553GFG",
-        "type": "problem",
-        "title": "Root to Node Path in Binary Tree",
-        "platform": "GFG",
-        "href": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1"
-    },
-    {
-        "id": "662LC",
-        "type": "problem",
-        "title": "Max width of a Binary Tree",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/maximum-width-of-binary-tree/"
-    },
-    {
-        "id": "102LC",
-        "type": "problem",
-        "title": "Level order Traversal / Level order traversal in spiral form",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
-    },
-    {
-        "id": "104LC",
-        "type": "problem",
-        "title": "Height of a Binary Tree",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
-    },
-    {
-        "id": "543LC",
-        "type": "problem",
-        "title": "Diameter of Binary Tree",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/diameter-of-binary-tree/"
-    },
-    {
-        "id": "110LC",
-        "type": "problem",
-        "title": "Check if the Binary tree is height-balanced or not",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/balanced-binary-tree/"
-    },
-    {
-        "id": "236LC",
-        "type": "problem",
-        "title": "LCA in Binary Tree",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
-    },
-    {
-        "id": "100LC",
-        "type": "problem",
-        "title": "Check if two trees are identical or not",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/same-tree/"
-    },
-    {
-        "id": "103LC",
-        "type": "problem",
-        "title": "Zig Zag Traversal of Binary Tree",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/"
-    },
-    {
-        "id": "545LC",
-        "type": "problem",
-        "title": "Boundary Traversal of Binary Tree",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/boundary-of-binary-tree/"
-    },
-    {
-        "id": "124LC",
-        "type": "problem",
-        "title": "Maximum path sum",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
-    },
-    {
-        "id": "105LC",
-        "type": "problem",
-        "title": "Construct Binary Tree from inorder and preorder",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
-    },
-    {
-        "id": "106LC",
-        "type": "problem",
-        "title": "Construct Binary Tree from Inorder and Postorder",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
-    },
-    {
-        "id": "101LC",
-        "type": "problem",
-        "title": "Symmetric Binary Tree",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/symmetric-tree/"
-    },
-    {
-        "id": "114LC",
-        "type": "problem",
-        "title": "Flatten Binary Tree to LinkedList",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
-    },
-    {
-        "id": "700155GFG",
-        "type": "problem",
-        "title": "Check if Binary Tree is the mirror of itself or not",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/mirror-tree/1"
-    },
-    {
-        "id": "700618GFG",
-        "type": "problem",
-        "title": "Check for Children Sum Property",
-        "platform": "GFG",
-        "href": "https://www.geeksforgeeks.org/problems/children-sum-parent/1"
-    },
-    {
-        "id": "116LC",
-        "type": "problem",
-        "title": "Populate Next Right pointers of Tree",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/"
-    },
-    {
-        "id": "700LC",
-        "type": "problem",
-        "title": "Search given Key in BST",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
-    },
-    {
-        "id": "108LC",
-        "type": "problem",
-        "title": "Construct BST from given keys",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
-    },
-    {
-        "id": "1008LC",
-        "type": "problem",
-        "title": "Construct a BST from a preorder traversal",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/"
-    },
-    {
-        "id": "98LC",
-        "type": "problem",
-        "title": "Check is a BT is BST or not",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/validate-binary-search-tree/"
-    },
-    {
-        "id": "235LC",
-        "type": "problem",
-        "title": "Find LCA of two nodes in BST",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
-    },
-    {
-        "id": "700614GFG",
-        "type": "problem",
-        "title": "Find the inorder predecessor/successor of a given Key in BST.",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1"
-    },
-    {
-        "id": "8870C360",
-        "type": "problem",
-        "title": "Floor in a BST",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/floor-from-bst_920457"
-    },
-    {
-        "id": "8877C360",
-        "type": "problem",
-        "title": "Ceil in a BST",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/ceil-from-bst_920464"
-    },
-    {
-        "id": "230LC",
-        "type": "problem",
-        "title": "Find K-th smallest element in BST",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
-    },
-    {
-        "id": "700427GFG",
-        "type": "problem",
-        "title": "Find K-th largest element in BST",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1"
-    },
-    {
-        "id": "653LC",
-        "type": "problem",
-        "title": "Find a pair with a given sum in BST",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
-    },
-    {
-        "id": "173LC",
-        "type": "problem",
-        "title": "BST iterator",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/binary-search-tree-iterator/"
-    },
-    {
-        "id": "1373LC",
-        "type": "problem",
-        "title": "Size of the largest BST in a Binary Tree",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/"
-    },
-    {
-        "id": "297LC",
-        "type": "problem",
-        "title": "Serialize and deserialize Binary Tree",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
-    },
-    {
-        "id": "114LC",
-        "type": "problem",
-        "title": "Binary Tree to Double Linked List",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
-    },
-    {
-        "id": "295LC",
-        "type": "problem",
-        "title": "Find median in a stream of running integers.",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/find-median-from-data-stream/"
-    },
-    {
-        "id": "703LC",
-        "type": "problem",
-        "title": "K-th largest element in a stream.",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/kth-largest-element-in-a-stream/"
-    },
-    {
-        "id": "333IB",
-        "type": "problem",
-        "title": "Distinct numbers in Window.",
-        "platform": "IB",
-        "href": "https://www.interviewbit.com/problems/distinct-numbers-in-window/"
-    },
-    {
-        "id": "215LC",
-        "type": "problem",
-        "title": "K-th largest element in an unsorted array.",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
-    },
-    {
-        "id": "733LC",
-        "type": "problem",
-        "title": "Flood-fill Algorithm",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/flood-fill/"
-    },
-    {
-        "id": "133LC",
-        "type": "problem",
-        "title": "Clone a graph (Not that easy as it looks)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/clone-graph/"
-    },
-    {
-        "id": "700203GFG",
-        "type": "problem",
-        "title": "DFS",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1"
-    },
-    {
-        "id": "700217GFG",
-        "type": "problem",
-        "title": "BFS",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
-    },
-    {
-        "id": "207LC",
-        "type": "problem",
-        "title": "Detect A cycle in Undirected Graph using BFS",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/course-schedule/"
-    },
-    {
-        "id": "207LC",
-        "type": "problem",
-        "title": "Detect A cycle in Undirected Graph using DFS",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/course-schedule/"
-    },
-    {
-        "id": "207LC",
-        "type": "problem",
-        "title": "Detect A cycle in a Directed Graph using DFS",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/course-schedule/"
-    },
-    {
-        "id": "207LC",
-        "type": "problem",
-        "title": "Detect A cycle in a Directed Graph using BFS",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/course-schedule/"
-    },
-    {
-        "id": "700255GFG",
-        "type": "problem",
-        "title": "Topological Sort BFS",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/topological-sort/1"
-    },
-    {
-        "id": "700255GFG",
-        "type": "problem",
-        "title": "Topological Sort DFS",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/topological-sort/1"
-    },
-    {
-        "id": "200LC",
-        "type": "problem",
-        "title": "Number of islands(Do in Grid and Graph Both)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/number-of-islands/"
-    },
-    {
-        "id": "785LC",
-        "type": "problem",
-        "title": "Bipartite Check using BFS",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/is-graph-bipartite/"
-    },
-    {
-        "id": "785LC",
-        "type": "problem",
-        "title": "Bipartite Check using DFS",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/is-graph-bipartite/"
-    },
-    {
-        "id": "1520LC",
-        "type": "problem",
-        "title": "Strongly Connected Component(using KosaRajuÎ“Ã‡Ã–s algo)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on"
-    },
-    {
-        "id": "700334GFG",
-        "type": "problem",
-        "title": "DijkstraÎ“Ã‡Ã–s Algorithm",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
-    },
-    {
-        "id": "706218GFG",
-        "type": "problem",
-        "title": "Bellman-Ford Algo",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/"
-    },
-    {
-        "id": "705716GFG",
-        "type": "problem",
-        "title": "Floyd Warshall Algorithm",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1"
-    },
-    {
-        "id": "700343GFG",
-        "type": "problem",
-        "title": "MST using Prim's Algo",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1"
-    },
-    {
-        "id": "700343GFG",
-        "type": "problem",
-        "title": "MST using KruskalÎ“Ã‡Ã–s Algo",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1"
-    },
-    {
-        "id": "152LC",
-        "type": "problem",
-        "title": "Max Product Subarray",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/maximum-product-subarray/"
-    },
-    {
-        "id": "300LC",
-        "type": "problem",
-        "title": "Longest Increasing Subsequence",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/longest-increasing-subsequence/"
-    },
-    {
-        "id": "1143LC",
-        "type": "problem",
-        "title": "Longest Common Subsequence",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/longest-common-subsequence/"
-    },
-    {
-        "id": "9670C360",
-        "type": "problem",
-        "title": "0-1 Knapsack",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/1072980"
-    },
-    {
-        "id": "72LC",
-        "type": "problem",
-        "title": "Edit Distance",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/edit-distance/"
-    },
-    {
-        "id": "704037GFG",
-        "type": "problem",
-        "title": "Maximum sum increasing subsequence",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1"
-    },
-    {
-        "id": "704556GFG",
-        "type": "problem",
-        "title": "Matrix Chain Multiplication",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1"
-    },
-    {
-        "id": "64LC",
-        "type": "problem",
-        "title": "Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/minimum-path-sum/"
-    },
-    {
-        "id": "322LC",
-        "type": "problem",
-        "title": "Coin change",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/coin-change/"
-    },
-    {
-        "id": "416LC",
-        "type": "problem",
-        "title": "Subset Sum",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/partition-equal-subset-sum/"
-    },
-    {
-        "id": "1547LC",
-        "type": "problem",
-        "title": "Rod Cutting",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/"
-    },
-    {
-        "id": "701420GFG",
-        "type": "problem",
-        "title": "Egg Dropping",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1"
-    },
-    {
-        "id": "139LC",
-        "type": "problem",
-        "title": "Word Break",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/word-break/"
-    },
-    {
-        "id": "704187GFG",
-        "type": "problem",
-        "title": "Palindrome Partitioning (MCM Variation)",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1"
-    },
-    {
-        "id": "701367GFG",
-        "type": "problem",
-        "title": "Maximum profit in Job scheduling",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1"
-    },
-    {
-        "id": "208LC",
-        "type": "problem",
-        "title": "Implement Trie (Prefix Tree)",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/implement-trie-prefix-tree/"
-    },
-    {
-        "id": "11836C360",
-        "type": "problem",
-        "title": "Implement Trie - 2 (Prefix Tree)",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/implement-trie_1387095"
-    },
-    {
-        "id": "15725C360",
-        "type": "problem",
-        "title": "Longest String with All Prefixes",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/complete-string_2687860"
-    },
-    {
-        "id": "9428C360",
-        "type": "problem",
-        "title": "Number of Distinct Substrings in a String",
-        "platform": "C360",
-        "href": "https://www.naukri.com/code360/problems/count-distinct-substrings_985292"
-    },
-    {
-        "id": "704428GFG",
-        "type": "problem",
-        "title": "Power Set (this is very important)",
-        "platform": "GFG",
-        "href": "https://practice.geeksforgeeks.org/problems/power-set4302/1"
-    },
-    {
-        "id": "421LC",
-        "type": "problem",
-        "title": "Maximum XOR of two numbers in an array",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/"
-    },
-    {
-        "id": "1707LC",
-        "type": "problem",
-        "title": "Maximum XOR With an Element From Array",
-        "platform": "LC",
-        "href": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/"
-    },
-    {
-        "id": "53efce83-b7d1-5934-9c6e-9d2c02c1523aGFG",
+        "title": "Fractional Knapsack",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/",
+        "original_title": "Greedy algorithm to find minimum number of coins",
+        "step_title": "Greedy Algorithm",
+        "expanded_url": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/",
         "type": "tutorial",
-        "title": "Greedy algorithm to find minimum number of coins",
-        "platform": "GFG",
-        "href": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/"
+        "id": "53efce83-b7d1-5934-9c6e-9d2c02c1523aGFG",
+        "title": "Coin Change &#8211; Minimum Coins to Make Sum | GeeksforGeeks",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/assign-cookies/",
+        "original_title": "Assign Cookies",
+        "step_title": "Greedy Algorithm",
+        "expanded_url": "https://leetcode.com/problems/assign-cookies/",
+        "expanded_stripped_url": "https://leetcode.com/problems/assign-cookies/",
+        "type": "problem",
+        "id": "455LC",
+        "title": "Assign Cookies",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/subset-sums2234/1",
+        "original_title": "Subset Sums",
+        "step_title": "Recursion",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/subset-sums2234/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/subset-sums2234/1",
+        "type": "problem",
+        "id": "704723GFG",
+        "title": "Subset Sums",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/subsets-ii/",
+        "original_title": "Subset-II",
+        "step_title": "Recursion",
+        "expanded_url": "https://leetcode.com/problems/subsets-ii/",
+        "expanded_stripped_url": "https://leetcode.com/problems/subsets-ii/",
+        "type": "problem",
+        "id": "90LC",
+        "title": "Subsets II",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/combination-sum/",
+        "original_title": "Combination sum-1",
+        "step_title": "Recursion",
+        "expanded_url": "https://leetcode.com/problems/combination-sum/",
+        "expanded_stripped_url": "https://leetcode.com/problems/combination-sum/",
+        "type": "problem",
+        "id": "39LC",
+        "title": "Combination Sum",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/combination-sum-ii/",
+        "original_title": "Combination sum-2",
+        "step_title": "Recursion",
+        "expanded_url": "https://leetcode.com/problems/combination-sum-ii/",
+        "expanded_stripped_url": "https://leetcode.com/problems/combination-sum-ii/",
+        "type": "problem",
+        "id": "40LC",
+        "title": "Combination Sum II",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/palindrome-partitioning/",
+        "original_title": "Palindrome Partitioning",
+        "step_title": "Recursion",
+        "expanded_url": "https://leetcode.com/problems/palindrome-partitioning/",
+        "expanded_stripped_url": "https://leetcode.com/problems/palindrome-partitioning/",
+        "type": "problem",
+        "id": "131LC",
+        "title": "Palindrome Partitioning",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/permutation-sequence/",
+        "original_title": "K-th permutation Sequence",
+        "step_title": "Recursion",
+        "expanded_url": "https://leetcode.com/problems/permutation-sequence/",
+        "expanded_stripped_url": "https://leetcode.com/problems/permutation-sequence/",
+        "type": "problem",
+        "id": "60LC",
+        "title": "Permutation Sequence",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/permutations/",
+        "original_title": "Print all permutations of a string/array",
+        "step_title": "Recursion and Backtracking",
+        "expanded_url": "https://leetcode.com/problems/permutations/",
+        "expanded_stripped_url": "https://leetcode.com/problems/permutations/",
+        "type": "problem",
+        "id": "46LC",
+        "title": "Permutations",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/n-queens/",
+        "original_title": "N queens Problem",
+        "step_title": "Recursion and Backtracking",
+        "expanded_url": "https://leetcode.com/problems/n-queens/",
+        "expanded_stripped_url": "https://leetcode.com/problems/n-queens/",
+        "type": "problem",
+        "id": "51LC",
+        "title": "N-Queens",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/sudoku-solver/",
+        "original_title": "Sudoko Solver",
+        "step_title": "Recursion and Backtracking",
+        "expanded_url": "https://leetcode.com/problems/sudoku-solver/",
+        "expanded_stripped_url": "https://leetcode.com/problems/sudoku-solver/",
+        "type": "problem",
+        "id": "37LC",
+        "title": "Sudoku Solver",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#",
+        "original_title": "M Coloring Problem",
+        "step_title": "Recursion and Backtracking",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
+        "type": "problem",
+        "id": "701374GFG",
+        "title": "M-Coloring Problem",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+        "original_title": "Rat in a Maze",
+        "step_title": "Recursion and Backtracking",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+        "type": "problem",
+        "id": "700408GFG",
+        "title": "Rat in a Maze Problem - I",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://bit.ly/3FxgW92",
+        "original_title": "Word Break (print all ways)",
+        "step_title": "Recursion and Backtracking",
+        "expanded_url": "https://www.naukri.com/code360/problems/983635?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/983635",
+        "type": "problem",
+        "id": "9373C360",
+        "title": "Word Break II",
+        "platform": "C360"
+    },
+    {
+        "url": "https://bit.ly/3rj7Ib1",
+        "original_title": "The N-th root of an integer",
+        "step_title": "Binary Search",
+        "expanded_url": "https://www.naukri.com/code360/problems/1062679?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/1062679",
+        "type": "problem",
+        "id": "9580C360",
+        "title": "Find Nth Root Of M",
+        "platform": "C360"
+    },
+    {
+        "url": "https://bit.ly/3PvwuPk",
+        "original_title": "Matrix Median",
+        "step_title": "Binary Search",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=median-in-a-row-wise-sorted-matrix",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+        "type": "problem",
+        "id": "704712GFG",
+        "title": "Median in a row-wise sorted Matrix",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "original_title": "Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)",
+        "step_title": "Binary Search",
+        "expanded_url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "expanded_stripped_url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "type": "problem",
+        "id": "540LC",
+        "title": "Single Element in a Sorted Array",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "original_title": "Search element in a sorted and rotated array/ find pivot where it is rotated",
+        "step_title": "Binary Search",
+        "expanded_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "expanded_stripped_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "type": "problem",
+        "id": "33LC",
+        "title": "Search in Rotated Sorted Array",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "original_title": "Median of 2 sorted arrays",
+        "step_title": "Binary Search",
+        "expanded_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "expanded_stripped_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "type": "problem",
+        "id": "4LC",
+        "title": "Median of Two Sorted Arrays",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
+        "original_title": "K-th element of two sorted arrays",
+        "step_title": "Binary Search",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
+        "type": "problem",
+        "id": "703253GFG",
+        "title": "K-th element of two  Arrays",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://www.interviewbit.com/problems/allocate-books/",
+        "original_title": "Allocate Minimum Number of Pages",
+        "step_title": "Binary Search",
+        "expanded_url": "https://www.interviewbit.com/problems/allocate-books/",
+        "expanded_stripped_url": "https://www.interviewbit.com/problems/allocate-books/",
+        "type": "problem",
+        "id": "270IB",
+        "title": "Allocate Books",
+        "platform": "IB"
+    },
+    {
+        "url": "https://www.spoj.com/problems/AGGRCOW/",
+        "original_title": "Aggressive Cows",
+        "step_title": "Binary Search",
+        "expanded_url": "https://www.spoj.com/problems/AGGRCOW/",
+        "expanded_stripped_url": "https://www.spoj.com/problems/AGGRCOW/",
+        "type": "problem",
+        "id": "AGGRCOWSPOJ",
+        "title": "Aggressive cows",
+        "platform": "SPOJ"
+    },
+    {
+        "url": "https://www.codingninjas.com/codestudio/problems/min-heap_4691801?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "original_title": "Max heap, Min Heap Implementation (Only for interviews)",
+        "step_title": "Heaps",
+        "expanded_url": "https://www.naukri.com/code360/problems/min-heap_4691801?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/min-heap_4691801",
+        "type": "problem",
+        "id": "20655C360",
+        "title": "Min Heap",
+        "platform": "C360"
+    },
+    {
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "original_title": "Kth Largest Element",
+        "step_title": "Heaps",
+        "expanded_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "expanded_stripped_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "type": "problem",
+        "id": "215LC",
+        "title": "Kth Largest Element in an Array",
+        "platform": "LC"
+    },
+    {
+        "url": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
+        "original_title": "Maximum Sum Combination",
+        "step_title": "Heaps",
+        "expanded_url": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
+        "expanded_stripped_url": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
+        "type": "problem",
+        "id": "11051IB",
+        "title": "Maximum Sum Combinations",
+        "platform": "IB"
+    },
+    {
+        "url": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "original_title": "Find Median from Data Stream",
+        "step_title": "Heaps",
+        "expanded_url": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "expanded_stripped_url": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "type": "problem",
+        "id": "295LC",
+        "title": "Find Median from Data Stream",
+        "platform": "LC"
+    },
+    {
+        "url": "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379",
+        "original_title": "Merge K sorted arrays",
+        "step_title": "Heaps",
+        "expanded_url": "https://www.naukri.com/code360/problems/merge-k-sorted-arrays_975379",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/merge-k-sorted-arrays_975379",
+        "type": "problem",
+        "id": "9108C360",
+        "title": "Merge K Sorted Arrays",
+        "platform": "C360"
+    },
+    {
+        "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "original_title": "K most frequent elements",
+        "step_title": "Heaps",
+        "expanded_url": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "expanded_stripped_url": "https://leetcode.com/problems/top-k-frequent-elements/",
+        "type": "problem",
+        "id": "347LC",
+        "title": "Top K Frequent Elements",
+        "platform": "LC"
+    },
+    {
+        "url": "https://bit.ly/3QPJ39w",
+        "original_title": "Implement Stack using Arrays",
+        "step_title": "Stack and Queue",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-stack-using-array",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1",
+        "type": "problem",
+        "id": "700208GFG",
+        "title": "Implement stack using array",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://bit.ly/3C9HLli",
+        "original_title": "Implement Queue using Arrays",
+        "step_title": "Stack and Queue",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-queue-using-array",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1",
+        "type": "problem",
+        "id": "700211GFG",
+        "title": "Queue Using Array",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/implement-stack-using-queues/",
+        "original_title": "Implement Stack using Queue (using single queue)",
+        "step_title": "Stack and Queue",
+        "expanded_url": "https://leetcode.com/problems/implement-stack-using-queues/",
+        "expanded_stripped_url": "https://leetcode.com/problems/implement-stack-using-queues/",
+        "type": "problem",
+        "id": "225LC",
+        "title": "Implement Stack using Queues",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "original_title": "Implement Queue using Stack (0(1) amortized method)",
+        "step_title": "Stack and Queue",
+        "expanded_url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "expanded_stripped_url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "type": "problem",
+        "id": "232LC",
+        "title": "Implement Queue using Stacks",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/valid-parentheses/",
+        "original_title": "Check for balanced parentheses",
+        "step_title": "Stack and Queue",
+        "expanded_url": "https://leetcode.com/problems/valid-parentheses/",
+        "expanded_stripped_url": "https://leetcode.com/problems/valid-parentheses/",
+        "type": "problem",
+        "id": "20LC",
+        "title": "Valid Parentheses",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/next-greater-element-i/",
+        "original_title": "Next Greater Element",
+        "step_title": "Stack and Queue",
+        "expanded_url": "https://leetcode.com/problems/next-greater-element-i/",
+        "expanded_stripped_url": "https://leetcode.com/problems/next-greater-element-i/",
+        "type": "problem",
+        "id": "496LC",
+        "title": "Next Greater Element I",
+        "platform": "LC"
+    },
+    {
+        "url": "https://bit.ly/3nptF7k",
+        "original_title": "Sort a Stack",
+        "step_title": "Stack and Queue",
+        "expanded_url": "https://www.naukri.com/code360/problems/sort-a-stack_985275?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/sort-a-stack_985275",
+        "type": "problem",
+        "id": "9413C360",
+        "title": "Sort a Stack",
+        "platform": "C360"
+    },
+    {
+        "url": "https://www.interviewbit.com/problems/nearest-smaller-element/",
+        "original_title": "Next Smaller Element",
+        "step_title": "Stack and Queue Part-II",
+        "expanded_url": "https://www.interviewbit.com/problems/nearest-smaller-element/",
+        "expanded_stripped_url": "https://www.interviewbit.com/problems/nearest-smaller-element/",
+        "type": "problem",
+        "id": "332IB",
+        "title": "Nearest Smaller Element",
+        "platform": "IB"
+    },
+    {
+        "url": "https://leetcode.com/problems/lru-cache/",
+        "original_title": "LRU cache (IMPORTANT)",
+        "step_title": "Stack and Queue Part-II",
+        "expanded_url": "https://leetcode.com/problems/lru-cache/",
+        "expanded_stripped_url": "https://leetcode.com/problems/lru-cache/",
+        "type": "problem",
+        "id": "146LC",
+        "title": "LRU Cache",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/lfu-cache/",
+        "original_title": "LFU cache",
+        "step_title": "Stack and Queue Part-II",
+        "expanded_url": "https://leetcode.com/problems/lfu-cache/",
+        "expanded_stripped_url": "https://leetcode.com/problems/lfu-cache/",
+        "type": "problem",
+        "id": "460LC",
+        "title": "LFU Cache",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "original_title": "Largest rectangle in a histogram",
+        "step_title": "Stack and Queue Part-II",
+        "expanded_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "expanded_stripped_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+        "type": "problem",
+        "id": "84LC",
+        "title": "Largest Rectangle in Histogram",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/sliding-window-maximum/",
+        "original_title": "Sliding Window maximum",
+        "step_title": "Stack and Queue Part-II",
+        "expanded_url": "https://leetcode.com/problems/sliding-window-maximum/",
+        "expanded_stripped_url": "https://leetcode.com/problems/sliding-window-maximum/",
+        "type": "problem",
+        "id": "239LC",
+        "title": "Sliding Window Maximum",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/min-stack/",
+        "original_title": "Implement Min Stack",
+        "step_title": "Stack and Queue Part-II",
+        "expanded_url": "https://leetcode.com/problems/min-stack/",
+        "expanded_stripped_url": "https://leetcode.com/problems/min-stack/",
+        "type": "problem",
+        "id": "155LC",
+        "title": "Min Stack",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/rotting-oranges/",
+        "original_title": "Rotten Orange (Using BFS)",
+        "step_title": "Stack and Queue Part-II",
+        "expanded_url": "https://leetcode.com/problems/rotting-oranges/",
+        "expanded_stripped_url": "https://leetcode.com/problems/rotting-oranges/",
+        "type": "problem",
+        "id": "994LC",
+        "title": "Rotting Oranges",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/online-stock-span/",
+        "original_title": "Stock span problem",
+        "step_title": "Stack and Queue Part-II",
+        "expanded_url": "https://leetcode.com/problems/online-stock-span/",
+        "expanded_stripped_url": "https://leetcode.com/problems/online-stock-span/",
+        "type": "problem",
+        "id": "901LC",
+        "title": "Online Stock Span",
+        "platform": "LC"
+    },
+    {
+        "url": "https://bit.ly/3zUYLZz",
+        "original_title": "Find the maximum of minimums of every window size",
+        "step_title": "Stack and Queue Part-II",
+        "expanded_url": "https://www.naukri.com/code360/problems/max-of-min_982935?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/max-of-min_982935",
+        "type": "problem",
+        "id": "9337C360",
+        "title": "Maximum of minimum for every window size",
+        "platform": "C360"
+    },
+    {
+        "url": "https://www.lintcode.com/problem/645/",
+        "original_title": "The Celebrity Problem",
+        "step_title": "Stack and Queue Part-II",
+        "expanded_url": "https://www.lintcode.com/problem/645/",
+        "expanded_stripped_url": "https://www.lintcode.com/problem/645/",
+        "type": "problem",
+        "id": "645LINT",
+        "title": "Find the Celebrity",
+        "platform": "LINT"
+    },
+    {
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "original_title": "Reverse Words in a String",
+        "step_title": "String",
+        "expanded_url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "expanded_stripped_url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+        "type": "problem",
+        "id": "151LC",
+        "title": "Reverse Words in a String",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "original_title": "Longest Palindrome in a string",
+        "step_title": "String",
+        "expanded_url": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "expanded_stripped_url": "https://leetcode.com/problems/longest-palindromic-substring/",
+        "type": "problem",
+        "id": "5LC",
+        "title": "Longest Palindromic Substring",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/roman-to-integer/",
+        "original_title": "Roman Number to Integer and vice versa",
+        "step_title": "String",
+        "expanded_url": "https://leetcode.com/problems/roman-to-integer/",
+        "expanded_stripped_url": "https://leetcode.com/problems/roman-to-integer/",
+        "type": "problem",
+        "id": "13LC",
+        "title": "Roman to Integer",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "original_title": "Implement ATOI/STRSTR",
+        "step_title": "String",
+        "expanded_url": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "expanded_stripped_url": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "type": "problem",
+        "id": "8LC",
+        "title": "String to Integer (atoi)",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/longest-common-prefix/",
+        "original_title": "Longest Common Prefix",
+        "step_title": "String",
+        "expanded_url": "https://leetcode.com/problems/longest-common-prefix/",
+        "expanded_stripped_url": "https://leetcode.com/problems/longest-common-prefix/",
+        "type": "problem",
+        "id": "14LC",
+        "title": "Longest Common Prefix",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+        "original_title": "Rabin Karp",
+        "step_title": "String",
+        "expanded_url": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+        "expanded_stripped_url": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+        "type": "problem",
+        "id": "686LC",
+        "title": "Repeated String Match",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "original_title": "Z-Function",
+        "step_title": "String Part-II",
+        "expanded_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "expanded_stripped_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "type": "problem",
+        "id": "28LC",
+        "title": "Find the Index of the First Occurrence in a String",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "original_title": "KMP algo / LPS(pi) array",
+        "step_title": "String Part-II",
+        "expanded_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "expanded_stripped_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+        "type": "problem",
+        "id": "28LC",
+        "title": "Find the Index of the First Occurrence in a String",
+        "platform": "LC"
+    },
+    {
+        "url": "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/",
+        "original_title": "Minimum characters needed to be inserted in the beginning to make it palindromic",
+        "step_title": "String Part-II",
+        "expanded_url": "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/",
+        "expanded_stripped_url": "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/",
+        "type": "problem",
+        "id": "363IB",
+        "title": "Minimum Characters required to make a String Palindromic",
+        "platform": "IB"
+    },
+    {
+        "url": "https://leetcode.com/problems/valid-anagram/",
+        "original_title": "Check for Anagrams",
+        "step_title": "String Part-II",
+        "expanded_url": "https://leetcode.com/problems/valid-anagram/",
+        "expanded_stripped_url": "https://leetcode.com/problems/valid-anagram/",
+        "type": "problem",
+        "id": "242LC",
+        "title": "Valid Anagram",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/count-and-say/",
+        "original_title": "Count and say",
+        "step_title": "String Part-II",
+        "expanded_url": "https://leetcode.com/problems/count-and-say/",
+        "expanded_stripped_url": "https://leetcode.com/problems/count-and-say/",
+        "type": "problem",
+        "id": "38LC",
+        "title": "Count and Say",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/compare-version-numbers/",
+        "original_title": "Compare version numbers",
+        "step_title": "String Part-II",
+        "expanded_url": "https://leetcode.com/problems/compare-version-numbers/",
+        "expanded_stripped_url": "https://leetcode.com/problems/compare-version-numbers/",
+        "type": "problem",
+        "id": "165LC",
+        "title": "Compare Version Numbers",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "original_title": "Inorder Traversal",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "type": "problem",
+        "id": "94LC",
+        "title": "Binary Tree Inorder Traversal",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "original_title": "Preorder Traversal",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "type": "problem",
+        "id": "144LC",
+        "title": "Binary Tree Preorder Traversal",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "original_title": "Postorder Traversal",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "type": "problem",
+        "id": "145LC",
+        "title": "Binary Tree Postorder Traversal",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "original_title": "Morris Inorder Traversal",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "type": "problem",
+        "id": "94LC",
+        "title": "Binary Tree Inorder Traversal",
+        "platform": "LC"
+    },
+    {
+        "url": "https://www.codingninjas.com/codestudio/problems/preorder-traversal_3838888?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "original_title": "Morris Preorder Traversal",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://www.naukri.com/code360/problems/preorder-traversal_3838888?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/preorder-traversal_3838888",
+        "type": "problem",
+        "id": "17201C360",
+        "title": "Preorder Traversal",
+        "platform": "C360"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+        "original_title": "LeftView Of Binary Tree",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+        "type": "problem",
+        "id": "700174GFG",
+        "title": "Left View of Binary Tree",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+        "original_title": "Bottom View of Binary Tree",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+        "type": "problem",
+        "id": "700160GFG",
+        "title": "Bottom View of Binary Tree",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+        "original_title": "Top View of Binary Tree",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+        "type": "problem",
+        "id": "700490GFG",
+        "title": "Top View of Binary Tree",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://bit.ly/3rlXpTX",
+        "original_title": "Preorder inorder postorder in a single traversal",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://www.naukri.com/code360/problems/981269?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/981269",
+        "type": "problem",
+        "id": "9238C360",
+        "title": "Tree Traversals",
+        "platform": "C360"
+    },
+    {
+        "url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+        "original_title": "Vertical order traversal",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+        "type": "problem",
+        "id": "987LC",
+        "title": "Vertical Order Traversal of a Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://bit.ly/3QA600D",
+        "original_title": "Root to Node Path in Binary Tree",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=root-to-leaf-paths",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1",
+        "type": "problem",
+        "id": "700553GFG",
+        "title": "Root to Leaf Paths",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+        "original_title": "Max width of a Binary Tree",
+        "step_title": "Binary Tree",
+        "expanded_url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+        "type": "problem",
+        "id": "662LC",
+        "title": "Maximum Width of Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "original_title": "Level order Traversal / Level order traversal in spiral form",
+        "step_title": "Binary Tree part-II",
+        "expanded_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+        "type": "problem",
+        "id": "102LC",
+        "title": "Binary Tree Level Order Traversal",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "original_title": "Height of a Binary Tree",
+        "step_title": "Binary Tree part-II",
+        "expanded_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "type": "problem",
+        "id": "104LC",
+        "title": "Maximum Depth of Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "original_title": "Diameter of Binary Tree",
+        "step_title": "Binary Tree part-II",
+        "expanded_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "type": "problem",
+        "id": "543LC",
+        "title": "Diameter of Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/balanced-binary-tree/",
+        "original_title": "Check if the Binary tree is height-balanced or not",
+        "step_title": "Binary Tree part-II",
+        "expanded_url": "https://leetcode.com/problems/balanced-binary-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/balanced-binary-tree/",
+        "type": "problem",
+        "id": "110LC",
+        "title": "Balanced Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "original_title": "LCA in Binary Tree",
+        "step_title": "Binary Tree part-II",
+        "expanded_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+        "type": "problem",
+        "id": "236LC",
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/same-tree/",
+        "original_title": "Check if two trees are identical or not",
+        "step_title": "Binary Tree part-II",
+        "expanded_url": "https://leetcode.com/problems/same-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/same-tree/",
+        "type": "problem",
+        "id": "100LC",
+        "title": "Same Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "original_title": "Zig Zag Traversal of Binary Tree",
+        "step_title": "Binary Tree part-II",
+        "expanded_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+        "type": "problem",
+        "id": "103LC",
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/boundary-of-binary-tree/",
+        "original_title": "Boundary Traversal of Binary Tree",
+        "step_title": "Binary Tree part-II",
+        "expanded_url": "https://leetcode.com/problems/boundary-of-binary-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/boundary-of-binary-tree/",
+        "type": "problem",
+        "id": "545LC",
+        "title": "Boundary of Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "original_title": "Maximum path sum",
+        "step_title": "Binary Tree part-III",
+        "expanded_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "type": "problem",
+        "id": "124LC",
+        "title": "Binary Tree Maximum Path Sum",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "original_title": "Construct Binary Tree from inorder and preorder",
+        "step_title": "Binary Tree part-III",
+        "expanded_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "expanded_stripped_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+        "type": "problem",
+        "id": "105LC",
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+        "original_title": "Construct Binary Tree from Inorder and Postorder",
+        "step_title": "Binary Tree part-III",
+        "expanded_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+        "expanded_stripped_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+        "type": "problem",
+        "id": "106LC",
+        "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/symmetric-tree/",
+        "original_title": "Symmetric Binary Tree",
+        "step_title": "Binary Tree part-III",
+        "expanded_url": "https://leetcode.com/problems/symmetric-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/symmetric-tree/",
+        "type": "problem",
+        "id": "101LC",
+        "title": "Symmetric Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "original_title": "Flatten Binary Tree to LinkedList",
+        "step_title": "Binary Tree part-III",
+        "expanded_url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "expanded_stripped_url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "type": "problem",
+        "id": "114LC",
+        "title": "Flatten Binary Tree to Linked List",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
+        "original_title": "Check if Binary Tree is the mirror of itself or not",
+        "step_title": "Binary Tree part-III",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/mirror-tree/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/mirror-tree/1",
+        "type": "problem",
+        "id": "700155GFG",
+        "title": "Mirror Tree",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://bit.ly/3dEr73g",
+        "original_title": "Check for Children Sum Property",
+        "step_title": "Binary Tree part-III",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=hildren-sum-parent",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
+        "type": "problem",
+        "id": "700618GFG",
+        "title": "Children Sum in a Binary Tree",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        "original_title": "Populate Next Right pointers of Tree",
+        "step_title": "Binary Search Tree",
+        "expanded_url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        "expanded_stripped_url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
+        "type": "problem",
+        "id": "116LC",
+        "title": "Populating Next Right Pointers in Each Node",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+        "original_title": "Search given Key in BST",
+        "step_title": "Binary Search Tree",
+        "expanded_url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+        "type": "problem",
+        "id": "700LC",
+        "title": "Search in a Binary Search Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+        "original_title": "Construct BST from given keys",
+        "step_title": "Binary Search Tree",
+        "expanded_url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+        "type": "problem",
+        "id": "108LC",
+        "title": "Convert Sorted Array to Binary Search Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+        "original_title": "Construct a BST from a preorder traversal",
+        "step_title": "Binary Search Tree",
+        "expanded_url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+        "expanded_stripped_url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+        "type": "problem",
+        "id": "1008LC",
+        "title": "Construct Binary Search Tree from Preorder Traversal",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "original_title": "Check is a BT is BST or not",
+        "step_title": "Binary Search Tree",
+        "expanded_url": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "type": "problem",
+        "id": "98LC",
+        "title": "Validate Binary Search Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "original_title": "Find LCA of two nodes in BST",
+        "step_title": "Binary Search Tree",
+        "expanded_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+        "type": "problem",
+        "id": "235LC",
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+        "original_title": "Find the inorder predecessor/successor of a given Key in BST.",
+        "step_title": "Binary Search Tree",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/predecessor-and-successor/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/predecessor-and-successor/1",
+        "type": "problem",
+        "id": "700614GFG",
+        "title": "Predecessor and Successor",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos",
+        "original_title": "Floor in a BST",
+        "step_title": "Binary Search Tree Part-II",
+        "expanded_url": "https://www.naukri.com/code360/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/floor-from-bst_920457",
+        "type": "problem",
+        "id": "8870C360",
+        "title": "Floor in  BST",
+        "platform": "C360"
+    },
+    {
+        "url": "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos",
+        "original_title": "Ceil in a BST",
+        "step_title": "Binary Search Tree Part-II",
+        "expanded_url": "https://www.naukri.com/code360/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/ceil-from-bst_920464",
+        "type": "problem",
+        "id": "8877C360",
+        "title": "Ceil from BST",
+        "platform": "C360"
+    },
+    {
+        "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "original_title": "Find K-th smallest element in BST",
+        "step_title": "Binary Search Tree Part-II",
+        "expanded_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "expanded_stripped_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+        "type": "problem",
+        "id": "230LC",
+        "title": "Kth Smallest Element in a BST",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+        "original_title": "Find K-th largest element in BST",
+        "step_title": "Binary Search Tree Part-II",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+        "type": "problem",
+        "id": "700427GFG",
+        "title": "Kth largest element in BST",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+        "original_title": "Find a pair with a given sum in BST",
+        "step_title": "Binary Search Tree Part-II",
+        "expanded_url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+        "expanded_stripped_url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+        "type": "problem",
+        "id": "653LC",
+        "title": "Two Sum IV - Input is a BST",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/binary-search-tree-iterator/",
+        "original_title": "BST iterator",
+        "step_title": "Binary Search Tree Part-II",
+        "expanded_url": "https://leetcode.com/problems/binary-search-tree-iterator/",
+        "expanded_stripped_url": "https://leetcode.com/problems/binary-search-tree-iterator/",
+        "type": "problem",
+        "id": "173LC",
+        "title": "Binary Search Tree Iterator",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+        "original_title": "Size of the largest BST in a Binary Tree",
+        "step_title": "Binary Search Tree Part-II",
+        "expanded_url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+        "type": "problem",
+        "id": "1373LC",
+        "title": "Maximum Sum BST in Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "original_title": "Serialize and deserialize Binary Tree",
+        "step_title": "Binary Search Tree Part-II",
+        "expanded_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "type": "problem",
+        "id": "297LC",
+        "title": "Serialize and Deserialize Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "original_title": "Binary Tree to Double Linked List",
+        "step_title": "Binary Trees[Miscellaneous]",
+        "expanded_url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "expanded_stripped_url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+        "type": "problem",
+        "id": "114LC",
+        "title": "Flatten Binary Tree to Linked List",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "original_title": "Find median in a stream of running integers.",
+        "step_title": "Binary Trees[Miscellaneous]",
+        "expanded_url": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "expanded_stripped_url": "https://leetcode.com/problems/find-median-from-data-stream/",
+        "type": "problem",
+        "id": "295LC",
+        "title": "Find Median from Data Stream",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "original_title": "K-th largest element in a stream.",
+        "step_title": "Binary Trees[Miscellaneous]",
+        "expanded_url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "expanded_stripped_url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+        "type": "problem",
+        "id": "703LC",
+        "title": "Kth Largest Element in a Stream",
+        "platform": "LC"
+    },
+    {
+        "url": "https://www.interviewbit.com/problems/distinct-numbers-in-window/",
+        "original_title": "Distinct numbers in Window.",
+        "step_title": "Binary Trees[Miscellaneous]",
+        "expanded_url": "https://www.interviewbit.com/problems/distinct-numbers-in-window/",
+        "expanded_stripped_url": "https://www.interviewbit.com/problems/distinct-numbers-in-window/",
+        "type": "problem",
+        "id": "333IB",
+        "title": "Distinct Numbers in Window",
+        "platform": "IB"
+    },
+    {
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "original_title": "K-th largest element in an unsorted array.",
+        "step_title": "Binary Trees[Miscellaneous]",
+        "expanded_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "expanded_stripped_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "type": "problem",
+        "id": "215LC",
+        "title": "Kth Largest Element in an Array",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/flood-fill/",
+        "original_title": "Flood-fill Algorithm",
+        "step_title": "Binary Trees[Miscellaneous]",
+        "expanded_url": "https://leetcode.com/problems/flood-fill/",
+        "expanded_stripped_url": "https://leetcode.com/problems/flood-fill/",
+        "type": "problem",
+        "id": "733LC",
+        "title": "Flood Fill",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/clone-graph/",
+        "original_title": "Clone a graph (Not that easy as it looks)",
+        "step_title": "Graph",
+        "expanded_url": "https://leetcode.com/problems/clone-graph/",
+        "expanded_stripped_url": "https://leetcode.com/problems/clone-graph/",
+        "type": "problem",
+        "id": "133LC",
+        "title": "Clone Graph",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+        "original_title": "DFS",
+        "step_title": "Graph",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+        "type": "problem",
+        "id": "700203GFG",
+        "title": "DFS of Graph",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+        "original_title": "BFS",
+        "step_title": "Graph",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+        "type": "problem",
+        "id": "700217GFG",
+        "title": "BFS of graph",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/course-schedule/",
+        "original_title": "Detect A cycle in Undirected Graph using BFS",
+        "step_title": "Graph",
+        "expanded_url": "https://leetcode.com/problems/course-schedule/",
+        "expanded_stripped_url": "https://leetcode.com/problems/course-schedule/",
+        "type": "problem",
+        "id": "207LC",
+        "title": "Course Schedule",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/course-schedule/",
+        "original_title": "Detect A cycle in Undirected Graph using DFS",
+        "step_title": "Graph",
+        "expanded_url": "https://leetcode.com/problems/course-schedule/",
+        "expanded_stripped_url": "https://leetcode.com/problems/course-schedule/",
+        "type": "problem",
+        "id": "207LC",
+        "title": "Course Schedule",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/course-schedule/",
+        "original_title": "Detect A cycle in a Directed Graph using DFS",
+        "step_title": "Graph",
+        "expanded_url": "https://leetcode.com/problems/course-schedule/",
+        "expanded_stripped_url": "https://leetcode.com/problems/course-schedule/",
+        "type": "problem",
+        "id": "207LC",
+        "title": "Course Schedule",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/course-schedule/",
+        "original_title": "Detect A cycle in a Directed Graph using BFS",
+        "step_title": "Graph",
+        "expanded_url": "https://leetcode.com/problems/course-schedule/",
+        "expanded_stripped_url": "https://leetcode.com/problems/course-schedule/",
+        "type": "problem",
+        "id": "207LC",
+        "title": "Course Schedule",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+        "original_title": "Topological Sort BFS",
+        "step_title": "Graph",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+        "type": "problem",
+        "id": "700255GFG",
+        "title": "Topological sort",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+        "original_title": "Topological Sort DFS",
+        "step_title": "Graph",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
+        "type": "problem",
+        "id": "700255GFG",
+        "title": "Topological sort",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/number-of-islands/",
+        "original_title": "Number of islands(Do in Grid and Graph Both)",
+        "step_title": "Graph",
+        "expanded_url": "https://leetcode.com/problems/number-of-islands/",
+        "expanded_stripped_url": "https://leetcode.com/problems/number-of-islands/",
+        "type": "problem",
+        "id": "200LC",
+        "title": "Number of Islands",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/is-graph-bipartite/",
+        "original_title": "Bipartite Check using BFS",
+        "step_title": "Graph",
+        "expanded_url": "https://leetcode.com/problems/is-graph-bipartite/",
+        "expanded_stripped_url": "https://leetcode.com/problems/is-graph-bipartite/",
+        "type": "problem",
+        "id": "785LC",
+        "title": "Is Graph Bipartite?",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/is-graph-bipartite/",
+        "original_title": "Bipartite Check using DFS",
+        "step_title": "Graph",
+        "expanded_url": "https://leetcode.com/problems/is-graph-bipartite/",
+        "expanded_stripped_url": "https://leetcode.com/problems/is-graph-bipartite/",
+        "type": "problem",
+        "id": "785LC",
+        "title": "Is Graph Bipartite?",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+        "original_title": "Strongly Connected Component(using KosaRajuÎ“Ã‡Ã–s algo)",
+        "step_title": "Graph Part-II",
+        "expanded_url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+        "type": "problem",
+        "id": "1520LC",
+        "title": "Maximum Number of Non-Overlapping Substrings",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+        "original_title": "DijkstraÎ“Ã‡Ã–s Algorithm",
+        "step_title": "Graph Part-II",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
+        "type": "problem",
+        "id": "700334GFG",
+        "title": "Dijkstra Algorithm",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/?fbclid=IwAR2_lL0T84DnciLyzMTQuVTMBOi82nTWNLuXjUgahnrtBgkphKiYk6xcyJU",
+        "original_title": "Bellman-Ford Algo",
+        "step_title": "Graph Part-II",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0?fbclid=IwAR2_lL0T84DnciLyzMTQuVTMBOi82nTWNLuXjUgahnrtBgkphKiYk6xcyJU",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0",
+        "type": "problem",
+        "id": "706218GFG",
+        "title": "Bellman-Ford",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+        "original_title": "Floyd Warshall Algorithm",
+        "step_title": "Graph Part-II",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
+        "type": "problem",
+        "id": "705716GFG",
+        "title": "Floyd Warshall",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "original_title": "MST using Prim's Algo",
+        "step_title": "Graph Part-II",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "type": "problem",
+        "id": "700343GFG",
+        "title": "Minimum Spanning Tree",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "original_title": "MST using KruskalÎ“Ã‡Ã–s Algo",
+        "step_title": "Graph Part-II",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
+        "type": "problem",
+        "id": "700343GFG",
+        "title": "Minimum Spanning Tree",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-product-subarray/",
+        "original_title": "Max Product Subarray",
+        "step_title": "Dynamic Programming",
+        "expanded_url": "https://leetcode.com/problems/maximum-product-subarray/",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-product-subarray/",
+        "type": "problem",
+        "id": "152LC",
+        "title": "Maximum Product Subarray",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "original_title": "Longest Increasing Subsequence",
+        "step_title": "Dynamic Programming",
+        "expanded_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "expanded_stripped_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+        "type": "problem",
+        "id": "300LC",
+        "title": "Longest Increasing Subsequence",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/longest-common-subsequence/",
+        "original_title": "Longest Common Subsequence",
+        "step_title": "Dynamic Programming",
+        "expanded_url": "https://leetcode.com/problems/longest-common-subsequence/",
+        "expanded_stripped_url": "https://leetcode.com/problems/longest-common-subsequence/",
+        "type": "problem",
+        "id": "1143LC",
+        "title": "Longest Common Subsequence",
+        "platform": "LC"
+    },
+    {
+        "url": "https://bit.ly/3FvHbMO",
+        "original_title": "0-1 Knapsack",
+        "step_title": "Dynamic Programming",
+        "expanded_url": "https://www.naukri.com/code360/problems/1072980?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/1072980",
+        "type": "problem",
+        "id": "9670C360",
+        "title": "0 1 Knapsack",
+        "platform": "C360"
+    },
+    {
+        "url": "https://leetcode.com/problems/edit-distance/",
+        "original_title": "Edit Distance",
+        "step_title": "Dynamic Programming",
+        "expanded_url": "https://leetcode.com/problems/edit-distance/",
+        "expanded_stripped_url": "https://leetcode.com/problems/edit-distance/",
+        "type": "problem",
+        "id": "72LC",
+        "title": "Edit Distance",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+        "original_title": "Maximum sum increasing subsequence",
+        "step_title": "Dynamic Programming",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+        "type": "problem",
+        "id": "704037GFG",
+        "title": "Max Sum Increasing Subsequence",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+        "original_title": "Matrix Chain Multiplication",
+        "step_title": "Dynamic Programming",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
+        "type": "problem",
+        "id": "704556GFG",
+        "title": "Matrix Chain Multiplication",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/minimum-path-sum/",
+        "original_title": "Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)",
+        "step_title": "Dynamic Programming Part-II",
+        "expanded_url": "https://leetcode.com/problems/minimum-path-sum/",
+        "expanded_stripped_url": "https://leetcode.com/problems/minimum-path-sum/",
+        "type": "problem",
+        "id": "64LC",
+        "title": "Minimum Path Sum",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/coin-change/",
+        "original_title": "Coin change",
+        "step_title": "Dynamic Programming Part-II",
+        "expanded_url": "https://leetcode.com/problems/coin-change/",
+        "expanded_stripped_url": "https://leetcode.com/problems/coin-change/",
+        "type": "problem",
+        "id": "322LC",
+        "title": "Coin Change",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "original_title": "Subset Sum",
+        "step_title": "Dynamic Programming Part-II",
+        "expanded_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "expanded_stripped_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+        "type": "problem",
+        "id": "416LC",
+        "title": "Partition Equal Subset Sum",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+        "original_title": "Rod Cutting",
+        "step_title": "Dynamic Programming Part-II",
+        "expanded_url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+        "expanded_stripped_url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+        "type": "problem",
+        "id": "1547LC",
+        "title": "Minimum Cost to Cut a Stick",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1",
+        "original_title": "Egg Dropping",
+        "step_title": "Dynamic Programming Part-II",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1",
+        "type": "problem",
+        "id": "701420GFG",
+        "title": "Egg Dropping Puzzle",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/word-break/",
+        "original_title": "Word Break",
+        "step_title": "Dynamic Programming Part-II",
+        "expanded_url": "https://leetcode.com/problems/word-break/",
+        "expanded_stripped_url": "https://leetcode.com/problems/word-break/",
+        "type": "problem",
+        "id": "139LC",
+        "title": "Word Break",
+        "platform": "LC"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+        "original_title": "Palindrome Partitioning (MCM Variation)",
+        "step_title": "Dynamic Programming Part-II",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+        "type": "problem",
+        "id": "704187GFG",
+        "title": "Palindromic Partitioning",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+        "original_title": "Maximum profit in Job scheduling",
+        "step_title": "Dynamic Programming Part-II",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
+        "type": "problem",
+        "id": "701367GFG",
+        "title": "Job Sequencing Problem",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "original_title": "Implement Trie (Prefix Tree)",
+        "step_title": "Trie",
+        "expanded_url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "expanded_stripped_url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+        "type": "problem",
+        "id": "208LC",
+        "title": "Implement Trie (Prefix Tree)",
+        "platform": "LC"
+    },
+    {
+        "url": "https://bit.ly/3qwT4OL",
+        "original_title": "Implement Trie - 2 (Prefix Tree)",
+        "step_title": "Trie",
+        "expanded_url": "https://www.naukri.com/code360/problems/implement-trie_1387095?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_tries_videos",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/implement-trie_1387095",
+        "type": "problem",
+        "id": "11836C360",
+        "title": "Implement Trie ll",
+        "platform": "C360"
+    },
+    {
+        "url": "https://bit.ly/3n3kedU",
+        "original_title": "Longest String with All Prefixes",
+        "step_title": "Trie",
+        "expanded_url": "https://www.naukri.com/code360/problems/complete-string_2687860?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_tries_videos",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/complete-string_2687860",
+        "type": "problem",
+        "id": "15725C360",
+        "title": "Complete String",
+        "platform": "C360"
+    },
+    {
+        "url": "https://bit.ly/3ocRQW0",
+        "original_title": "Number of Distinct Substrings in a String",
+        "step_title": "Trie",
+        "expanded_url": "https://www.naukri.com/code360/problems/count-distinct-substrings_985292?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_tries_videos",
+        "expanded_stripped_url": "https://www.naukri.com/code360/problems/count-distinct-substrings_985292",
+        "type": "problem",
+        "id": "9428C360",
+        "title": "Count Distinct Substrings",
+        "platform": "C360"
+    },
+    {
+        "url": "https://practice.geeksforgeeks.org/problems/power-set4302/1#",
+        "original_title": "Power Set (this is very important)",
+        "step_title": "Trie",
+        "expanded_url": "https://www.geeksforgeeks.org/problems/power-set4302/1",
+        "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/power-set4302/1",
+        "type": "problem",
+        "id": "704428GFG",
+        "title": "Power Set",
+        "platform": "GFG"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+        "original_title": "Maximum XOR of two numbers in an array",
+        "step_title": "Trie",
+        "expanded_url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+        "type": "problem",
+        "id": "421LC",
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+        "original_title": "Maximum XOR With an Element From Array",
+        "step_title": "Trie",
+        "expanded_url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+        "type": "problem",
+        "id": "1707LC",
+        "title": "Maximum XOR With an Element From Array",
+        "platform": "LC"
     }
 ]
