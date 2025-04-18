@@ -7,6 +7,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/search-query-auto-complete/0?category%255B%255D=Strings&problemStatus=unsolved&difficulty%255B%255D=2&page=1&query=category%255B%255DStringsproblemStatusunsolveddifficulty%255B%255D2page1category%255B%255DStr",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/search-query-auto-complete/0",
         "type": "problem",
+        "id_base": "search-query-auto-complete",
         "id": "706686GFG",
         "title": "Search Query Auto Complete",
         "platform": "GFG"
@@ -19,6 +20,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/data-type-1666706751/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=data-type",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/data-type-1666706751/1",
         "type": "problem",
+        "id_base": "data-type-1666706751",
         "id": "712535GFG",
         "title": "Data Type",
         "platform": "GFG"
@@ -31,6 +33,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/java-if-else-decision-making0924/0?category%255B%255D=Java&difficulty%255B%255D=-2&page=1&query=category%255B%255DJavadifficulty%255B%255D-2page1category%255B%255DJava",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/java-if-else-decision-making0924/0",
         "type": "problem",
+        "id_base": "java-if-else-decision-making0924",
         "id": "703776GFG",
         "title": "Decision Making in Java",
         "platform": "GFG"
@@ -43,6 +46,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/java-switch-case-statement3529/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/java-switch-case-statement3529/1",
         "type": "problem",
+        "id_base": "java-switch-case-statement3529",
         "id": "705368GFG",
         "title": "Java Switch Case statement",
         "platform": "GFG"
@@ -55,6 +59,7 @@
         "expanded_url": "https://www.youtube.com/watch?t=2415&v=EAR7De6Goz4&feature=youtu.be",
         "expanded_stripped_url": "https://www.youtube.com/watch?t=2415&v=EAR7De6Goz4&feature=youtu.be",
         "type": "tutorial",
+        "id_base": "https://www.youtube.com/watch?t=2415",
         "id": "054360ca-2be4-52a4-b95d-373f2d379dacYT",
         "title": "C++ Basics in One Shot - Strivers A2Z DSA Course - L1 - YouTube",
         "platform": "YT"
@@ -67,6 +72,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/nth-fibonacci-number_74156?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/nth-fibonacci-number_74156",
         "type": "problem",
+        "id_base": "nth-fibonacci-number_74156",
         "id": "971C360",
         "title": "Nth Fibonacci Number",
         "platform": "C360"
@@ -79,6 +85,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/while-loop-printtable-java/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/while-loop-printtable-java/1",
         "type": "problem",
+        "id_base": "while-loop-printtable-java",
         "id": "700804GFG",
         "title": "While loop- printTable - Java",
         "platform": "GFG"
@@ -91,6 +98,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/pass-by-reference-and-value/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pass-by-reference-and-value",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/pass-by-reference-and-value/1",
         "type": "problem",
+        "id_base": "pass-by-reference-and-value",
         "id": "712537GFG",
         "title": "Pass by Reference and Value",
         "platform": "GFG"
@@ -103,6 +111,7 @@
         "expanded_url": "https://www.youtube.com/watch?v=FPu9Uld7W-E&feature=youtu.be",
         "expanded_stripped_url": "https://www.youtube.com/watch?v=FPu9Uld7W-E&feature=youtu.be",
         "type": "tutorial",
+        "id_base": "https://www.youtube.com/watch?v=FPu9Uld7W-E",
         "id": "bfa5efb1-ae70-5806-96f6-a8d605a84317YT",
         "title": "Time and Space Complexity - Strivers A2Z DSA Course - YouTube",
         "platform": "YT"
@@ -115,6 +124,7 @@
         "expanded_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
         "expanded_stripped_url": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
         "type": "tutorial",
+        "id_base": "https://www.youtube.com/watch?v=tNm_NNSB3_w",
         "id": "5e2f1e1d-014e-5c63-b88d-a5be0df53444YT",
         "title": "Solve any Pattern Question - Trick Explained | 22 Patterns in 1 Shot | Strivers A2Z DSA Course - YouTube",
         "platform": "YT"
@@ -127,6 +137,7 @@
         "expanded_url": "https://www.youtube.com/watch?v=RRVYpIET_RU",
         "expanded_stripped_url": "https://www.youtube.com/watch?v=RRVYpIET_RU",
         "type": "tutorial",
+        "id_base": "https://www.youtube.com/watch?v=RRVYpIET_RU",
         "id": "6291c4f9-96b9-54bc-9335-f8307ec9f525YT",
         "title": "Complete C++ STL in 1 Video | Time Complexity and Notes - YouTube",
         "platform": "YT"
@@ -139,6 +150,7 @@
         "expanded_url": "https://www.youtube.com/playlist?list=PLA3GkZPtsafZZsLj0Tybu3y0HVl-hp1ea",
         "expanded_stripped_url": "https://www.youtube.com/playlist?list=PLA3GkZPtsafZZsLj0Tybu3y0HVl-hp1ea",
         "type": "tutorial",
+        "id_base": "PLA3GkZPtsafZZsLj0Tybu3y0HVl-hp1ea",
         "id": "8783ff24-2988-5d04-afee-61eb5dafbe2eYT",
         "title": "Java Collections Framework Complete Course 2025 | From Zero to Professional - YouTube",
         "platform": "YT"
@@ -151,6 +163,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/count-digits5716/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/count-digits5716/1",
         "type": "problem",
+        "id_base": "count-digits5716",
         "id": "703897GFG",
         "title": "Count Digits",
         "platform": "GFG"
@@ -163,6 +176,7 @@
         "expanded_url": "https://leetcode.com/problems/reverse-integer/",
         "expanded_stripped_url": "https://leetcode.com/problems/reverse-integer/",
         "type": "problem",
+        "id_base": "reverse-integer",
         "id": "7LC",
         "title": "Reverse Integer",
         "platform": "LC"
@@ -175,6 +189,7 @@
         "expanded_url": "https://leetcode.com/problems/palindrome-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/palindrome-number/",
         "type": "problem",
+        "id_base": "palindrome-number",
         "id": "9LC",
         "title": "Palindrome Number",
         "platform": "LC"
@@ -187,6 +202,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1",
         "type": "problem",
+        "id_base": "lcm-and-gcd4516",
         "id": "703853GFG",
         "title": "LCM And GCD",
         "platform": "GFG"
@@ -199,6 +215,7 @@
         "expanded_url": "https://leetcode.com/problems/armstrong-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/armstrong-number/",
         "type": "problem",
+        "id_base": "armstrong-number",
         "id": "1134LC",
         "title": "Armstrong Number",
         "platform": "LC"
@@ -211,6 +228,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1",
         "type": "problem",
+        "id_base": "sum-of-all-divisors-from-1-to-n4738",
         "id": "704119GFG",
         "title": "Sum 1 to n Divisors",
         "platform": "GFG"
@@ -223,6 +241,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1",
         "type": "problem",
+        "id_base": "minimum-number-of-jumps-1587115620",
         "id": "701393GFG",
         "title": "Minimum Jumps",
         "platform": "GFG"
@@ -235,6 +254,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-1-to-n-without-using-loops",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1",
         "type": "problem",
+        "id_base": "print-1-to-n-without-using-loops-1587115620",
         "id": "701189GFG",
         "title": "Print 1 To N Without Loop",
         "platform": "GFG"
@@ -247,6 +267,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/print-gfg-n-times/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-gfg-n-times",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/print-gfg-n-times/1",
         "type": "problem",
+        "id_base": "print-gfg-n-times",
         "id": "712055GFG",
         "title": "Print GFG n times",
         "platform": "GFG"
@@ -259,6 +280,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1",
         "type": "problem",
+        "id_base": "print-1-to-n-without-using-loops-1587115620",
         "id": "701189GFG",
         "title": "Print 1 To N Without Loop",
         "platform": "GFG"
@@ -271,6 +293,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-n-to-1-without-loop",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1",
         "type": "problem",
+        "id_base": "print-n-to-1-without-loop",
         "id": "712048GFG",
         "title": "Print N to 1 without loop",
         "platform": "GFG"
@@ -283,6 +306,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1",
         "type": "problem",
+        "id_base": "sum-of-first-n-terms5843",
         "id": "704025GFG",
         "title": "Sum of first n terms",
         "platform": "GFG"
@@ -295,6 +319,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/0?problemType=functional&difficulty%255B%255D=-1&page=1&query=problemTypefunctionaldifficulty%255B%255D-1page1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/0",
         "type": "problem",
+        "id_base": "find-all-factorial-numbers-less-than-or-equal-to-n3548",
         "id": "704633GFG",
         "title": "Factorials Less than or Equal to n",
         "platform": "GFG"
@@ -307,6 +332,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/reverse-an-array/0",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/reverse-an-array/0",
         "type": "problem",
+        "id_base": "reverse-an-array",
         "id": "700889GFG",
         "title": "Reverse an Array",
         "platform": "GFG"
@@ -319,6 +345,7 @@
         "expanded_url": "https://leetcode.com/problems/valid-palindrome/",
         "expanded_stripped_url": "https://leetcode.com/problems/valid-palindrome/",
         "type": "problem",
+        "id_base": "valid-palindrome",
         "id": "125LC",
         "title": "Valid Palindrome",
         "platform": "LC"
@@ -331,6 +358,7 @@
         "expanded_url": "https://leetcode.com/problems/fibonacci-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/fibonacci-number/",
         "type": "problem",
+        "id_base": "fibonacci-number",
         "id": "509LC",
         "title": "Fibonacci Number",
         "platform": "LC"
@@ -343,6 +371,7 @@
         "expanded_url": "https://www.youtube.com/watch?v=KEs5UyBJ39g",
         "expanded_stripped_url": "https://www.youtube.com/watch?v=KEs5UyBJ39g",
         "type": "tutorial",
+        "id_base": "https://www.youtube.com/watch?v=KEs5UyBJ39g",
         "id": "7553e515-d638-56ff-8fcb-2fbb6665f2a7YT",
         "title": "Hashing | Maps | Time Complexity | Collisions | Division Rule of Hashing | Strivers A2Z DSA Course - YouTube",
         "platform": "YT"
@@ -355,6 +384,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0",
         "type": "problem",
+        "id_base": "frequency-of-array-elements-1587115620",
         "id": "701202GFG",
         "title": "Frequencies in a Limited Array",
         "platform": "GFG"
@@ -367,6 +397,7 @@
         "expanded_url": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
         "expanded_stripped_url": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
         "type": "problem",
+        "id_base": "frequency-of-the-most-frequent-element",
         "id": "1838LC",
         "title": "Frequency of the Most Frequent Element",
         "platform": "LC"
@@ -379,6 +410,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/selection-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=selection-sort",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/selection-sort/1",
         "type": "problem",
+        "id_base": "selection-sort",
         "id": "700147GFG",
         "title": "Selection Sort",
         "platform": "GFG"
@@ -391,6 +423,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/bubble-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bubble-sort",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/bubble-sort/1",
         "type": "problem",
+        "id_base": "bubble-sort",
         "id": "700143GFG",
         "title": "Bubble Sort",
         "platform": "GFG"
@@ -403,6 +436,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/insertion-sort/0?category%255B%255D=Algorithms&page=1&query=category%255B%255DAlgorithmspage1&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=insertion-sort",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/insertion-sort/0",
         "type": "problem",
+        "id_base": "insertion-sort",
         "id": "700148GFG",
         "title": "Insertion Sort",
         "platform": "GFG"
@@ -415,6 +449,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/merge-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=merge-sort",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/merge-sort/1",
         "type": "problem",
+        "id_base": "merge-sort",
         "id": "700150GFG",
         "title": "Merge Sort",
         "platform": "GFG"
@@ -427,6 +462,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/bubble-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bubble-sort",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/bubble-sort/1",
         "type": "problem",
+        "id_base": "bubble-sort",
         "id": "700143GFG",
         "title": "Bubble Sort",
         "platform": "GFG"
@@ -439,6 +475,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/insertion-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=insertion-sort",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/insertion-sort/1",
         "type": "problem",
+        "id_base": "insertion-sort",
         "id": "700148GFG",
         "title": "Insertion Sort",
         "platform": "GFG"
@@ -451,6 +488,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/quick-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=quick-sort",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/quick-sort/1",
         "type": "problem",
+        "id_base": "quick-sort",
         "id": "700151GFG",
         "title": "Quick Sort",
         "platform": "GFG"
@@ -463,6 +501,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0",
         "type": "problem",
+        "id_base": "largest-element-in-array4009",
         "id": "703297GFG",
         "title": "Largest Element in Array",
         "platform": "GFG"
@@ -475,6 +514,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
         "type": "problem",
+        "id_base": "second-largest3735",
         "id": "703089GFG",
         "title": "Second Largest",
         "platform": "GFG"
@@ -487,6 +527,7 @@
         "expanded_url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
         "expanded_stripped_url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
         "type": "problem",
+        "id_base": "check-if-array-is-sorted-and-rotated",
         "id": "1752LC",
         "title": "Check if Array Is Sorted and Rotated",
         "platform": "LC"
@@ -499,6 +540,7 @@
         "expanded_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
         "type": "problem",
+        "id_base": "remove-duplicates-from-sorted-array",
         "id": "26LC",
         "title": "Remove Duplicates from Sorted Array",
         "platform": "LC"
@@ -511,6 +553,7 @@
         "expanded_url": "https://leetcode.com/problems/rotate-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/rotate-array/",
         "type": "problem",
+        "id_base": "rotate-array",
         "id": "189LC",
         "title": "Rotate Array",
         "platform": "LC"
@@ -523,6 +566,7 @@
         "expanded_url": "https://leetcode.com/problems/rotate-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/rotate-array/",
         "type": "problem",
+        "id_base": "rotate-array",
         "id": "189LC",
         "title": "Rotate Array",
         "platform": "LC"
@@ -535,6 +579,7 @@
         "expanded_url": "https://leetcode.com/problems/move-zeroes/",
         "expanded_stripped_url": "https://leetcode.com/problems/move-zeroes/",
         "type": "problem",
+        "id_base": "move-zeroes",
         "id": "283LC",
         "title": "Move Zeroes",
         "platform": "LC"
@@ -547,6 +592,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=who-will-win",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1",
         "type": "problem",
+        "id_base": "who-will-win-1587115621",
         "id": "701218GFG",
         "title": "Sorted Array Search",
         "platform": "GFG"
@@ -559,6 +605,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
         "type": "problem",
+        "id_base": "union-of-two-sorted-arrays-1587115621",
         "id": "701235GFG",
         "title": "Union of 2 Sorted with Duplicates",
         "platform": "GFG"
@@ -571,6 +618,7 @@
         "expanded_url": "https://leetcode.com/problems/missing-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/missing-number/",
         "type": "problem",
+        "id_base": "missing-number",
         "id": "268LC",
         "title": "Missing Number",
         "platform": "LC"
@@ -583,6 +631,7 @@
         "expanded_url": "https://leetcode.com/problems/max-consecutive-ones/",
         "expanded_stripped_url": "https://leetcode.com/problems/max-consecutive-ones/",
         "type": "problem",
+        "id_base": "max-consecutive-ones",
         "id": "485LC",
         "title": "Max Consecutive Ones",
         "platform": "LC"
@@ -595,6 +644,7 @@
         "expanded_url": "https://leetcode.com/problems/single-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/single-number/",
         "type": "problem",
+        "id_base": "single-number",
         "id": "136LC",
         "title": "Single Number",
         "platform": "LC"
@@ -607,6 +657,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1",
         "type": "problem",
+        "id_base": "longest-sub-array-with-sum-k0809",
         "id": "703043GFG",
         "title": "Longest Subarray with Sum K",
         "platform": "GFG"
@@ -619,6 +670,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1",
         "type": "problem",
+        "id_base": "longest-sub-array-with-sum-k0809",
         "id": "703043GFG",
         "title": "Longest Subarray with Sum K",
         "platform": "GFG"
@@ -631,6 +683,7 @@
         "expanded_url": "https://leetcode.com/problems/two-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/two-sum/",
         "type": "problem",
+        "id_base": "two-sum",
         "id": "1LC",
         "title": "Two Sum",
         "platform": "LC"
@@ -643,6 +696,7 @@
         "expanded_url": "https://leetcode.com/problems/sort-colors/",
         "expanded_stripped_url": "https://leetcode.com/problems/sort-colors/",
         "type": "problem",
+        "id_base": "sort-colors",
         "id": "75LC",
         "title": "Sort Colors",
         "platform": "LC"
@@ -655,6 +709,7 @@
         "expanded_url": "https://leetcode.com/problems/majority-element/",
         "expanded_stripped_url": "https://leetcode.com/problems/majority-element/",
         "type": "problem",
+        "id_base": "majority-element",
         "id": "169LC",
         "title": "Majority Element",
         "platform": "LC"
@@ -667,6 +722,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-subarray/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-subarray/",
         "type": "problem",
+        "id_base": "maximum-subarray",
         "id": "53LC",
         "title": "Maximum Subarray",
         "platform": "LC"
@@ -679,6 +735,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/0?category&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=max-sum-in-sub-arrays",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/0",
         "type": "problem",
+        "id_base": "max-sum-in-sub-arrays0824",
         "id": "702877GFG",
         "title": "Max Score from Subarray Mins",
         "platform": "GFG"
@@ -691,6 +748,7 @@
         "expanded_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
         "expanded_stripped_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
         "type": "problem",
+        "id_base": "best-time-to-buy-and-sell-stock",
         "id": "121LC",
         "title": "Best Time to Buy and Sell Stock",
         "platform": "LC"
@@ -703,6 +761,7 @@
         "expanded_url": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
         "expanded_stripped_url": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
         "type": "problem",
+        "id_base": "rearrange-array-elements-by-sign",
         "id": "2149LC",
         "title": "Rearrange Array Elements by Sign",
         "platform": "LC"
@@ -715,6 +774,7 @@
         "expanded_url": "https://leetcode.com/problems/next-permutation/",
         "expanded_stripped_url": "https://leetcode.com/problems/next-permutation/",
         "type": "problem",
+        "id_base": "next-permutation",
         "id": "31LC",
         "title": "Next Permutation",
         "platform": "LC"
@@ -727,6 +787,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=leaders-in-an-array",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1",
         "type": "problem",
+        "id_base": "leaders-in-an-array-1587115620",
         "id": "701210GFG",
         "title": "Array Leaders",
         "platform": "GFG"
@@ -739,6 +800,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-consecutive-sequence/solution/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-consecutive-sequence/solution/",
         "type": "problem",
+        "id_base": "longest-consecutive-sequence",
         "id": "128LC",
         "title": "Longest Consecutive Sequence",
         "platform": "LC"
@@ -751,6 +813,7 @@
         "expanded_url": "https://leetcode.com/problems/set-matrix-zeroes/",
         "expanded_stripped_url": "https://leetcode.com/problems/set-matrix-zeroes/",
         "type": "problem",
+        "id_base": "set-matrix-zeroes",
         "id": "73LC",
         "title": "Set Matrix Zeroes",
         "platform": "LC"
@@ -763,6 +826,7 @@
         "expanded_url": "https://leetcode.com/problems/rotate-image/",
         "expanded_stripped_url": "https://leetcode.com/problems/rotate-image/",
         "type": "problem",
+        "id_base": "rotate-image",
         "id": "48LC",
         "title": "Rotate Image",
         "platform": "LC"
@@ -775,6 +839,7 @@
         "expanded_url": "https://leetcode.com/problems/spiral-matrix/",
         "expanded_stripped_url": "https://leetcode.com/problems/spiral-matrix/",
         "type": "problem",
+        "id_base": "spiral-matrix",
         "id": "54LC",
         "title": "Spiral Matrix",
         "platform": "LC"
@@ -787,6 +852,7 @@
         "expanded_url": "https://leetcode.com/problems/subarray-sum-equals-k/",
         "expanded_stripped_url": "https://leetcode.com/problems/subarray-sum-equals-k/",
         "type": "problem",
+        "id_base": "subarray-sum-equals-k",
         "id": "560LC",
         "title": "Subarray Sum Equals K",
         "platform": "LC"
@@ -799,6 +865,7 @@
         "expanded_url": "https://leetcode.com/problems/pascals-triangle/",
         "expanded_stripped_url": "https://leetcode.com/problems/pascals-triangle/",
         "type": "problem",
+        "id_base": "pascals-triangle",
         "id": "118LC",
         "title": "Pascal's Triangle",
         "platform": "LC"
@@ -811,6 +878,7 @@
         "expanded_url": "https://leetcode.com/problems/majority-element-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/majority-element-ii/",
         "type": "problem",
+        "id_base": "majority-element-ii",
         "id": "229LC",
         "title": "Majority Element II",
         "platform": "LC"
@@ -823,6 +891,7 @@
         "expanded_url": "https://leetcode.com/problems/3sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/3sum/",
         "type": "problem",
+        "id_base": "3sum",
         "id": "15LC",
         "title": "3Sum",
         "platform": "LC"
@@ -835,6 +904,7 @@
         "expanded_url": "https://leetcode.com/problems/4sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/4sum/",
         "type": "problem",
+        "id_base": "4sum",
         "id": "18LC",
         "title": "4Sum",
         "platform": "LC"
@@ -847,6 +917,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1?category%255B%255D=Hash&company%255B%255D=Amazon&page=1&query=category%255B%255DHashcompany%255B%255DAmazonpage1company%255B%255DAmazoncategory%255B%255DHash&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-subarray-with-0-sum",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
         "type": "problem",
+        "id_base": "largest-subarray-with-0-sum",
         "id": "700254GFG",
         "title": "Largest subarray with 0 sum",
         "platform": "GFG"
@@ -859,6 +930,7 @@
         "expanded_url": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
         "expanded_stripped_url": "https://www.interviewbit.com/problems/subarray-with-given-xor/",
         "type": "problem",
+        "id_base": "subarray-with-given-xor",
         "id": "12036IB",
         "title": "Subarray with given XOR",
         "platform": "IB"
@@ -871,6 +943,7 @@
         "expanded_url": "https://leetcode.com/problems/merge-intervals/",
         "expanded_stripped_url": "https://leetcode.com/problems/merge-intervals/",
         "type": "problem",
+        "id_base": "merge-intervals",
         "id": "56LC",
         "title": "Merge Intervals",
         "platform": "LC"
@@ -883,6 +956,7 @@
         "expanded_url": "https://leetcode.com/problems/merge-sorted-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/merge-sorted-array/",
         "type": "problem",
+        "id_base": "merge-sorted-array",
         "id": "88LC",
         "title": "Merge Sorted Array",
         "platform": "LC"
@@ -895,6 +969,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-missing-and-repeating",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
         "type": "problem",
+        "id_base": "find-missing-and-repeating2512",
         "id": "702678GFG",
         "title": "Missing And Repeating",
         "platform": "GFG"
@@ -907,6 +982,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=inversion-of-array",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
         "type": "problem",
+        "id_base": "inversion-of-array-1587115620",
         "id": "701226GFG",
         "title": "Count Inversions",
         "platform": "GFG"
@@ -919,6 +995,7 @@
         "expanded_url": "https://leetcode.com/problems/reverse-pairs/",
         "expanded_stripped_url": "https://leetcode.com/problems/reverse-pairs/",
         "type": "problem",
+        "id_base": "reverse-pairs",
         "id": "493LC",
         "title": "Reverse Pairs",
         "platform": "LC"
@@ -931,6 +1008,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-product-subarray/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-product-subarray/",
         "type": "problem",
+        "id_base": "maximum-product-subarray",
         "id": "152LC",
         "title": "Maximum Product Subarray",
         "platform": "LC"
@@ -943,6 +1021,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-search/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-search/",
         "type": "problem",
+        "id_base": "binary-search",
         "id": "704LC",
         "title": "Binary Search",
         "platform": "LC"
@@ -955,6 +1034,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1?track=DSASP-Searching&amp%253BbatchId=154&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=floor-in-a-sorted-array",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1",
         "type": "problem",
+        "id_base": "floor-in-a-sorted-array-1587115620",
         "id": "701222GFG",
         "title": "Floor in a Sorted Array",
         "platform": "GFG"
@@ -967,6 +1047,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=ceil-the-floor",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1",
         "type": "problem",
+        "id_base": "ceil-the-floor2802",
         "id": "703852GFG",
         "title": "Ceil The Floor",
         "platform": "GFG"
@@ -979,6 +1060,7 @@
         "expanded_url": "https://leetcode.com/problems/search-insert-position/",
         "expanded_stripped_url": "https://leetcode.com/problems/search-insert-position/",
         "type": "problem",
+        "id_base": "search-insert-position",
         "id": "35LC",
         "title": "Search Insert Position",
         "platform": "LC"
@@ -991,6 +1073,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401",
         "type": "problem",
+        "id_base": "ceiling-in-a-sorted-array_1825401",
         "id": "13945C360",
         "title": "Ceil The Floor",
         "platform": "C360"
@@ -1003,6 +1086,7 @@
         "expanded_url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
         "type": "problem",
+        "id_base": "find-first-and-last-position-of-element-in-sorted-array",
         "id": "34LC",
         "title": "Find First and Last Position of Element in Sorted Array",
         "platform": "LC"
@@ -1015,6 +1099,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=number-of-occurrence",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1",
         "type": "problem",
+        "id_base": "number-of-occurrence2259",
         "id": "703129GFG",
         "title": "Number of occurrence",
         "platform": "GFG"
@@ -1027,6 +1112,7 @@
         "expanded_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
         "type": "problem",
+        "id_base": "search-in-rotated-sorted-array",
         "id": "33LC",
         "title": "Search in Rotated Sorted Array",
         "platform": "LC"
@@ -1039,6 +1125,7 @@
         "expanded_url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
         "type": "problem",
+        "id_base": "search-in-rotated-sorted-array-ii",
         "id": "81LC",
         "title": "Search in Rotated Sorted Array II",
         "platform": "LC"
@@ -1051,6 +1138,7 @@
         "expanded_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
         "type": "problem",
+        "id_base": "find-minimum-in-rotated-sorted-array",
         "id": "153LC",
         "title": "Find Minimum in Rotated Sorted Array",
         "platform": "LC"
@@ -1063,6 +1151,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/rotation4723/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=rotation",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/rotation4723/1",
         "type": "problem",
+        "id_base": "rotation4723",
         "id": "702712GFG",
         "title": "Find Kth Rotation",
         "platform": "GFG"
@@ -1075,6 +1164,7 @@
         "expanded_url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
         "type": "problem",
+        "id_base": "single-element-in-a-sorted-array",
         "id": "540LC",
         "title": "Single Element in a Sorted Array",
         "platform": "LC"
@@ -1087,6 +1177,7 @@
         "expanded_url": "https://leetcode.com/problems/find-peak-element/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-peak-element/",
         "type": "problem",
+        "id_base": "find-peak-element",
         "id": "162LC",
         "title": "Find Peak Element",
         "platform": "LC"
@@ -1099,6 +1190,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/square-root/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=square-root",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/square-root/0",
         "type": "problem",
+        "id_base": "square-root",
         "id": "700226GFG",
         "title": "Square Root",
         "platform": "GFG"
@@ -1111,6 +1203,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-nth-root-of-m",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
         "type": "problem",
+        "id_base": "find-nth-root-of-m5843",
         "id": "705001GFG",
         "title": "Find nth root of m",
         "platform": "GFG"
@@ -1123,6 +1216,7 @@
         "expanded_url": "https://leetcode.com/problems/koko-eating-bananas/",
         "expanded_stripped_url": "https://leetcode.com/problems/koko-eating-bananas/",
         "type": "problem",
+        "id_base": "koko-eating-bananas",
         "id": "875LC",
         "title": "Koko Eating Bananas",
         "platform": "LC"
@@ -1135,6 +1229,7 @@
         "expanded_url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
         "type": "problem",
+        "id_base": "minimum-number-of-days-to-make-m-bouquets",
         "id": "1482LC",
         "title": "Minimum Number of Days to Make m Bouquets",
         "platform": "LC"
@@ -1147,6 +1242,7 @@
         "expanded_url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
         "type": "problem",
+        "id_base": "find-the-smallest-divisor-given-a-threshold",
         "id": "1283LC",
         "title": "Find the Smallest Divisor Given a Threshold",
         "platform": "LC"
@@ -1159,6 +1255,7 @@
         "expanded_url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
         "expanded_stripped_url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
         "type": "problem",
+        "id_base": "capacity-to-ship-packages-within-d-days",
         "id": "1011LC",
         "title": "Capacity To Ship Packages Within D Days",
         "platform": "LC"
@@ -1171,6 +1268,7 @@
         "expanded_url": "https://leetcode.com/problems/kth-missing-positive-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/kth-missing-positive-number/",
         "type": "problem",
+        "id_base": "kth-missing-positive-number",
         "id": "1539LC",
         "title": "Kth Missing Positive Number",
         "platform": "LC"
@@ -1183,6 +1281,7 @@
         "expanded_url": "https://www.spoj.com/problems/AGGRCOW/",
         "expanded_stripped_url": "https://www.spoj.com/problems/AGGRCOW/",
         "type": "problem",
+        "id_base": "AGGRCOW",
         "id": "AGGRCOWSPOJ",
         "title": "Aggressive cows",
         "platform": "SPOJ"
@@ -1195,6 +1294,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/allocate-books_1090540?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/allocate-books_1090540",
         "type": "problem",
+        "id_base": "allocate-books_1090540",
         "id": "9786C360",
         "title": "Allocate Books",
         "platform": "C360"
@@ -1207,6 +1307,7 @@
         "expanded_url": "https://leetcode.com/problems/split-array-largest-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/split-array-largest-sum/",
         "type": "problem",
+        "id_base": "split-array-largest-sum",
         "id": "410LC",
         "title": "Split Array Largest Sum",
         "platform": "LC"
@@ -1219,6 +1320,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557",
         "type": "problem",
+        "id_base": "painter-s-partition-problem_1089557",
         "id": "9743C360",
         "title": "Painter's Partition Problem",
         "platform": "C360"
@@ -1231,6 +1333,7 @@
         "expanded_url": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
         "type": "problem",
+        "id_base": "minimize-max-distance-to-gas-station",
         "id": "774LC",
         "title": "Minimize Max Distance to Gas Station",
         "platform": "LC"
@@ -1243,6 +1346,7 @@
         "expanded_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
         "expanded_stripped_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
         "type": "problem",
+        "id_base": "median-of-two-sorted-arrays",
         "id": "4LC",
         "title": "Median of Two Sorted Arrays",
         "platform": "LC"
@@ -1255,6 +1359,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=k-th-element-of-two-sorted-array",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
         "type": "problem",
+        "id_base": "k-th-element-of-two-sorted-array1317",
         "id": "703253GFG",
         "title": "K-th element of two  Arrays",
         "platform": "GFG"
@@ -1267,6 +1372,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=row-with-max-1s",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1",
         "type": "problem",
+        "id_base": "row-with-max-1s0023",
         "id": "702950GFG",
         "title": "Row with max 1s",
         "platform": "GFG"
@@ -1279,6 +1385,7 @@
         "expanded_url": "https://leetcode.com/problems/search-a-2d-matrix/",
         "expanded_stripped_url": "https://leetcode.com/problems/search-a-2d-matrix/",
         "type": "problem",
+        "id_base": "search-a-2d-matrix",
         "id": "74LC",
         "title": "Search a 2D Matrix",
         "platform": "LC"
@@ -1291,6 +1398,7 @@
         "expanded_url": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
         "type": "problem",
+        "id_base": "search-a-2d-matrix-ii",
         "id": "240LC",
         "title": "Search a 2D Matrix II",
         "platform": "LC"
@@ -1303,6 +1411,7 @@
         "expanded_url": "https://leetcode.com/problems/find-a-peak-element-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-a-peak-element-ii/",
         "type": "problem",
+        "id_base": "find-a-peak-element-ii",
         "id": "1901LC",
         "title": "Find a Peak Element II",
         "platform": "LC"
@@ -1315,6 +1424,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=median-in-a-row-wise-sorted-matrix",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
         "type": "problem",
+        "id_base": "median-in-a-row-wise-sorted-matrix1527",
         "id": "704712GFG",
         "title": "Median in a row-wise sorted Matrix",
         "platform": "GFG"
@@ -1327,6 +1437,7 @@
         "expanded_url": "https://leetcode.com/problems/remove-outermost-parentheses/",
         "expanded_stripped_url": "https://leetcode.com/problems/remove-outermost-parentheses/",
         "type": "problem",
+        "id_base": "remove-outermost-parentheses",
         "id": "1021LC",
         "title": "Remove Outermost Parentheses",
         "platform": "LC"
@@ -1339,6 +1450,7 @@
         "expanded_url": "https://leetcode.com/problems/reverse-words-in-a-string/",
         "expanded_stripped_url": "https://leetcode.com/problems/reverse-words-in-a-string/",
         "type": "problem",
+        "id_base": "reverse-words-in-a-string",
         "id": "151LC",
         "title": "Reverse Words in a String",
         "platform": "LC"
@@ -1351,6 +1463,7 @@
         "expanded_url": "https://leetcode.com/problems/largest-odd-number-in-string/",
         "expanded_stripped_url": "https://leetcode.com/problems/largest-odd-number-in-string/",
         "type": "problem",
+        "id_base": "largest-odd-number-in-string",
         "id": "1903LC",
         "title": "Largest Odd Number in String",
         "platform": "LC"
@@ -1363,6 +1476,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-common-prefix/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-common-prefix/",
         "type": "problem",
+        "id_base": "longest-common-prefix",
         "id": "14LC",
         "title": "Longest Common Prefix",
         "platform": "LC"
@@ -1375,6 +1489,7 @@
         "expanded_url": "https://leetcode.com/problems/isomorphic-strings/",
         "expanded_stripped_url": "https://leetcode.com/problems/isomorphic-strings/",
         "type": "problem",
+        "id_base": "isomorphic-strings",
         "id": "205LC",
         "title": "Isomorphic Strings",
         "platform": "LC"
@@ -1387,6 +1502,7 @@
         "expanded_url": "https://leetcode.com/problems/rotate-string/",
         "expanded_stripped_url": "https://leetcode.com/problems/rotate-string/",
         "type": "problem",
+        "id_base": "rotate-string",
         "id": "796LC",
         "title": "Rotate String",
         "platform": "LC"
@@ -1399,6 +1515,7 @@
         "expanded_url": "https://leetcode.com/problems/valid-anagram/",
         "expanded_stripped_url": "https://leetcode.com/problems/valid-anagram/",
         "type": "problem",
+        "id_base": "valid-anagram",
         "id": "242LC",
         "title": "Valid Anagram",
         "platform": "LC"
@@ -1411,6 +1528,7 @@
         "expanded_url": "https://leetcode.com/problems/sort-characters-by-frequency/",
         "expanded_stripped_url": "https://leetcode.com/problems/sort-characters-by-frequency/",
         "type": "problem",
+        "id_base": "sort-characters-by-frequency",
         "id": "451LC",
         "title": "Sort Characters By Frequency",
         "platform": "LC"
@@ -1423,6 +1541,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
         "type": "problem",
+        "id_base": "maximum-nesting-depth-of-the-parentheses",
         "id": "1614LC",
         "title": "Maximum Nesting Depth of the Parentheses",
         "platform": "LC"
@@ -1435,6 +1554,7 @@
         "expanded_url": "https://leetcode.com/problems/roman-to-integer/",
         "expanded_stripped_url": "https://leetcode.com/problems/roman-to-integer/",
         "type": "problem",
+        "id_base": "roman-to-integer",
         "id": "13LC",
         "title": "Roman to Integer",
         "platform": "LC"
@@ -1447,6 +1567,7 @@
         "expanded_url": "https://leetcode.com/problems/string-to-integer-atoi/",
         "expanded_stripped_url": "https://leetcode.com/problems/string-to-integer-atoi/",
         "type": "problem",
+        "id_base": "string-to-integer-atoi",
         "id": "8LC",
         "title": "String to Integer (atoi)",
         "platform": "LC"
@@ -1459,6 +1580,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=count-number-of-substrings",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1",
         "type": "problem",
+        "id_base": "count-number-of-substrings4528",
         "id": "702992GFG",
         "title": "Substrings with K Distinct",
         "platform": "GFG"
@@ -1471,6 +1593,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-palindromic-substring/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-palindromic-substring/",
         "type": "problem",
+        "id_base": "longest-palindromic-substring",
         "id": "5LC",
         "title": "Longest Palindromic Substring",
         "platform": "LC"
@@ -1483,6 +1606,7 @@
         "expanded_url": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
         "expanded_stripped_url": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
         "type": "problem",
+        "id_base": "sum-of-beauty-of-all-substrings",
         "id": "1781LC",
         "title": "Sum of Beauty of All Substrings",
         "platform": "LC"
@@ -1495,6 +1619,7 @@
         "expanded_url": "https://leetcode.com/problems/reverse-words-in-a-string/",
         "expanded_stripped_url": "https://leetcode.com/problems/reverse-words-in-a-string/",
         "type": "problem",
+        "id_base": "reverse-words-in-a-string",
         "id": "151LC",
         "title": "Reverse Words in a String",
         "platform": "LC"
@@ -1507,6 +1632,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1",
         "type": "problem",
+        "id_base": "introduction-to-linked-list",
         "id": "712529GFG",
         "title": "Array to Linked List",
         "platform": "GFG"
@@ -1519,6 +1645,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=linked-list-insertion",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0",
         "type": "problem",
+        "id_base": "linked-list-insertion-1587115620",
         "id": "700525GFG",
         "title": "Linked List Insertion At End",
         "platform": "GFG"
@@ -1531,6 +1658,7 @@
         "expanded_url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
         "type": "problem",
+        "id_base": "delete-node-in-a-linked-list",
         "id": "237LC",
         "title": "Delete Node in a Linked List",
         "platform": "LC"
@@ -1543,6 +1671,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=count-nodes-of-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0",
         "type": "problem",
+        "id_base": "count-nodes-of-linked-list",
         "id": "700039GFG",
         "title": "Count Linked List Nodes",
         "platform": "GFG"
@@ -1555,6 +1684,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=search-in-linked-list-1664434326",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1",
         "type": "problem",
+        "id_base": "search-in-linked-list-1664434326",
         "id": "712251GFG",
         "title": "Search in Linked List",
         "platform": "GFG"
@@ -1567,6 +1697,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-doubly-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1",
         "type": "problem",
+        "id_base": "introduction-to-doubly-linked-list",
         "id": "712534GFG",
         "title": "Introduction to Doubly Linked List",
         "platform": "GFG"
@@ -1579,6 +1710,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=insert-a-node-in-doubly-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
         "type": "problem",
+        "id_base": "insert-a-node-in-doubly-linked-list",
         "id": "700232GFG",
         "title": "Doubly linked list Insertion at given position",
         "platform": "GFG"
@@ -1591,6 +1723,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=delete-node-in-doubly-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1",
         "type": "problem",
+        "id_base": "delete-node-in-doubly-linked-list",
         "id": "700131GFG",
         "title": "Delete in a Doubly Linked List",
         "platform": "GFG"
@@ -1603,6 +1736,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=reverse-a-doubly-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
         "type": "problem",
+        "id_base": "reverse-a-doubly-linked-list",
         "id": "700137GFG",
         "title": "Reverse a Doubly Linked List",
         "platform": "GFG"
@@ -1615,6 +1749,7 @@
         "expanded_url": "https://leetcode.com/problems/middle-of-the-linked-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/middle-of-the-linked-list/",
         "type": "problem",
+        "id_base": "middle-of-the-linked-list",
         "id": "876LC",
         "title": "Middle of the Linked List",
         "platform": "LC"
@@ -1627,6 +1762,7 @@
         "expanded_url": "https://leetcode.com/problems/reverse-linked-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/reverse-linked-list/",
         "type": "problem",
+        "id_base": "reverse-linked-list",
         "id": "206LC",
         "title": "Reverse Linked List",
         "platform": "LC"
@@ -1639,6 +1775,7 @@
         "expanded_url": "https://leetcode.com/problems/reverse-linked-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/reverse-linked-list/",
         "type": "problem",
+        "id_base": "reverse-linked-list",
         "id": "206LC",
         "title": "Reverse Linked List",
         "platform": "LC"
@@ -1651,6 +1788,7 @@
         "expanded_url": "https://leetcode.com/problems/linked-list-cycle/",
         "expanded_stripped_url": "https://leetcode.com/problems/linked-list-cycle/",
         "type": "problem",
+        "id_base": "linked-list-cycle",
         "id": "141LC",
         "title": "Linked List Cycle",
         "platform": "LC"
@@ -1663,6 +1801,7 @@
         "expanded_url": "https://leetcode.com/problems/linked-list-cycle-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/linked-list-cycle-ii/",
         "type": "problem",
+        "id_base": "linked-list-cycle-ii",
         "id": "142LC",
         "title": "Linked List Cycle II",
         "platform": "LC"
@@ -1675,6 +1814,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-length-of-loop",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
         "type": "problem",
+        "id_base": "find-length-of-loop",
         "id": "700620GFG",
         "title": "Find length of Loop",
         "platform": "GFG"
@@ -1687,6 +1827,7 @@
         "expanded_url": "https://leetcode.com/problems/palindrome-linked-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/palindrome-linked-list/",
         "type": "problem",
+        "id_base": "palindrome-linked-list",
         "id": "234LC",
         "title": "Palindrome Linked List",
         "platform": "LC"
@@ -1699,6 +1840,7 @@
         "expanded_url": "https://leetcode.com/problems/odd-even-linked-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/odd-even-linked-list/",
         "type": "problem",
+        "id_base": "odd-even-linked-list",
         "id": "328LC",
         "title": "Odd Even Linked List",
         "platform": "LC"
@@ -1711,6 +1853,7 @@
         "expanded_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
         "type": "problem",
+        "id_base": "remove-nth-node-from-end-of-list",
         "id": "19LC",
         "title": "Remove Nth Node From End of List",
         "platform": "LC"
@@ -1723,6 +1866,7 @@
         "expanded_url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
         "type": "problem",
+        "id_base": "delete-the-middle-node-of-a-linked-list",
         "id": "2095LC",
         "title": "Delete the Middle Node of a Linked List",
         "platform": "LC"
@@ -1735,6 +1879,7 @@
         "expanded_url": "https://leetcode.com/problems/sort-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/sort-list/",
         "type": "problem",
+        "id_base": "sort-list",
         "id": "148LC",
         "title": "Sort List",
         "platform": "LC"
@@ -1747,6 +1892,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=given-a-linked-list-of-0s-1s-and-2s-sort-it",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
         "type": "problem",
+        "id_base": "given-a-linked-list-of-0s-1s-and-2s-sort-it",
         "id": "700028GFG",
         "title": "Sort a linked list of 0s, 1s and 2s",
         "platform": "GFG"
@@ -1759,6 +1905,7 @@
         "expanded_url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
         "expanded_stripped_url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
         "type": "problem",
+        "id_base": "intersection-of-two-linked-lists",
         "id": "160LC",
         "title": "Intersection of Two Linked Lists",
         "platform": "LC"
@@ -1771,6 +1918,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=add-1-to-a-number-represented-as-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
         "type": "problem",
+        "id_base": "add-1-to-a-number-represented-as-linked-list",
         "id": "700053GFG",
         "title": "Add 1 to a Linked List Number",
         "platform": "GFG"
@@ -1783,6 +1931,7 @@
         "expanded_url": "https://leetcode.com/problems/add-two-numbers/",
         "expanded_stripped_url": "https://leetcode.com/problems/add-two-numbers/",
         "type": "problem",
+        "id_base": "add-two-numbers",
         "id": "2LC",
         "title": "Add Two Numbers",
         "platform": "LC"
@@ -1795,6 +1944,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1",
         "type": "problem",
+        "id_base": "delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list",
         "id": "712304GFG",
         "title": "Delete all occurrences of a given key in a doubly linked list",
         "platform": "GFG"
@@ -1807,6 +1957,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-pairs-with-given-sum-in-doubly-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
         "type": "problem",
+        "id_base": "find-pairs-with-given-sum-in-doubly-linked-list",
         "id": "710059GFG",
         "title": "Find pairs with given sum in doubly linked list",
         "platform": "GFG"
@@ -1819,6 +1970,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=remove-duplicates-from-a-sorted-doubly-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1",
         "type": "problem",
+        "id_base": "remove-duplicates-from-a-sorted-doubly-linked-list",
         "id": "712264GFG",
         "title": "Remove duplicates from a sorted doubly linked list",
         "platform": "GFG"
@@ -1831,6 +1983,7 @@
         "expanded_url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
         "expanded_stripped_url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
         "type": "problem",
+        "id_base": "reverse-nodes-in-k-group",
         "id": "25LC",
         "title": "Reverse Nodes in k-Group",
         "platform": "LC"
@@ -1843,6 +1996,7 @@
         "expanded_url": "https://leetcode.com/problems/rotate-list/description/",
         "expanded_stripped_url": "https://leetcode.com/problems/rotate-list/description/",
         "type": "problem",
+        "id_base": "rotate-list",
         "id": "61LC",
         "title": "Rotate List",
         "platform": "LC"
@@ -1855,6 +2009,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=flattening-a-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1",
         "type": "problem",
+        "id_base": "flattening-a-linked-list",
         "id": "700192GFG",
         "title": "Flattening a Linked List",
         "platform": "GFG"
@@ -1867,6 +2022,7 @@
         "expanded_url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
         "expanded_stripped_url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
         "type": "problem",
+        "id_base": "copy-list-with-random-pointer",
         "id": "138LC",
         "title": "Copy List with Random Pointer",
         "platform": "LC"
@@ -1879,6 +2035,7 @@
         "expanded_url": "https://leetcode.com/problems/string-to-integer-atoi/",
         "expanded_stripped_url": "https://leetcode.com/problems/string-to-integer-atoi/",
         "type": "problem",
+        "id_base": "string-to-integer-atoi",
         "id": "8LC",
         "title": "String to Integer (atoi)",
         "platform": "LC"
@@ -1891,6 +2048,7 @@
         "expanded_url": "https://leetcode.com/problems/powx-n/",
         "expanded_stripped_url": "https://leetcode.com/problems/powx-n/",
         "type": "problem",
+        "id_base": "powx-n",
         "id": "50LC",
         "title": "Pow(x, n)",
         "platform": "LC"
@@ -1903,6 +2061,7 @@
         "expanded_url": "https://leetcode.com/problems/count-good-numbers/",
         "expanded_stripped_url": "https://leetcode.com/problems/count-good-numbers/",
         "type": "problem",
+        "id_base": "count-good-numbers",
         "id": "1922LC",
         "title": "Count Good Numbers",
         "platform": "LC"
@@ -1915,6 +2074,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/sort-a-stack/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=sort-a-stack",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/sort-a-stack/1",
         "type": "problem",
+        "id_base": "sort-a-stack",
         "id": "700469GFG",
         "title": "Sort a stack",
         "platform": "GFG"
@@ -1927,6 +2087,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/reverse-a-stack/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=reverse-a-stack",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/reverse-a-stack/1",
         "type": "problem",
+        "id_base": "reverse-a-stack",
         "id": "709919GFG",
         "title": "Reverse a Stack",
         "platform": "GFG"
@@ -1939,6 +2100,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/generate-binary-strings-without-consecutive-1s/?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=generate-binary-strings-without-consecutive-1s",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/generate-binary-strings-without-consecutive-1s/?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=generate-binary-strings-without-consecutive-1s",
         "type": "tutorial",
+        "id_base": "?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=generate-binary-strings-without-consecutive-1s",
         "id": "38d372d2-106d-5118-bea0-628ba18b39e0GFG",
         "title": "Generate all binary strings without consecutive 1&#8217;s | GeeksforGeeks",
         "platform": "GFG"
@@ -1951,6 +2113,7 @@
         "expanded_url": "https://leetcode.com/problems/generate-parentheses/",
         "expanded_stripped_url": "https://leetcode.com/problems/generate-parentheses/",
         "type": "problem",
+        "id_base": "generate-parentheses",
         "id": "22LC",
         "title": "Generate Parentheses",
         "platform": "LC"
@@ -1963,6 +2126,7 @@
         "expanded_url": "https://leetcode.com/problems/subsets/",
         "expanded_stripped_url": "https://leetcode.com/problems/subsets/",
         "type": "problem",
+        "id_base": "subsets",
         "id": "78LC",
         "title": "Subsets",
         "platform": "LC"
@@ -1975,6 +2139,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/better-string/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=better-string",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/better-string/1",
         "type": "problem",
+        "id_base": "better-string",
         "id": "712681GFG",
         "title": "Better String",
         "platform": "GFG"
@@ -1987,6 +2152,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=perfect-sum-problem",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1",
         "type": "problem",
+        "id_base": "perfect-sum-problem5633",
         "id": "704213GFG",
         "title": "Perfect Sum Problem",
         "platform": "GFG"
@@ -1999,6 +2165,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/subset-sum_630213?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/subset-sum_630213",
         "type": "problem",
+        "id_base": "subset-sum_630213",
         "id": "6979C360",
         "title": "Subset Sum",
         "platform": "C360"
@@ -2011,6 +2178,7 @@
         "expanded_url": "https://leetcode.com/problems/combination-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/combination-sum/",
         "type": "problem",
+        "id_base": "combination-sum",
         "id": "39LC",
         "title": "Combination Sum",
         "platform": "LC"
@@ -2023,6 +2191,7 @@
         "expanded_url": "https://leetcode.com/problems/combination-sum-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/combination-sum-ii/",
         "type": "problem",
+        "id_base": "combination-sum-ii",
         "id": "40LC",
         "title": "Combination Sum II",
         "platform": "LC"
@@ -2035,6 +2204,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/subset-sums2234/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=subset-sums",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/subset-sums2234/1",
         "type": "problem",
+        "id_base": "subset-sums2234",
         "id": "704723GFG",
         "title": "Subset Sums",
         "platform": "GFG"
@@ -2047,6 +2217,7 @@
         "expanded_url": "https://leetcode.com/problems/subsets-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/subsets-ii/",
         "type": "problem",
+        "id_base": "subsets-ii",
         "id": "90LC",
         "title": "Subsets II",
         "platform": "LC"
@@ -2059,6 +2230,7 @@
         "expanded_url": "https://leetcode.com/problems/combination-sum-iii/",
         "expanded_stripped_url": "https://leetcode.com/problems/combination-sum-iii/",
         "type": "problem",
+        "id_base": "combination-sum-iii",
         "id": "216LC",
         "title": "Combination Sum III",
         "platform": "LC"
@@ -2071,6 +2243,7 @@
         "expanded_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
         "type": "problem",
+        "id_base": "letter-combinations-of-a-phone-number",
         "id": "17LC",
         "title": "Letter Combinations of a Phone Number",
         "platform": "LC"
@@ -2083,6 +2256,7 @@
         "expanded_url": "https://leetcode.com/problems/palindrome-partitioning/",
         "expanded_stripped_url": "https://leetcode.com/problems/palindrome-partitioning/",
         "type": "problem",
+        "id_base": "palindrome-partitioning",
         "id": "131LC",
         "title": "Palindrome Partitioning",
         "platform": "LC"
@@ -2095,6 +2269,7 @@
         "expanded_url": "https://leetcode.com/problems/word-search/",
         "expanded_stripped_url": "https://leetcode.com/problems/word-search/",
         "type": "problem",
+        "id_base": "word-search",
         "id": "79LC",
         "title": "Word Search",
         "platform": "LC"
@@ -2107,6 +2282,7 @@
         "expanded_url": "https://leetcode.com/problems/n-queens/",
         "expanded_stripped_url": "https://leetcode.com/problems/n-queens/",
         "type": "problem",
+        "id_base": "n-queens",
         "id": "51LC",
         "title": "N-Queens",
         "platform": "LC"
@@ -2119,6 +2295,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
         "type": "problem",
+        "id_base": "rat-in-a-maze-problem",
         "id": "700408GFG",
         "title": "Rat in a Maze Problem - I",
         "platform": "GFG"
@@ -2131,6 +2308,7 @@
         "expanded_url": "https://leetcode.com/problems/word-break/",
         "expanded_stripped_url": "https://leetcode.com/problems/word-break/",
         "type": "problem",
+        "id_base": "word-break",
         "id": "139LC",
         "title": "Word Break",
         "platform": "LC"
@@ -2143,6 +2321,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
         "type": "problem",
+        "id_base": "m-coloring-problem-1587115620",
         "id": "701374GFG",
         "title": "M-Coloring Problem",
         "platform": "GFG"
@@ -2155,6 +2334,7 @@
         "expanded_url": "https://leetcode.com/problems/sudoku-solver/",
         "expanded_stripped_url": "https://leetcode.com/problems/sudoku-solver/",
         "type": "problem",
+        "id_base": "sudoku-solver",
         "id": "37LC",
         "title": "Sudoku Solver",
         "platform": "LC"
@@ -2167,6 +2347,7 @@
         "expanded_url": "https://leetcode.com/problems/expression-add-operators/",
         "expanded_stripped_url": "https://leetcode.com/problems/expression-add-operators/",
         "type": "problem",
+        "id_base": "expression-add-operators",
         "id": "282LC",
         "title": "Expression Add Operators",
         "platform": "LC"
@@ -2179,6 +2360,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bit-manipulation",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/bit-manipulation-1666686020/1",
         "type": "problem",
+        "id_base": "bit-manipulation-1666686020",
         "id": "712531GFG",
         "title": "Bit Manipulation",
         "platform": "GFG"
@@ -2191,6 +2373,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1",
         "type": "problem",
+        "id_base": "check-whether-k-th-bit-is-set-or-not-1587115620",
         "id": "701154GFG",
         "title": "K-th Bit is Set or Not",
         "platform": "GFG"
@@ -2203,6 +2386,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/odd-or-even3618/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/odd-or-even3618/1",
         "type": "problem",
+        "id_base": "odd-or-even3618",
         "id": "703724GFG",
         "title": "Odd or Even",
         "platform": "GFG"
@@ -2215,6 +2399,7 @@
         "expanded_url": "https://leetcode.com/problems/power-of-two/",
         "expanded_stripped_url": "https://leetcode.com/problems/power-of-two/",
         "type": "problem",
+        "id_base": "power-of-two",
         "id": "231LC",
         "title": "Power of Two",
         "platform": "LC"
@@ -2227,6 +2412,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1",
         "type": "problem",
+        "id_base": "count-total-set-bits-1587115620",
         "id": "701158GFG",
         "title": "Count total set bits",
         "platform": "GFG"
@@ -2239,6 +2425,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1",
         "type": "problem",
+        "id_base": "set-the-rightmost-unset-bit4436",
         "id": "703766GFG",
         "title": "Set the rightmost unset bit",
         "platform": "GFG"
@@ -2251,6 +2438,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1",
         "type": "problem",
+        "id_base": "swap-two-numbers3844",
         "id": "704620GFG",
         "title": "Swap two numbers",
         "platform": "GFG"
@@ -2263,6 +2451,7 @@
         "expanded_url": "https://leetcode.com/problems/divide-two-integers/",
         "expanded_stripped_url": "https://leetcode.com/problems/divide-two-integers/",
         "type": "problem",
+        "id_base": "divide-two-integers",
         "id": "29LC",
         "title": "Divide Two Integers",
         "platform": "LC"
@@ -2275,6 +2464,7 @@
         "expanded_url": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
         "type": "problem",
+        "id_base": "minimum-bit-flips-to-convert-number",
         "id": "2220LC",
         "title": "Minimum Bit Flips to Convert Number",
         "platform": "LC"
@@ -2287,6 +2477,7 @@
         "expanded_url": "https://leetcode.com/problems/single-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/single-number/",
         "type": "problem",
+        "id_base": "single-number",
         "id": "136LC",
         "title": "Single Number",
         "platform": "LC"
@@ -2299,6 +2490,7 @@
         "expanded_url": "https://leetcode.com/problems/subsets/",
         "expanded_stripped_url": "https://leetcode.com/problems/subsets/",
         "type": "problem",
+        "id_base": "subsets",
         "id": "78LC",
         "title": "Subsets",
         "platform": "LC"
@@ -2311,6 +2503,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-xor-of-numbers-from-l-to-r",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1",
         "type": "problem",
+        "id_base": "find-xor-of-numbers-from-l-to-r",
         "id": "712176GFG",
         "title": "Find XOR of numbers from L to R.",
         "platform": "GFG"
@@ -2323,6 +2516,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1",
         "type": "problem",
+        "id_base": "two-numbers-with-odd-occurrences5846",
         "id": "705589GFG",
         "title": "Two numbers with odd occurrences",
         "platform": "GFG"
@@ -2335,6 +2529,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/prime-factors5052/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=Prime-Factors",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/prime-factors5052/1",
         "type": "problem",
+        "id_base": "prime-factors5052",
         "id": "705041GFG",
         "title": "Prime Factors",
         "platform": "GFG"
@@ -2347,6 +2542,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1?utm_source=youtube&amp%3Butm_medium=collab_striver_ytdescription&amp%3Butm_campaign=all-divisors-of-a-number",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1",
         "type": "problem",
+        "id_base": "all-divisors-of-a-number",
         "id": "712172GFG",
         "title": "All divisors of a Number",
         "platform": "GFG"
@@ -2359,6 +2555,7 @@
         "expanded_url": "https://leetcode.com/problems/count-primes/",
         "expanded_stripped_url": "https://leetcode.com/problems/count-primes/",
         "type": "problem",
+        "id_base": "count-primes",
         "id": "204LC",
         "title": "Count Primes",
         "platform": "LC"
@@ -2371,6 +2568,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/prime-factorization-using-sieve/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=prime-factorization-using-sieve",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/prime-factorization-using-sieve/1",
         "type": "problem",
+        "id_base": "prime-factorization-using-sieve",
         "id": "712230GFG",
         "title": "Prime Factorization using Sieve",
         "platform": "GFG"
@@ -2383,6 +2581,7 @@
         "expanded_url": "https://leetcode.com/problems/powx-n/",
         "expanded_stripped_url": "https://leetcode.com/problems/powx-n/",
         "type": "problem",
+        "id_base": "powx-n",
         "id": "50LC",
         "title": "Pow(x, n)",
         "platform": "LC"
@@ -2395,6 +2594,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-stack-using-array",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1",
         "type": "problem",
+        "id_base": "implement-stack-using-array",
         "id": "700208GFG",
         "title": "Implement stack using array",
         "platform": "GFG"
@@ -2407,6 +2607,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-queue-using-array",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1",
         "type": "problem",
+        "id_base": "implement-queue-using-array",
         "id": "700211GFG",
         "title": "Queue Using Array",
         "platform": "GFG"
@@ -2419,6 +2620,7 @@
         "expanded_url": "https://leetcode.com/problems/implement-stack-using-queues/",
         "expanded_stripped_url": "https://leetcode.com/problems/implement-stack-using-queues/",
         "type": "problem",
+        "id_base": "implement-stack-using-queues",
         "id": "225LC",
         "title": "Implement Stack using Queues",
         "platform": "LC"
@@ -2431,6 +2633,7 @@
         "expanded_url": "https://leetcode.com/problems/implement-queue-using-stacks/",
         "expanded_stripped_url": "https://leetcode.com/problems/implement-queue-using-stacks/",
         "type": "problem",
+        "id_base": "implement-queue-using-stacks",
         "id": "232LC",
         "title": "Implement Queue using Stacks",
         "platform": "LC"
@@ -2443,6 +2646,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-stack-using-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1",
         "type": "problem",
+        "id_base": "implement-stack-using-linked-list",
         "id": "700207GFG",
         "title": "Stack using Linked List",
         "platform": "GFG"
@@ -2455,6 +2659,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-queue-using-linked-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
         "type": "problem",
+        "id_base": "implement-queue-using-linked-list",
         "id": "700210GFG",
         "title": "Queue using Linked List",
         "platform": "GFG"
@@ -2467,6 +2672,7 @@
         "expanded_url": "https://leetcode.com/problems/valid-parentheses/",
         "expanded_stripped_url": "https://leetcode.com/problems/valid-parentheses/",
         "type": "problem",
+        "id_base": "valid-parentheses",
         "id": "20LC",
         "title": "Valid Parentheses",
         "platform": "LC"
@@ -2479,6 +2685,7 @@
         "expanded_url": "https://leetcode.com/problems/min-stack/",
         "expanded_stripped_url": "https://leetcode.com/problems/min-stack/",
         "type": "problem",
+        "id_base": "min-stack",
         "id": "155LC",
         "title": "Min Stack",
         "platform": "LC"
@@ -2491,6 +2698,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=infix-to-postfix",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1",
         "type": "problem",
+        "id_base": "infix-to-postfix-1587115620",
         "id": "701345GFG",
         "title": "Infix to Postfix",
         "platform": "GFG"
@@ -2503,6 +2711,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=prefix-to-infix-conversion",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1",
         "type": "problem",
+        "id_base": "prefix-to-infix-conversion",
         "id": "712234GFG",
         "title": "Prefix to Infix Conversion",
         "platform": "GFG"
@@ -2515,6 +2724,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=prefix-to-postfix-conversion",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1",
         "type": "problem",
+        "id_base": "prefix-to-postfix-conversion",
         "id": "712246GFG",
         "title": "Prefix to Postfix Conversion",
         "platform": "GFG"
@@ -2527,6 +2737,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=postfix-to-prefix-conversion",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1",
         "type": "problem",
+        "id_base": "postfix-to-prefix-conversion",
         "id": "712305GFG",
         "title": "Postfix to Prefix Conversion",
         "platform": "GFG"
@@ -2539,6 +2750,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=postfix-to-prefix-conversion",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1",
         "type": "problem",
+        "id_base": "postfix-to-infix-conversion",
         "id": "712306GFG",
         "title": "Postfix to Infix Conversion",
         "platform": "GFG"
@@ -2551,6 +2763,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=infix-to-postfix",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1",
         "type": "problem",
+        "id_base": "infix-to-postfix-1587115620",
         "id": "701345GFG",
         "title": "Infix to Postfix",
         "platform": "GFG"
@@ -2563,6 +2776,7 @@
         "expanded_url": "https://leetcode.com/problems/next-greater-element-i/",
         "expanded_stripped_url": "https://leetcode.com/problems/next-greater-element-i/",
         "type": "problem",
+        "id_base": "next-greater-element-i",
         "id": "496LC",
         "title": "Next Greater Element I",
         "platform": "LC"
@@ -2575,6 +2789,7 @@
         "expanded_url": "https://leetcode.com/problems/next-greater-element-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/next-greater-element-ii/",
         "type": "problem",
+        "id_base": "next-greater-element-ii",
         "id": "503LC",
         "title": "Next Greater Element II",
         "platform": "LC"
@@ -2587,6 +2802,7 @@
         "expanded_url": "https://www.interviewbit.com/problems/nearest-smaller-element/",
         "expanded_stripped_url": "https://www.interviewbit.com/problems/nearest-smaller-element/",
         "type": "problem",
+        "id_base": "nearest-smaller-element",
         "id": "332IB",
         "title": "Nearest Smaller Element",
         "platform": "IB"
@@ -2599,6 +2815,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=number-of-nges-to-the-right",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1",
         "type": "problem",
+        "id_base": "number-of-nges-to-the-right",
         "id": "712213GFG",
         "title": "Number of greater elements to the right",
         "platform": "GFG"
@@ -2611,6 +2828,7 @@
         "expanded_url": "https://leetcode.com/problems/trapping-rain-water/",
         "expanded_stripped_url": "https://leetcode.com/problems/trapping-rain-water/",
         "type": "problem",
+        "id_base": "trapping-rain-water",
         "id": "42LC",
         "title": "Trapping Rain Water",
         "platform": "LC"
@@ -2623,6 +2841,7 @@
         "expanded_url": "https://leetcode.com/problems/sum-of-subarray-minimums/",
         "expanded_stripped_url": "https://leetcode.com/problems/sum-of-subarray-minimums/",
         "type": "problem",
+        "id_base": "sum-of-subarray-minimums",
         "id": "907LC",
         "title": "Sum of Subarray Minimums",
         "platform": "LC"
@@ -2635,6 +2854,7 @@
         "expanded_url": "https://leetcode.com/problems/asteroid-collision/",
         "expanded_stripped_url": "https://leetcode.com/problems/asteroid-collision/",
         "type": "problem",
+        "id_base": "asteroid-collision",
         "id": "735LC",
         "title": "Asteroid Collision",
         "platform": "LC"
@@ -2647,6 +2867,7 @@
         "expanded_url": "https://leetcode.com/problems/sum-of-subarray-ranges/",
         "expanded_stripped_url": "https://leetcode.com/problems/sum-of-subarray-ranges/",
         "type": "problem",
+        "id_base": "sum-of-subarray-ranges",
         "id": "2104LC",
         "title": "Sum of Subarray Ranges",
         "platform": "LC"
@@ -2659,6 +2880,7 @@
         "expanded_url": "https://leetcode.com/problems/remove-k-digits/",
         "expanded_stripped_url": "https://leetcode.com/problems/remove-k-digits/",
         "type": "problem",
+        "id_base": "remove-k-digits",
         "id": "402LC",
         "title": "Remove K Digits",
         "platform": "LC"
@@ -2671,6 +2893,7 @@
         "expanded_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
         "expanded_stripped_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
         "type": "problem",
+        "id_base": "largest-rectangle-in-histogram",
         "id": "84LC",
         "title": "Largest Rectangle in Histogram",
         "platform": "LC"
@@ -2683,6 +2906,7 @@
         "expanded_url": "https://leetcode.com/problems/maximal-rectangle/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximal-rectangle/",
         "type": "problem",
+        "id_base": "maximal-rectangle",
         "id": "85LC",
         "title": "Maximal Rectangle",
         "platform": "LC"
@@ -2695,6 +2919,7 @@
         "expanded_url": "https://leetcode.com/problems/sliding-window-maximum/",
         "expanded_stripped_url": "https://leetcode.com/problems/sliding-window-maximum/",
         "type": "problem",
+        "id_base": "sliding-window-maximum",
         "id": "239LC",
         "title": "Sliding Window Maximum",
         "platform": "LC"
@@ -2707,6 +2932,7 @@
         "expanded_url": "https://leetcode.com/problems/online-stock-span/",
         "expanded_stripped_url": "https://leetcode.com/problems/online-stock-span/",
         "type": "problem",
+        "id_base": "online-stock-span",
         "id": "901LC",
         "title": "Online Stock Span",
         "platform": "LC"
@@ -2719,6 +2945,7 @@
         "expanded_url": "https://www.lintcode.com/problem/645/",
         "expanded_stripped_url": "https://www.lintcode.com/problem/645/",
         "type": "problem",
+        "id_base": "645",
         "id": "645LINT",
         "title": "Find the Celebrity",
         "platform": "LINT"
@@ -2731,6 +2958,7 @@
         "expanded_url": "https://leetcode.com/problems/lru-cache/",
         "expanded_stripped_url": "https://leetcode.com/problems/lru-cache/",
         "type": "problem",
+        "id_base": "lru-cache",
         "id": "146LC",
         "title": "LRU Cache",
         "platform": "LC"
@@ -2743,6 +2971,7 @@
         "expanded_url": "https://leetcode.com/problems/lfu-cache/",
         "expanded_stripped_url": "https://leetcode.com/problems/lfu-cache/",
         "type": "problem",
+        "id_base": "lfu-cache",
         "id": "460LC",
         "title": "LFU Cache",
         "platform": "LC"
@@ -2755,6 +2984,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
         "type": "problem",
+        "id_base": "longest-substring-without-repeating-characters",
         "id": "3LC",
         "title": "Longest Substring Without Repeating Characters",
         "platform": "LC"
@@ -2767,6 +2997,7 @@
         "expanded_url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
         "expanded_stripped_url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
         "type": "problem",
+        "id_base": "max-consecutive-ones-iii",
         "id": "1004LC",
         "title": "Max Consecutive Ones III",
         "platform": "LC"
@@ -2779,6 +3010,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1",
         "type": "problem",
+        "id_base": "fruit-into-baskets-1663137462",
         "id": "712123GFG",
         "title": "Find length of the longest subarray containing atmost two distinct integers",
         "platform": "GFG"
@@ -2791,6 +3023,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
         "type": "problem",
+        "id_base": "longest-repeating-character-replacement",
         "id": "424LC",
         "title": "Longest Repeating Character Replacement",
         "platform": "LC"
@@ -2803,6 +3036,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-subarrays-with-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-subarrays-with-sum/",
         "type": "problem",
+        "id_base": "binary-subarrays-with-sum",
         "id": "930LC",
         "title": "Binary Subarrays With Sum",
         "platform": "LC"
@@ -2815,6 +3049,7 @@
         "expanded_url": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
         "expanded_stripped_url": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
         "type": "problem",
+        "id_base": "count-number-of-nice-subarrays",
         "id": "1248LC",
         "title": "Count Number of Nice Subarrays",
         "platform": "LC"
@@ -2827,6 +3062,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
         "type": "problem",
+        "id_base": "number-of-substrings-containing-all-three-characters",
         "id": "1358LC",
         "title": "Number of Substrings Containing All Three Characters",
         "platform": "LC"
@@ -2839,6 +3075,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
         "type": "problem",
+        "id_base": "maximum-points-you-can-obtain-from-cards",
         "id": "1423LC",
         "title": "Maximum Points You Can Obtain from Cards",
         "platform": "LC"
@@ -2851,6 +3088,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
         "type": "problem",
+        "id_base": "longest-substring-with-at-most-k-distinct-characters",
         "id": "340LC",
         "title": "Longest Substring with At Most K Distinct Characters",
         "platform": "LC"
@@ -2863,6 +3101,7 @@
         "expanded_url": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
         "expanded_stripped_url": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
         "type": "problem",
+        "id_base": "subarrays-with-k-different-integers",
         "id": "992LC",
         "title": "Subarrays with K Different Integers",
         "platform": "LC"
@@ -2875,6 +3114,7 @@
         "expanded_url": "https://leetcode.com/problems/minimum-window-substring/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimum-window-substring/",
         "type": "problem",
+        "id_base": "minimum-window-substring",
         "id": "76LC",
         "title": "Minimum Window Substring",
         "platform": "LC"
@@ -2887,6 +3127,7 @@
         "expanded_url": "https://leetcode.com/problems/minimum-window-subsequence/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimum-window-subsequence/",
         "type": "problem",
+        "id_base": "minimum-window-subsequence",
         "id": "727LC",
         "title": "Minimum Window Subsequence",
         "platform": "LC"
@@ -2899,6 +3140,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implementation-of-priority-queue-using-binary-heap",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1",
         "type": "problem",
+        "id_base": "implementation-of-priority-queue-using-binary-heap",
         "id": "712539GFG",
         "title": "Implementation of Priority Queue using Binary Heap",
         "platform": "GFG"
@@ -2911,6 +3153,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=operations-on-binary-min-heap",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1",
         "type": "problem",
+        "id_base": "operations-on-binary-min-heap",
         "id": "700240GFG",
         "title": "Binary Heap Operations",
         "platform": "GFG"
@@ -2923,6 +3166,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=does-array-represent-heap",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1",
         "type": "problem",
+        "id_base": "does-array-represent-heap4345",
         "id": "703173GFG",
         "title": "Does array represent Heap",
         "platform": "GFG"
@@ -2935,6 +3179,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=convert-min-heap-to-max-heap",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1",
         "type": "problem",
+        "id_base": "convert-min-heap-to-max-heap-1666385109",
         "id": "712527GFG",
         "title": "Convert Min Heap to Max Heap",
         "platform": "GFG"
@@ -2947,6 +3192,7 @@
         "expanded_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
         "type": "problem",
+        "id_base": "kth-largest-element-in-an-array",
         "id": "215LC",
         "title": "Kth Largest Element in an Array",
         "platform": "LC"
@@ -2959,6 +3205,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=kth-smallest-element",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1",
         "type": "problem",
+        "id_base": "kth-smallest-element5635",
         "id": "701747GFG",
         "title": "Kth Smallest",
         "platform": "GFG"
@@ -2971,6 +3218,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=merge-k-sorted-arrays",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1",
         "type": "problem",
+        "id_base": "merge-k-sorted-arrays",
         "id": "700450GFG",
         "title": "Merge k Sorted Arrays",
         "platform": "GFG"
@@ -2983,6 +3231,7 @@
         "expanded_url": "https://leetcode.com/problems/merge-k-sorted-lists/",
         "expanded_stripped_url": "https://leetcode.com/problems/merge-k-sorted-lists/",
         "type": "problem",
+        "id_base": "merge-k-sorted-lists",
         "id": "23LC",
         "title": "Merge k Sorted Lists",
         "platform": "LC"
@@ -2995,6 +3244,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/replace-elements-by-its-rank-in-the-array/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=replace-elements-by-its-rank-in-the-array",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/replace-elements-by-its-rank-in-the-array/1",
         "type": "problem",
+        "id_base": "replace-elements-by-its-rank-in-the-array",
         "id": "712519GFG",
         "title": "Replace elements by its rank in the array",
         "platform": "GFG"
@@ -3007,6 +3257,7 @@
         "expanded_url": "https://leetcode.com/problems/task-scheduler/",
         "expanded_stripped_url": "https://leetcode.com/problems/task-scheduler/",
         "type": "problem",
+        "id_base": "task-scheduler",
         "id": "621LC",
         "title": "Task Scheduler",
         "platform": "LC"
@@ -3019,6 +3270,7 @@
         "expanded_url": "https://leetcode.com/problems/hand-of-straights/",
         "expanded_stripped_url": "https://leetcode.com/problems/hand-of-straights/",
         "type": "problem",
+        "id_base": "hand-of-straights",
         "id": "846LC",
         "title": "Hand of Straights",
         "platform": "LC"
@@ -3031,6 +3283,7 @@
         "expanded_url": "https://leetcode.com/problems/design-twitter/",
         "expanded_stripped_url": "https://leetcode.com/problems/design-twitter/",
         "type": "problem",
+        "id_base": "design-twitter",
         "id": "355LC",
         "title": "Design Twitter",
         "platform": "LC"
@@ -3043,6 +3296,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=rod-cutting",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1",
         "type": "problem",
+        "id_base": "rod-cutting0840",
         "id": "703296GFG",
         "title": "Rod Cutting",
         "platform": "GFG"
@@ -3055,6 +3309,7 @@
         "expanded_url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
         "expanded_stripped_url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
         "type": "problem",
+        "id_base": "kth-largest-element-in-a-stream",
         "id": "703LC",
         "title": "Kth Largest Element in a Stream",
         "platform": "LC"
@@ -3067,6 +3322,7 @@
         "expanded_url": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
         "expanded_stripped_url": "https://www.interviewbit.com/problems/maximum-sum-combinations/",
         "type": "problem",
+        "id_base": "maximum-sum-combinations",
         "id": "11051IB",
         "title": "Maximum Sum Combinations",
         "platform": "IB"
@@ -3079,6 +3335,7 @@
         "expanded_url": "https://leetcode.com/problems/find-median-from-data-stream/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-median-from-data-stream/",
         "type": "problem",
+        "id_base": "find-median-from-data-stream",
         "id": "295LC",
         "title": "Find Median from Data Stream",
         "platform": "LC"
@@ -3091,6 +3348,7 @@
         "expanded_url": "https://leetcode.com/problems/top-k-frequent-elements/",
         "expanded_stripped_url": "https://leetcode.com/problems/top-k-frequent-elements/",
         "type": "problem",
+        "id_base": "top-k-frequent-elements",
         "id": "347LC",
         "title": "Top K Frequent Elements",
         "platform": "LC"
@@ -3103,6 +3361,7 @@
         "expanded_url": "https://leetcode.com/problems/assign-cookies/",
         "expanded_stripped_url": "https://leetcode.com/problems/assign-cookies/",
         "type": "problem",
+        "id_base": "assign-cookies",
         "id": "455LC",
         "title": "Assign Cookies",
         "platform": "LC"
@@ -3115,6 +3374,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
         "type": "problem",
+        "id_base": "fractional-knapsack-1587115620",
         "id": "701365GFG",
         "title": "Fractional Knapsack",
         "platform": "GFG"
@@ -3127,6 +3387,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/",
         "type": "tutorial",
+        "id_base": "find-minimum-number-of-coins-that-make-a-change",
         "id": "53efce83-b7d1-5934-9c6e-9d2c02c1523aGFG",
         "title": "Coin Change &#8211; Minimum Coins to Make Sum | GeeksforGeeks",
         "platform": "GFG"
@@ -3139,6 +3400,7 @@
         "expanded_url": "https://leetcode.com/problems/lemonade-change/",
         "expanded_stripped_url": "https://leetcode.com/problems/lemonade-change/",
         "type": "problem",
+        "id_base": "lemonade-change",
         "id": "860LC",
         "title": "Lemonade Change",
         "platform": "LC"
@@ -3151,6 +3413,7 @@
         "expanded_url": "https://leetcode.com/problems/valid-parenthesis-string/",
         "expanded_stripped_url": "https://leetcode.com/problems/valid-parenthesis-string/",
         "type": "problem",
+        "id_base": "valid-parenthesis-string",
         "id": "678LC",
         "title": "Valid Parenthesis String",
         "platform": "LC"
@@ -3163,6 +3426,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
         "type": "problem",
+        "id_base": "n-meetings-in-one-room-1587115620",
         "id": "701364GFG",
         "title": "N meetings in one room",
         "platform": "GFG"
@@ -3175,6 +3439,7 @@
         "expanded_url": "https://leetcode.com/problems/jump-game/",
         "expanded_stripped_url": "https://leetcode.com/problems/jump-game/",
         "type": "problem",
+        "id_base": "jump-game",
         "id": "55LC",
         "title": "Jump Game",
         "platform": "LC"
@@ -3187,6 +3452,7 @@
         "expanded_url": "https://leetcode.com/problems/jump-game-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/jump-game-ii/",
         "type": "problem",
+        "id_base": "jump-game-ii",
         "id": "45LC",
         "title": "Jump Game II",
         "platform": "LC"
@@ -3199,6 +3465,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
         "type": "problem",
+        "id_base": "minimum-platforms-1587115620",
         "id": "701368GFG",
         "title": "Minimum Platforms",
         "platform": "GFG"
@@ -3211,6 +3478,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
         "type": "problem",
+        "id_base": "job-sequencing-problem-1587115620",
         "id": "701367GFG",
         "title": "Job Sequencing Problem",
         "platform": "GFG"
@@ -3223,6 +3491,7 @@
         "expanded_url": "https://leetcode.com/problems/candy/",
         "expanded_stripped_url": "https://leetcode.com/problems/candy/",
         "type": "problem",
+        "id_base": "candy",
         "id": "135LC",
         "title": "Candy",
         "platform": "LC"
@@ -3235,6 +3504,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/shortest-job-first/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=shortest-job-first",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/shortest-job-first/1",
         "type": "problem",
+        "id_base": "shortest-job-first",
         "id": "712538GFG",
         "title": "Shortest Job first",
         "platform": "GFG"
@@ -3247,6 +3517,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/page-faults-in-lru5603/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=page-faults-in-lru",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/page-faults-in-lru5603/1",
         "type": "problem",
+        "id_base": "page-faults-in-lru5603",
         "id": "704684GFG",
         "title": "Page Faults in LRU",
         "platform": "GFG"
@@ -3259,6 +3530,7 @@
         "expanded_url": "https://leetcode.com/problems/insert-interval/",
         "expanded_stripped_url": "https://leetcode.com/problems/insert-interval/",
         "type": "problem",
+        "id_base": "insert-interval",
         "id": "57LC",
         "title": "Insert Interval",
         "platform": "LC"
@@ -3271,6 +3543,7 @@
         "expanded_url": "https://leetcode.com/problems/merge-intervals/",
         "expanded_stripped_url": "https://leetcode.com/problems/merge-intervals/",
         "type": "problem",
+        "id_base": "merge-intervals",
         "id": "56LC",
         "title": "Merge Intervals",
         "platform": "LC"
@@ -3283,6 +3556,7 @@
         "expanded_url": "https://leetcode.com/problems/non-overlapping-intervals/",
         "expanded_stripped_url": "https://leetcode.com/problems/non-overlapping-intervals/",
         "type": "problem",
+        "id_base": "non-overlapping-intervals",
         "id": "435LC",
         "title": "Non-overlapping Intervals",
         "platform": "LC"
@@ -3295,6 +3569,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/introduction-to-trees/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-trees",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/introduction-to-trees/1",
         "type": "problem",
+        "id_base": "introduction-to-trees",
         "id": "712532GFG",
         "title": "Introduction to Trees",
         "platform": "GFG"
@@ -3307,6 +3582,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=binary-tree-representation",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1",
         "type": "problem",
+        "id_base": "binary-tree-representation",
         "id": "712710GFG",
         "title": "Binary Tree Representation",
         "platform": "GFG"
@@ -3319,6 +3595,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=binary-tree-representation",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/binary-tree-representation/1",
         "type": "problem",
+        "id_base": "binary-tree-representation",
         "id": "712710GFG",
         "title": "Binary Tree Representation",
         "platform": "GFG"
@@ -3331,6 +3608,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/tree-traversal_981269?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/tree-traversal_981269",
         "type": "problem",
+        "id_base": "tree-traversal_981269",
         "id": "9238C360",
         "title": "Tree Traversals",
         "platform": "C360"
@@ -3343,6 +3621,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-preorder-traversal",
         "id": "144LC",
         "title": "Binary Tree Preorder Traversal",
         "platform": "LC"
@@ -3355,6 +3634,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-inorder-traversal",
         "id": "94LC",
         "title": "Binary Tree Inorder Traversal",
         "platform": "LC"
@@ -3367,6 +3647,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-postorder-traversal",
         "id": "145LC",
         "title": "Binary Tree Postorder Traversal",
         "platform": "LC"
@@ -3379,6 +3660,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-level-order-traversal",
         "id": "102LC",
         "title": "Binary Tree Level Order Traversal",
         "platform": "LC"
@@ -3391,6 +3673,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-preorder-traversal",
         "id": "144LC",
         "title": "Binary Tree Preorder Traversal",
         "platform": "LC"
@@ -3403,6 +3686,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-inorder-traversal",
         "id": "94LC",
         "title": "Binary Tree Inorder Traversal",
         "platform": "LC"
@@ -3415,6 +3699,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-postorder-traversal",
         "id": "145LC",
         "title": "Binary Tree Postorder Traversal",
         "platform": "LC"
@@ -3427,6 +3712,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-postorder-traversal",
         "id": "145LC",
         "title": "Binary Tree Postorder Traversal",
         "platform": "LC"
@@ -3439,6 +3725,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/postorder-traversal-iterative/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=postorder-traversal-iterative",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/postorder-traversal-iterative/1",
         "type": "problem",
+        "id_base": "postorder-traversal-iterative",
         "id": "706122GFG",
         "title": "Iterative Postorder",
         "platform": "GFG"
@@ -3451,6 +3738,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
         "type": "problem",
+        "id_base": "maximum-depth-of-binary-tree",
         "id": "104LC",
         "title": "Maximum Depth of Binary Tree",
         "platform": "LC"
@@ -3463,6 +3751,7 @@
         "expanded_url": "https://leetcode.com/problems/balanced-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/balanced-binary-tree/",
         "type": "problem",
+        "id_base": "balanced-binary-tree",
         "id": "110LC",
         "title": "Balanced Binary Tree",
         "platform": "LC"
@@ -3475,6 +3764,7 @@
         "expanded_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
         "type": "problem",
+        "id_base": "diameter-of-binary-tree",
         "id": "543LC",
         "title": "Diameter of Binary Tree",
         "platform": "LC"
@@ -3487,6 +3777,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
         "type": "problem",
+        "id_base": "binary-tree-maximum-path-sum",
         "id": "124LC",
         "title": "Binary Tree Maximum Path Sum",
         "platform": "LC"
@@ -3499,6 +3790,7 @@
         "expanded_url": "https://leetcode.com/problems/same-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/same-tree/",
         "type": "problem",
+        "id_base": "same-tree",
         "id": "100LC",
         "title": "Same Tree",
         "platform": "LC"
@@ -3511,6 +3803,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-zigzag-level-order-traversal",
         "id": "103LC",
         "title": "Binary Tree Zigzag Level Order Traversal",
         "platform": "LC"
@@ -3523,6 +3816,7 @@
         "expanded_url": "https://leetcode.com/problems/boundary-of-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/boundary-of-binary-tree/",
         "type": "problem",
+        "id_base": "boundary-of-binary-tree",
         "id": "545LC",
         "title": "Boundary of Binary Tree",
         "platform": "LC"
@@ -3535,6 +3829,7 @@
         "expanded_url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
         "type": "problem",
+        "id_base": "vertical-order-traversal-of-a-binary-tree",
         "id": "987LC",
         "title": "Vertical Order Traversal of a Binary Tree",
         "platform": "LC"
@@ -3547,6 +3842,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
         "type": "problem",
+        "id_base": "top-view-of-binary-tree",
         "id": "700490GFG",
         "title": "Top View of Binary Tree",
         "platform": "GFG"
@@ -3559,6 +3855,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
         "type": "problem",
+        "id_base": "bottom-view-of-binary-tree",
         "id": "700160GFG",
         "title": "Bottom View of Binary Tree",
         "platform": "GFG"
@@ -3571,6 +3868,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-right-side-view/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-right-side-view/",
         "type": "problem",
+        "id_base": "binary-tree-right-side-view",
         "id": "199LC",
         "title": "Binary Tree Right Side View",
         "platform": "LC"
@@ -3583,6 +3881,7 @@
         "expanded_url": "https://leetcode.com/problems/symmetric-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/symmetric-tree/",
         "type": "problem",
+        "id_base": "symmetric-tree",
         "id": "101LC",
         "title": "Symmetric Tree",
         "platform": "LC"
@@ -3595,6 +3894,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=root-to-leaf-paths",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1",
         "type": "problem",
+        "id_base": "root-to-leaf-paths",
         "id": "700553GFG",
         "title": "Root to Leaf Paths",
         "platform": "GFG"
@@ -3607,6 +3907,7 @@
         "expanded_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
         "type": "problem",
+        "id_base": "lowest-common-ancestor-of-a-binary-tree",
         "id": "236LC",
         "title": "Lowest Common Ancestor of a Binary Tree",
         "platform": "LC"
@@ -3619,6 +3920,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
         "type": "problem",
+        "id_base": "maximum-width-of-binary-tree",
         "id": "662LC",
         "title": "Maximum Width of Binary Tree",
         "platform": "LC"
@@ -3631,6 +3933,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=hildren-sum-parent",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
         "type": "problem",
+        "id_base": "children-sum-parent",
         "id": "700618GFG",
         "title": "Children Sum in a Binary Tree",
         "platform": "GFG"
@@ -3643,6 +3946,7 @@
         "expanded_url": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
         "type": "problem",
+        "id_base": "all-nodes-distance-k-in-binary-tree",
         "id": "863LC",
         "title": "All Nodes Distance K in Binary Tree",
         "platform": "LC"
@@ -3655,6 +3959,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/burning-tree/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=burning-tree",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/burning-tree/1",
         "type": "problem",
+        "id_base": "burning-tree",
         "id": "702131GFG",
         "title": "Burning Tree",
         "platform": "GFG"
@@ -3667,6 +3972,7 @@
         "expanded_url": "https://leetcode.com/problems/count-complete-tree-nodes/",
         "expanded_stripped_url": "https://leetcode.com/problems/count-complete-tree-nodes/",
         "type": "problem",
+        "id_base": "count-complete-tree-nodes",
         "id": "222LC",
         "title": "Count Complete Tree Nodes",
         "platform": "LC"
@@ -3679,6 +3985,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/unique-binary-tree-requirements/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=unique-binary-tree-requirements",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/unique-binary-tree-requirements/1",
         "type": "problem",
+        "id_base": "unique-binary-tree-requirements",
         "id": "712680GFG",
         "title": "Unique Binary Tree Requirements",
         "platform": "GFG"
@@ -3691,6 +3998,7 @@
         "expanded_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
         "type": "problem",
+        "id_base": "construct-binary-tree-from-preorder-and-inorder-traversal",
         "id": "105LC",
         "title": "Construct Binary Tree from Preorder and Inorder Traversal",
         "platform": "LC"
@@ -3703,6 +4011,7 @@
         "expanded_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
         "type": "problem",
+        "id_base": "construct-binary-tree-from-inorder-and-postorder-traversal",
         "id": "106LC",
         "title": "Construct Binary Tree from Inorder and Postorder Traversal",
         "platform": "LC"
@@ -3715,6 +4024,7 @@
         "expanded_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
         "type": "problem",
+        "id_base": "serialize-and-deserialize-binary-tree",
         "id": "297LC",
         "title": "Serialize and Deserialize Binary Tree",
         "platform": "LC"
@@ -3727,6 +4037,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-inorder-traversal",
         "id": "94LC",
         "title": "Binary Tree Inorder Traversal",
         "platform": "LC"
@@ -3739,6 +4050,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-inorder-traversal",
         "id": "94LC",
         "title": "Binary Tree Inorder Traversal",
         "platform": "LC"
@@ -3751,6 +4063,7 @@
         "expanded_url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
         "type": "problem",
+        "id_base": "flatten-binary-tree-to-linked-list",
         "id": "114LC",
         "title": "Flatten Binary Tree to Linked List",
         "platform": "LC"
@@ -3763,6 +4076,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/binary-search-trees/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=binary-search-trees",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/binary-search-trees/1",
         "type": "problem",
+        "id_base": "binary-search-trees",
         "id": "712533GFG",
         "title": "Binary Search Trees",
         "platform": "GFG"
@@ -3775,6 +4089,7 @@
         "expanded_url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
         "type": "problem",
+        "id_base": "search-in-a-binary-search-tree",
         "id": "700LC",
         "title": "Search in a Binary Search Tree",
         "platform": "LC"
@@ -3787,6 +4102,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1",
         "type": "problem",
+        "id_base": "minimum-element-in-bst",
         "id": "700545GFG",
         "title": "Minimum element in BST",
         "platform": "GFG"
@@ -3799,6 +4115,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1",
         "type": "problem",
+        "id_base": "implementing-ceil-in-bst",
         "id": "701135GFG",
         "title": "Ceil in BST",
         "platform": "GFG"
@@ -3811,6 +4128,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/floor-in-bst/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=floor-in-bst",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/floor-in-bst/1",
         "type": "problem",
+        "id_base": "floor-in-bst",
         "id": "712690GFG",
         "title": "Floor in BST",
         "platform": "GFG"
@@ -3823,6 +4141,7 @@
         "expanded_url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
         "type": "problem",
+        "id_base": "insert-into-a-binary-search-tree",
         "id": "701LC",
         "title": "Insert into a Binary Search Tree",
         "platform": "LC"
@@ -3835,6 +4154,7 @@
         "expanded_url": "https://leetcode.com/problems/delete-node-in-a-bst/",
         "expanded_stripped_url": "https://leetcode.com/problems/delete-node-in-a-bst/",
         "type": "problem",
+        "id_base": "delete-node-in-a-bst",
         "id": "450LC",
         "title": "Delete Node in a BST",
         "platform": "LC"
@@ -3847,6 +4167,7 @@
         "expanded_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
         "expanded_stripped_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
         "type": "problem",
+        "id_base": "kth-smallest-element-in-a-bst",
         "id": "230LC",
         "title": "Kth Smallest Element in a BST",
         "platform": "LC"
@@ -3859,6 +4180,7 @@
         "expanded_url": "https://leetcode.com/problems/validate-binary-search-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/validate-binary-search-tree/",
         "type": "problem",
+        "id_base": "validate-binary-search-tree",
         "id": "98LC",
         "title": "Validate Binary Search Tree",
         "platform": "LC"
@@ -3871,6 +4193,7 @@
         "expanded_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
         "type": "problem",
+        "id_base": "lowest-common-ancestor-of-a-binary-search-tree",
         "id": "235LC",
         "title": "Lowest Common Ancestor of a Binary Search Tree",
         "platform": "LC"
@@ -3883,6 +4206,7 @@
         "expanded_url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
         "type": "problem",
+        "id_base": "construct-binary-search-tree-from-preorder-traversal",
         "id": "1008LC",
         "title": "Construct Binary Search Tree from Preorder Traversal",
         "platform": "LC"
@@ -3895,6 +4219,7 @@
         "expanded_url": "https://leetcode.com/problems/inorder-successor-in-bst/",
         "expanded_stripped_url": "https://leetcode.com/problems/inorder-successor-in-bst/",
         "type": "problem",
+        "id_base": "inorder-successor-in-bst",
         "id": "285LC",
         "title": "Inorder Successor in BST",
         "platform": "LC"
@@ -3907,6 +4232,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-search-tree-iterator/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-search-tree-iterator/",
         "type": "problem",
+        "id_base": "binary-search-tree-iterator",
         "id": "173LC",
         "title": "Binary Search Tree Iterator",
         "platform": "LC"
@@ -3919,6 +4245,7 @@
         "expanded_url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
         "expanded_stripped_url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
         "type": "problem",
+        "id_base": "two-sum-iv-input-is-a-bst",
         "id": "653LC",
         "title": "Two Sum IV - Input is a BST",
         "platform": "LC"
@@ -3931,6 +4258,7 @@
         "expanded_url": "https://leetcode.com/problems/recover-binary-search-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/recover-binary-search-tree/",
         "type": "problem",
+        "id_base": "recover-binary-search-tree",
         "id": "99LC",
         "title": "Recover Binary Search Tree",
         "platform": "LC"
@@ -3943,6 +4271,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/largest-bst/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/largest-bst/1",
         "type": "problem",
+        "id_base": "largest-bst",
         "id": "700351GFG",
         "title": "Largest BST",
         "platform": "GFG"
@@ -3955,6 +4284,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/graph-and-vertices/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=graph-and-vertices",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/graph-and-vertices/1",
         "type": "problem",
+        "id_base": "graph-and-vertices",
         "id": "712547GFG",
         "title": "Graph and Vertices",
         "platform": "GFG"
@@ -3967,6 +4297,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-adjacency-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1",
         "type": "problem",
+        "id_base": "print-adjacency-list-1587115620",
         "id": "701247GFG",
         "title": "Print adjacency list",
         "platform": "GFG"
@@ -3979,6 +4310,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-adjacency-list",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1",
         "type": "problem",
+        "id_base": "print-adjacency-list-1587115620",
         "id": "701247GFG",
         "title": "Print adjacency list",
         "platform": "GFG"
@@ -3991,6 +4323,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
         "type": "problem",
+        "id_base": "number-of-connected-components-in-an-undirected-graph",
         "id": "323LC",
         "title": "Number of Connected Components in an Undirected Graph",
         "platform": "LC"
@@ -4003,6 +4336,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
         "type": "problem",
+        "id_base": "bfs-traversal-of-graph",
         "id": "700217GFG",
         "title": "BFS of graph",
         "platform": "GFG"
@@ -4015,6 +4349,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
         "type": "problem",
+        "id_base": "depth-first-traversal-for-a-graph",
         "id": "700203GFG",
         "title": "DFS of Graph",
         "platform": "GFG"
@@ -4027,6 +4362,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-provinces/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-provinces/",
         "type": "problem",
+        "id_base": "number-of-provinces",
         "id": "547LC",
         "title": "Number of Provinces",
         "platform": "LC"
@@ -4039,6 +4375,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/number-of-provinces/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=number-of-provinces",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/number-of-provinces/1",
         "type": "problem",
+        "id_base": "number-of-provinces",
         "id": "706298GFG",
         "title": "Number of Provinces",
         "platform": "GFG"
@@ -4051,6 +4388,7 @@
         "expanded_url": "https://leetcode.com/problems/rotting-oranges/",
         "expanded_stripped_url": "https://leetcode.com/problems/rotting-oranges/",
         "type": "problem",
+        "id_base": "rotting-oranges",
         "id": "994LC",
         "title": "Rotting Oranges",
         "platform": "LC"
@@ -4063,6 +4401,7 @@
         "expanded_url": "https://leetcode.com/problems/flood-fill/",
         "expanded_stripped_url": "https://leetcode.com/problems/flood-fill/",
         "type": "problem",
+        "id_base": "flood-fill",
         "id": "733LC",
         "title": "Flood Fill",
         "platform": "LC"
@@ -4075,6 +4414,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-an-undirected-graph",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
         "type": "problem",
+        "id_base": "detect-cycle-in-an-undirected-graph",
         "id": "700219GFG",
         "title": "Undirected Graph Cycle",
         "platform": "GFG"
@@ -4087,6 +4427,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-an-undirected-graph",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
         "type": "problem",
+        "id_base": "detect-cycle-in-an-undirected-graph",
         "id": "700219GFG",
         "title": "Undirected Graph Cycle",
         "platform": "GFG"
@@ -4099,6 +4440,7 @@
         "expanded_url": "https://leetcode.com/problems/01-matrix/",
         "expanded_stripped_url": "https://leetcode.com/problems/01-matrix/",
         "type": "problem",
+        "id_base": "01-matrix",
         "id": "542LC",
         "title": "01 Matrix",
         "platform": "LC"
@@ -4111,6 +4453,7 @@
         "expanded_url": "https://leetcode.com/problems/surrounded-regions/",
         "expanded_stripped_url": "https://leetcode.com/problems/surrounded-regions/",
         "type": "problem",
+        "id_base": "surrounded-regions",
         "id": "130LC",
         "title": "Surrounded Regions",
         "platform": "LC"
@@ -4123,6 +4466,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-enclaves/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-enclaves/",
         "type": "problem",
+        "id_base": "number-of-enclaves",
         "id": "1020LC",
         "title": "Number of Enclaves",
         "platform": "LC"
@@ -4135,6 +4479,7 @@
         "expanded_url": "https://leetcode.com/problems/word-ladder/",
         "expanded_stripped_url": "https://leetcode.com/problems/word-ladder/",
         "type": "problem",
+        "id_base": "word-ladder",
         "id": "127LC",
         "title": "Word Ladder",
         "platform": "LC"
@@ -4147,6 +4492,7 @@
         "expanded_url": "https://leetcode.com/problems/word-ladder-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/word-ladder-ii/",
         "type": "problem",
+        "id_base": "word-ladder-ii",
         "id": "126LC",
         "title": "Word Ladder II",
         "platform": "LC"
@@ -4159,6 +4505,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-distinct-islands-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-distinct-islands-ii/",
         "type": "problem",
+        "id_base": "number-of-distinct-islands-ii",
         "id": "711LC",
         "title": "Number of Distinct Islands II",
         "platform": "LC"
@@ -4171,6 +4518,7 @@
         "expanded_url": "https://leetcode.com/problems/is-graph-bipartite/",
         "expanded_stripped_url": "https://leetcode.com/problems/is-graph-bipartite/",
         "type": "problem",
+        "id_base": "is-graph-bipartite",
         "id": "785LC",
         "title": "Is Graph Bipartite?",
         "platform": "LC"
@@ -4183,6 +4531,7 @@
         "expanded_url": "https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem",
         "expanded_stripped_url": "https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem",
         "type": "problem",
+        "id_base": "course-schedule-ii",
         "id": "210LC",
         "title": "Course Schedule II",
         "platform": "LC"
@@ -4195,6 +4544,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
         "type": "problem",
+        "id_base": "topological-sort",
         "id": "700255GFG",
         "title": "Topological sort",
         "platform": "GFG"
@@ -4207,6 +4557,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/topological-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=topological-sort",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/topological-sort/1",
         "type": "problem",
+        "id_base": "topological-sort",
         "id": "700255GFG",
         "title": "Topological sort",
         "platform": "GFG"
@@ -4219,6 +4570,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
         "type": "problem",
+        "id_base": "detect-cycle-in-a-directed-graph",
         "id": "700218GFG",
         "title": "Directed Graph Cycle",
         "platform": "GFG"
@@ -4231,6 +4583,7 @@
         "expanded_url": "https://leetcode.com/problems/course-schedule/",
         "expanded_stripped_url": "https://leetcode.com/problems/course-schedule/",
         "type": "problem",
+        "id_base": "course-schedule",
         "id": "207LC",
         "title": "Course Schedule",
         "platform": "LC"
@@ -4243,6 +4596,7 @@
         "expanded_url": "https://leetcode.com/problems/course-schedule-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/course-schedule-ii/",
         "type": "problem",
+        "id_base": "course-schedule-ii",
         "id": "210LC",
         "title": "Course Schedule II",
         "platform": "LC"
@@ -4255,6 +4609,7 @@
         "expanded_url": "https://leetcode.com/problems/find-eventual-safe-states/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-eventual-safe-states/",
         "type": "problem",
+        "id_base": "find-eventual-safe-states",
         "id": "802LC",
         "title": "Find Eventual Safe States",
         "platform": "LC"
@@ -4267,6 +4622,7 @@
         "expanded_url": "https://leetcode.com/problems/alien-dictionary/solution/",
         "expanded_stripped_url": "https://leetcode.com/problems/alien-dictionary/solution/",
         "type": "problem",
+        "id_base": "alien-dictionary",
         "id": "269LC",
         "title": "Alien Dictionary",
         "platform": "LC"
@@ -4279,6 +4635,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=shortest-path-in-undirected-graph-having-unit-distance",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1",
         "type": "problem",
+        "id_base": "shortest-path-in-undirected-graph-having-unit-distance",
         "id": "711976GFG",
         "title": "Shortest Path in Undirected",
         "platform": "GFG"
@@ -4291,6 +4648,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=shortest-path-in-undirected-graph",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1",
         "type": "problem",
+        "id_base": "shortest-path-in-undirected-graph",
         "id": "712030GFG",
         "title": "Shortest path in Directed Acyclic Graph",
         "platform": "GFG"
@@ -4303,6 +4661,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
         "type": "problem",
+        "id_base": "implementing-dijkstra-set-1-adjacency-matrix",
         "id": "700334GFG",
         "title": "Dijkstra Algorithm",
         "platform": "GFG"
@@ -4315,6 +4674,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implementing-dijkstra-set-1-adjacency-matrix",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
         "type": "problem",
+        "id_base": "implementing-dijkstra-set-1-adjacency-matrix",
         "id": "700334GFG",
         "title": "Dijkstra Algorithm",
         "platform": "GFG"
@@ -4327,6 +4687,7 @@
         "expanded_url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
         "expanded_stripped_url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
         "type": "problem",
+        "id_base": "shortest-path-in-binary-matrix",
         "id": "1091LC",
         "title": "Shortest Path in Binary Matrix",
         "platform": "LC"
@@ -4339,6 +4700,7 @@
         "expanded_url": "https://leetcode.com/problems/path-with-minimum-effort/",
         "expanded_stripped_url": "https://leetcode.com/problems/path-with-minimum-effort/",
         "type": "problem",
+        "id_base": "path-with-minimum-effort",
         "id": "1631LC",
         "title": "Path With Minimum Effort",
         "platform": "LC"
@@ -4351,6 +4713,7 @@
         "expanded_url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
         "expanded_stripped_url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
         "type": "problem",
+        "id_base": "cheapest-flights-within-k-stops",
         "id": "787LC",
         "title": "Cheapest Flights Within K Stops",
         "platform": "LC"
@@ -4363,6 +4726,7 @@
         "expanded_url": "https://leetcode.com/problems/network-delay-time/",
         "expanded_stripped_url": "https://leetcode.com/problems/network-delay-time/",
         "type": "problem",
+        "id_base": "network-delay-time",
         "id": "743LC",
         "title": "Network Delay Time",
         "platform": "LC"
@@ -4375,6 +4739,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
         "type": "problem",
+        "id_base": "number-of-ways-to-arrive-at-destination",
         "id": "1976LC",
         "title": "Number of Ways to Arrive at Destination",
         "platform": "LC"
@@ -4387,6 +4752,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=minimum-multiplications-to-reach-end",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1",
         "type": "problem",
+        "id_base": "minimum-multiplications-to-reach-end",
         "id": "711092GFG",
         "title": "Minimum Multiplications to reach End",
         "platform": "GFG"
@@ -4399,6 +4765,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
         "type": "problem",
+        "id_base": "distance-from-the-source-bellman-ford-algorithm",
         "id": "706218GFG",
         "title": "Bellman-Ford",
         "platform": "GFG"
@@ -4411,6 +4778,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
         "type": "problem",
+        "id_base": "implementing-floyd-warshall2042",
         "id": "705716GFG",
         "title": "Floyd Warshall",
         "platform": "GFG"
@@ -4423,6 +4791,7 @@
         "expanded_url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
         "type": "problem",
+        "id_base": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
         "id": "1334LC",
         "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
         "platform": "LC"
@@ -4435,6 +4804,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
         "type": "problem",
+        "id_base": "minimum-spanning-tree",
         "id": "700343GFG",
         "title": "Minimum Spanning Tree",
         "platform": "GFG"
@@ -4447,6 +4817,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
         "type": "problem",
+        "id_base": "minimum-spanning-tree",
         "id": "700343GFG",
         "title": "Minimum Spanning Tree",
         "platform": "GFG"
@@ -4459,6 +4830,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=disjoint-set-union-find",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1",
         "type": "problem",
+        "id_base": "disjoint-set-union-find",
         "id": "700539GFG",
         "title": "Disjoint set (Union-Find)",
         "platform": "GFG"
@@ -4471,6 +4843,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=disjoint-set-union-find",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1",
         "type": "problem",
+        "id_base": "disjoint-set-union-find",
         "id": "700539GFG",
         "title": "Disjoint set (Union-Find)",
         "platform": "GFG"
@@ -4483,6 +4856,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
         "type": "problem",
+        "id_base": "minimum-spanning-tree",
         "id": "700343GFG",
         "title": "Minimum Spanning Tree",
         "platform": "GFG"
@@ -4495,6 +4869,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
         "type": "problem",
+        "id_base": "number-of-operations-to-make-network-connected",
         "id": "1319LC",
         "title": "Number of Operations to Make Network Connected",
         "platform": "LC"
@@ -4507,6 +4882,7 @@
         "expanded_url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
         "expanded_stripped_url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
         "type": "problem",
+        "id_base": "most-stones-removed-with-same-row-or-column",
         "id": "947LC",
         "title": "Most Stones Removed with Same Row or Column",
         "platform": "LC"
@@ -4519,6 +4895,7 @@
         "expanded_url": "https://leetcode.com/problems/accounts-merge/",
         "expanded_stripped_url": "https://leetcode.com/problems/accounts-merge/",
         "type": "problem",
+        "id_base": "accounts-merge",
         "id": "721LC",
         "title": "Accounts Merge",
         "platform": "LC"
@@ -4531,6 +4908,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-islands-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-islands-ii/",
         "type": "problem",
+        "id_base": "number-of-islands-ii",
         "id": "305LC",
         "title": "Number of Islands II",
         "platform": "LC"
@@ -4543,6 +4921,7 @@
         "expanded_url": "https://leetcode.com/problems/making-a-large-island/",
         "expanded_stripped_url": "https://leetcode.com/problems/making-a-large-island/",
         "type": "problem",
+        "id_base": "making-a-large-island",
         "id": "827LC",
         "title": "Making A Large Island",
         "platform": "LC"
@@ -4555,6 +4934,7 @@
         "expanded_url": "https://leetcode.com/problems/swim-in-rising-water/",
         "expanded_stripped_url": "https://leetcode.com/problems/swim-in-rising-water/",
         "type": "problem",
+        "id_base": "swim-in-rising-water",
         "id": "778LC",
         "title": "Swim in Rising Water",
         "platform": "LC"
@@ -4567,6 +4947,7 @@
         "expanded_url": "https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph",
         "expanded_stripped_url": "https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph",
         "type": "problem",
+        "id_base": "critical-connections-in-a-network",
         "id": "1192LC",
         "title": "Critical Connections in a Network",
         "platform": "LC"
@@ -4579,6 +4960,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/articulation-point-1/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=articulation-point",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/articulation-point-1/1",
         "type": "problem",
+        "id_base": "articulation-point-1",
         "id": "708502GFG",
         "title": "Articulation Point - I",
         "platform": "GFG"
@@ -4591,6 +4973,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=strongly-connected-components-kosarajus-algo",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
         "type": "problem",
+        "id_base": "strongly-connected-components-kosarajus-algo",
         "id": "700394GFG",
         "title": "Strongly Connected",
         "platform": "GFG"
@@ -4603,6 +4986,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/introduction-to-dp/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-dp",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/introduction-to-dp/1",
         "type": "problem",
+        "id_base": "introduction-to-dp",
         "id": "712572GFG",
         "title": "Introduction to DP",
         "platform": "GFG"
@@ -4615,6 +4999,7 @@
         "expanded_url": "https://leetcode.com/problems/climbing-stairs/",
         "expanded_stripped_url": "https://leetcode.com/problems/climbing-stairs/",
         "type": "problem",
+        "id_base": "climbing-stairs",
         "id": "70LC",
         "title": "Climbing Stairs",
         "platform": "LC"
@@ -4627,6 +5012,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/geek-jump/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=geek-jump",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/geek-jump/1",
         "type": "problem",
+        "id_base": "geek-jump",
         "id": "712174GFG",
         "title": "Frog Jump",
         "platform": "GFG"
@@ -4639,6 +5025,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/minimal-cost/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=minimal-cost",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/minimal-cost/1",
         "type": "problem",
+        "id_base": "minimal-cost",
         "id": "712181GFG",
         "title": "Minimal Cost",
         "platform": "GFG"
@@ -4651,6 +5038,7 @@
         "expanded_url": "https://leetcode.com/problems/house-robber/",
         "expanded_stripped_url": "https://leetcode.com/problems/house-robber/",
         "type": "problem",
+        "id_base": "house-robber",
         "id": "198LC",
         "title": "House Robber",
         "platform": "LC"
@@ -4663,6 +5051,7 @@
         "expanded_url": "https://leetcode.com/problems/house-robber-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/house-robber-ii/",
         "type": "problem",
+        "id_base": "house-robber-ii",
         "id": "213LC",
         "title": "House Robber II",
         "platform": "LC"
@@ -4675,6 +5064,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/geeks-training/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=geeks-training",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/geeks-training/1",
         "type": "problem",
+        "id_base": "geeks-training",
         "id": "712183GFG",
         "title": "Geek's Training",
         "platform": "GFG"
@@ -4687,6 +5077,7 @@
         "expanded_url": "https://leetcode.com/problems/unique-paths/",
         "expanded_stripped_url": "https://leetcode.com/problems/unique-paths/",
         "type": "problem",
+        "id_base": "unique-paths",
         "id": "62LC",
         "title": "Unique Paths",
         "platform": "LC"
@@ -4699,6 +5090,7 @@
         "expanded_url": "https://leetcode.com/problems/unique-paths-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/unique-paths-ii/",
         "type": "problem",
+        "id_base": "unique-paths-ii",
         "id": "63LC",
         "title": "Unique Paths II",
         "platform": "LC"
@@ -4711,6 +5103,7 @@
         "expanded_url": "https://leetcode.com/problems/minimum-path-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimum-path-sum/",
         "type": "problem",
+        "id_base": "minimum-path-sum",
         "id": "64LC",
         "title": "Minimum Path Sum",
         "platform": "LC"
@@ -4723,6 +5116,7 @@
         "expanded_url": "https://leetcode.com/problems/triangle/",
         "expanded_stripped_url": "https://leetcode.com/problems/triangle/",
         "type": "problem",
+        "id_base": "triangle",
         "id": "120LC",
         "title": "Triangle",
         "platform": "LC"
@@ -4735,6 +5129,7 @@
         "expanded_url": "https://leetcode.com/problems/minimum-falling-path-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimum-falling-path-sum/",
         "type": "problem",
+        "id_base": "minimum-falling-path-sum",
         "id": "931LC",
         "title": "Minimum Falling Path Sum",
         "platform": "LC"
@@ -4747,6 +5142,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/chocolates-pickup/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=chocolates-pickup",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/chocolates-pickup/1",
         "type": "problem",
+        "id_base": "chocolates-pickup",
         "id": "712575GFG",
         "title": "Chocolates Pickup",
         "platform": "GFG"
@@ -4759,6 +5155,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
         "type": "problem",
+        "id_base": "subset-sum-problem-1611555638",
         "id": "706123GFG",
         "title": "Subset Sum Problem",
         "platform": "GFG"
@@ -4771,6 +5168,7 @@
         "expanded_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
         "type": "problem",
+        "id_base": "partition-equal-subset-sum",
         "id": "416LC",
         "title": "Partition Equal Subset Sum",
         "platform": "LC"
@@ -4783,6 +5181,7 @@
         "expanded_url": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
         "expanded_stripped_url": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
         "type": "problem",
+        "id_base": "partition-array-into-two-arrays-to-minimize-sum-difference",
         "id": "2035LC",
         "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
         "platform": "LC"
@@ -4795,6 +5194,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=perfect-sum-problem",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1",
         "type": "problem",
+        "id_base": "perfect-sum-problem5633",
         "id": "704213GFG",
         "title": "Perfect Sum Problem",
         "platform": "GFG"
@@ -4807,6 +5207,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=partitions-with-given-difference",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1",
         "type": "problem",
+        "id_base": "partitions-with-given-difference",
         "id": "712675GFG",
         "title": "Partitions with Given Difference",
         "platform": "GFG"
@@ -4819,6 +5220,7 @@
         "expanded_url": "https://leetcode.com/problems/assign-cookies/",
         "expanded_stripped_url": "https://leetcode.com/problems/assign-cookies/",
         "type": "problem",
+        "id_base": "assign-cookies",
         "id": "455LC",
         "title": "Assign Cookies",
         "platform": "LC"
@@ -4831,6 +5233,7 @@
         "expanded_url": "https://leetcode.com/problems/coin-change/",
         "expanded_stripped_url": "https://leetcode.com/problems/coin-change/",
         "type": "problem",
+        "id_base": "coin-change",
         "id": "322LC",
         "title": "Coin Change",
         "platform": "LC"
@@ -4843,6 +5246,7 @@
         "expanded_url": "https://leetcode.com/problems/target-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/target-sum/",
         "type": "problem",
+        "id_base": "target-sum",
         "id": "494LC",
         "title": "Target Sum",
         "platform": "LC"
@@ -4855,6 +5259,7 @@
         "expanded_url": "https://leetcode.com/problems/coin-change-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/coin-change-ii/",
         "type": "problem",
+        "id_base": "coin-change-ii",
         "id": "518LC",
         "title": "Coin Change II",
         "platform": "LC"
@@ -4867,6 +5272,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=knapsack-with-duplicate-items",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
         "type": "problem",
+        "id_base": "knapsack-with-duplicate-items4201",
         "id": "704512GFG",
         "title": "Knapsack with Duplicate Items",
         "platform": "GFG"
@@ -4879,6 +5285,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1",
         "type": "problem",
+        "id_base": "rod-cutting0840",
         "id": "703296GFG",
         "title": "Rod Cutting",
         "platform": "GFG"
@@ -4891,6 +5298,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-common-subsequence/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-common-subsequence/",
         "type": "problem",
+        "id_base": "longest-common-subsequence",
         "id": "1143LC",
         "title": "Longest Common Subsequence",
         "platform": "LC"
@@ -4903,6 +5311,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=print-all-lcs-sequences",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/print-all-lcs-sequences3413/1",
         "type": "problem",
+        "id_base": "print-all-lcs-sequences3413",
         "id": "703749GFG",
         "title": "Print all LCS sequences",
         "platform": "GFG"
@@ -4915,6 +5324,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/longest-common-substring1452/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/longest-common-substring1452/1",
         "type": "problem",
+        "id_base": "longest-common-substring1452",
         "id": "703201GFG",
         "title": "Longest Common Substring",
         "platform": "GFG"
@@ -4927,6 +5337,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-palindromic-subsequence/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-palindromic-subsequence/",
         "type": "problem",
+        "id_base": "longest-palindromic-subsequence",
         "id": "516LC",
         "title": "Longest Palindromic Subsequence",
         "platform": "LC"
@@ -4939,6 +5350,7 @@
         "expanded_url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
         "type": "problem",
+        "id_base": "minimum-insertion-steps-to-make-a-string-palindrome",
         "id": "1312LC",
         "title": "Minimum Insertion Steps to Make a String Palindrome",
         "platform": "LC"
@@ -4951,6 +5363,7 @@
         "expanded_url": "https://leetcode.com/problems/delete-operation-for-two-strings/",
         "expanded_stripped_url": "https://leetcode.com/problems/delete-operation-for-two-strings/",
         "type": "problem",
+        "id_base": "delete-operation-for-two-strings",
         "id": "583LC",
         "title": "Delete Operation for Two Strings",
         "platform": "LC"
@@ -4963,6 +5376,7 @@
         "expanded_url": "https://leetcode.com/problems/shortest-common-supersequence/",
         "expanded_stripped_url": "https://leetcode.com/problems/shortest-common-supersequence/",
         "type": "problem",
+        "id_base": "shortest-common-supersequence",
         "id": "1092LC",
         "title": "Shortest Common Supersequence",
         "platform": "LC"
@@ -4975,6 +5389,7 @@
         "expanded_url": "https://leetcode.com/problems/distinct-subsequences/",
         "expanded_stripped_url": "https://leetcode.com/problems/distinct-subsequences/",
         "type": "problem",
+        "id_base": "distinct-subsequences",
         "id": "115LC",
         "title": "Distinct Subsequences",
         "platform": "LC"
@@ -4987,6 +5402,7 @@
         "expanded_url": "https://leetcode.com/problems/edit-distance/",
         "expanded_stripped_url": "https://leetcode.com/problems/edit-distance/",
         "type": "problem",
+        "id_base": "edit-distance",
         "id": "72LC",
         "title": "Edit Distance",
         "platform": "LC"
@@ -4999,6 +5415,7 @@
         "expanded_url": "https://leetcode.com/problems/wildcard-matching/",
         "expanded_stripped_url": "https://leetcode.com/problems/wildcard-matching/",
         "type": "problem",
+        "id_base": "wildcard-matching",
         "id": "44LC",
         "title": "Wildcard Matching",
         "platform": "LC"
@@ -5011,6 +5428,7 @@
         "expanded_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
         "expanded_stripped_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
         "type": "problem",
+        "id_base": "best-time-to-buy-and-sell-stock",
         "id": "121LC",
         "title": "Best Time to Buy and Sell Stock",
         "platform": "LC"
@@ -5023,6 +5441,7 @@
         "expanded_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
         "type": "problem",
+        "id_base": "best-time-to-buy-and-sell-stock-ii",
         "id": "122LC",
         "title": "Best Time to Buy and Sell Stock II",
         "platform": "LC"
@@ -5035,6 +5454,7 @@
         "expanded_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
         "expanded_stripped_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
         "type": "problem",
+        "id_base": "best-time-to-buy-and-sell-stock-iii",
         "id": "123LC",
         "title": "Best Time to Buy and Sell Stock III",
         "platform": "LC"
@@ -5047,6 +5467,7 @@
         "expanded_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
         "expanded_stripped_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
         "type": "problem",
+        "id_base": "best-time-to-buy-and-sell-stock-iv",
         "id": "188LC",
         "title": "Best Time to Buy and Sell Stock IV",
         "platform": "LC"
@@ -5059,6 +5480,7 @@
         "expanded_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
         "expanded_stripped_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
         "type": "problem",
+        "id_base": "best-time-to-buy-and-sell-stock-with-cooldown",
         "id": "309LC",
         "title": "Best Time to Buy and Sell Stock with Cooldown",
         "platform": "LC"
@@ -5071,6 +5493,7 @@
         "expanded_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
         "expanded_stripped_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
         "type": "problem",
+        "id_base": "best-time-to-buy-and-sell-stock-with-transaction-fee",
         "id": "714LC",
         "title": "Best Time to Buy and Sell Stock with Transaction Fee",
         "platform": "LC"
@@ -5083,6 +5506,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
         "type": "problem",
+        "id_base": "longest-increasing-subsequence",
         "id": "300LC",
         "title": "Longest Increasing Subsequence",
         "platform": "LC"
@@ -5095,6 +5519,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=printing-longest-increasing-subsequence",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1",
         "type": "problem",
+        "id_base": "printing-longest-increasing-subsequence",
         "id": "712574GFG",
         "title": "Print Longest Increasing Subsequence",
         "platform": "GFG"
@@ -5107,6 +5532,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-increasing-subsequence",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1",
         "type": "problem",
+        "id_base": "longest-increasing-subsequence-1587115620",
         "id": "701428GFG",
         "title": "Longest Increasing Subsequence",
         "platform": "GFG"
@@ -5119,6 +5545,7 @@
         "expanded_url": "https://leetcode.com/problems/largest-divisible-subset/",
         "expanded_stripped_url": "https://leetcode.com/problems/largest-divisible-subset/",
         "type": "problem",
+        "id_base": "largest-divisible-subset",
         "id": "368LC",
         "title": "Largest Divisible Subset",
         "platform": "LC"
@@ -5131,6 +5558,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-string-chain/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-string-chain/",
         "type": "problem",
+        "id_base": "longest-string-chain",
         "id": "1048LC",
         "title": "Longest String Chain",
         "platform": "LC"
@@ -5143,6 +5571,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
         "type": "problem",
+        "id_base": "longest-bitonic-subsequence0824",
         "id": "704595GFG",
         "title": "Longest Bitonic subsequence",
         "platform": "GFG"
@@ -5155,6 +5584,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
         "type": "problem",
+        "id_base": "number-of-longest-increasing-subsequence",
         "id": "673LC",
         "title": "Number of Longest Increasing Subsequence",
         "platform": "LC"
@@ -5167,6 +5597,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=matrix-chain-multiplication",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
         "type": "problem",
+        "id_base": "matrix-chain-multiplication0303",
         "id": "704556GFG",
         "title": "Matrix Chain Multiplication",
         "platform": "GFG"
@@ -5179,6 +5610,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=matrix-chain-multiplication",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
         "type": "problem",
+        "id_base": "matrix-chain-multiplication0303",
         "id": "704556GFG",
         "title": "Matrix Chain Multiplication",
         "platform": "GFG"
@@ -5191,6 +5623,7 @@
         "expanded_url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
         "type": "problem",
+        "id_base": "minimum-cost-to-cut-a-stick",
         "id": "1547LC",
         "title": "Minimum Cost to Cut a Stick",
         "platform": "LC"
@@ -5203,6 +5636,7 @@
         "expanded_url": "https://leetcode.com/problems/burst-balloons/",
         "expanded_stripped_url": "https://leetcode.com/problems/burst-balloons/",
         "type": "problem",
+        "id_base": "burst-balloons",
         "id": "312LC",
         "title": "Burst Balloons",
         "platform": "LC"
@@ -5215,6 +5649,7 @@
         "expanded_url": "https://leetcode.com/problems/parsing-a-boolean-expression/",
         "expanded_stripped_url": "https://leetcode.com/problems/parsing-a-boolean-expression/",
         "type": "problem",
+        "id_base": "parsing-a-boolean-expression",
         "id": "1106LC",
         "title": "Parsing A Boolean Expression",
         "platform": "LC"
@@ -5227,6 +5662,7 @@
         "expanded_url": "https://leetcode.com/problems/palindrome-partitioning-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/palindrome-partitioning-ii/",
         "type": "problem",
+        "id_base": "palindrome-partitioning-ii",
         "id": "132LC",
         "title": "Palindrome Partitioning II",
         "platform": "LC"
@@ -5239,6 +5675,7 @@
         "expanded_url": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
         "type": "problem",
+        "id_base": "partition-array-for-maximum-sum",
         "id": "1043LC",
         "title": "Partition Array for Maximum Sum",
         "platform": "LC"
@@ -5251,6 +5688,7 @@
         "expanded_url": "https://leetcode.com/problems/maximal-rectangle/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximal-rectangle/",
         "type": "problem",
+        "id_base": "maximal-rectangle",
         "id": "85LC",
         "title": "Maximal Rectangle",
         "platform": "LC"
@@ -5263,6 +5701,7 @@
         "expanded_url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
         "expanded_stripped_url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
         "type": "problem",
+        "id_base": "count-square-submatrices-with-all-ones",
         "id": "1277LC",
         "title": "Count Square Submatrices with All Ones",
         "platform": "LC"
@@ -5275,6 +5714,7 @@
         "expanded_url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
         "type": "problem",
+        "id_base": "implement-trie-prefix-tree",
         "id": "208LC",
         "title": "Implement Trie (Prefix Tree)",
         "platform": "LC"
@@ -5287,6 +5727,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/implement-trie_1387095?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_tries_videos",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/implement-trie_1387095",
         "type": "problem",
+        "id_base": "implement-trie_1387095",
         "id": "11836C360",
         "title": "Implement Trie ll",
         "platform": "C360"
@@ -5299,6 +5740,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/complete-string_2687860?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_tries_videos",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/complete-string_2687860",
         "type": "problem",
+        "id_base": "complete-string_2687860",
         "id": "15725C360",
         "title": "Complete String",
         "platform": "C360"
@@ -5311,6 +5753,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/count-distinct-substrings_985292?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_tries_videos",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/count-distinct-substrings_985292",
         "type": "problem",
+        "id_base": "count-distinct-substrings_985292",
         "id": "9428C360",
         "title": "Count Distinct Substrings",
         "platform": "C360"
@@ -5323,6 +5766,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/bits-basic-operations/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bits-basic-operations",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/bits-basic-operations/1",
         "type": "problem",
+        "id_base": "bits-basic-operations",
         "id": "712660GFG",
         "title": "Bit's basic operations",
         "platform": "GFG"
@@ -5335,6 +5779,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
         "type": "problem",
+        "id_base": "maximum-xor-of-two-numbers-in-an-array",
         "id": "421LC",
         "title": "Maximum XOR of Two Numbers in an Array",
         "platform": "LC"
@@ -5347,6 +5792,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
         "type": "problem",
+        "id_base": "maximum-xor-with-an-element-from-array",
         "id": "1707LC",
         "title": "Maximum XOR With an Element From Array",
         "platform": "LC"
@@ -5359,6 +5805,7 @@
         "expanded_url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
         "type": "problem",
+        "id_base": "minimum-add-to-make-parentheses-valid",
         "id": "921LC",
         "title": "Minimum Add to Make Parentheses Valid",
         "platform": "LC"
@@ -5371,6 +5818,7 @@
         "expanded_url": "https://leetcode.com/problems/count-and-say/",
         "expanded_stripped_url": "https://leetcode.com/problems/count-and-say/",
         "type": "problem",
+        "id_base": "count-and-say",
         "id": "38LC",
         "title": "Count and Say",
         "platform": "LC"
@@ -5383,6 +5831,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/index-of-the-first-occurrence-of-pattern-in-a-text/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=index-of-the-first-occurrence-of-pattern-in-a-text/",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/index-of-the-first-occurrence-of-pattern-in-a-text/1",
         "type": "problem",
+        "id_base": "index-of-the-first-occurrence-of-pattern-in-a-text",
         "id": "712687GFG",
         "title": "Index of the First Occurrence of pattern in a text",
         "platform": "GFG"
@@ -5395,6 +5844,7 @@
         "expanded_url": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
         "expanded_stripped_url": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
         "type": "problem",
+        "id_base": "repeated-string-match",
         "id": "686LC",
         "title": "Repeated String Match",
         "platform": "LC"
@@ -5407,6 +5857,7 @@
         "expanded_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
         "type": "problem",
+        "id_base": "find-the-index-of-the-first-occurrence-in-a-string",
         "id": "28LC",
         "title": "Find the Index of the First Occurrence in a String",
         "platform": "LC"
@@ -5419,6 +5870,7 @@
         "expanded_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
         "type": "problem",
+        "id_base": "find-the-index-of-the-first-occurrence-in-a-string",
         "id": "28LC",
         "title": "Find the Index of the First Occurrence in a String",
         "platform": "LC"
@@ -5431,6 +5883,7 @@
         "expanded_url": "https://leetcode.com/problems/shortest-palindrome/",
         "expanded_stripped_url": "https://leetcode.com/problems/shortest-palindrome/",
         "type": "problem",
+        "id_base": "shortest-palindrome",
         "id": "214LC",
         "title": "Shortest Palindrome",
         "platform": "LC"
@@ -5443,6 +5896,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-happy-prefix/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-happy-prefix/",
         "type": "problem",
+        "id_base": "longest-happy-prefix",
         "id": "1392LC",
         "title": "Longest Happy Prefix",
         "platform": "LC"
@@ -5455,6 +5909,7 @@
         "expanded_url": "https://www.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
         "expanded_stripped_url": "https://www.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
         "type": "problem",
+        "id_base": "count-palindromic-subsequences",
         "id": "700380GFG",
         "title": "Count Palindromic Subsequences",
         "platform": "GFG"

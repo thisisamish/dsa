@@ -6,6 +6,7 @@
         "expanded_url": "https://leetcode.com/problems/two-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/two-sum/",
         "type": "problem",
+        "id_base": "two-sum",
         "id": "1LC",
         "title": "Two Sum",
         "platform": "LC"
@@ -17,6 +18,7 @@
         "expanded_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
         "expanded_stripped_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
         "type": "problem",
+        "id_base": "best-time-to-buy-and-sell-stock",
         "id": "121LC",
         "title": "Best Time to Buy and Sell Stock",
         "platform": "LC"
@@ -28,6 +30,7 @@
         "expanded_url": "https://leetcode.com/problems/contains-duplicate/",
         "expanded_stripped_url": "https://leetcode.com/problems/contains-duplicate/",
         "type": "problem",
+        "id_base": "contains-duplicate",
         "id": "217LC",
         "title": "Contains Duplicate",
         "platform": "LC"
@@ -39,6 +42,7 @@
         "expanded_url": "https://leetcode.com/problems/product-of-array-except-self/",
         "expanded_stripped_url": "https://leetcode.com/problems/product-of-array-except-self/",
         "type": "problem",
+        "id_base": "product-of-array-except-self",
         "id": "238LC",
         "title": "Product of Array Except Self",
         "platform": "LC"
@@ -50,6 +54,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-subarray/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-subarray/",
         "type": "problem",
+        "id_base": "maximum-subarray",
         "id": "53LC",
         "title": "Maximum Subarray",
         "platform": "LC"
@@ -61,6 +66,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-product-subarray/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-product-subarray/",
         "type": "problem",
+        "id_base": "maximum-product-subarray",
         "id": "152LC",
         "title": "Maximum Product Subarray",
         "platform": "LC"
@@ -72,6 +78,7 @@
         "expanded_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
         "type": "problem",
+        "id_base": "find-minimum-in-rotated-sorted-array",
         "id": "153LC",
         "title": "Find Minimum in Rotated Sorted Array",
         "platform": "LC"
@@ -83,6 +90,7 @@
         "expanded_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
         "expanded_stripped_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
         "type": "problem",
+        "id_base": "search-in-rotated-sorted-array",
         "id": "33LC",
         "title": "Search in Rotated Sorted Array",
         "platform": "LC"
@@ -94,6 +102,7 @@
         "expanded_url": "https://leetcode.com/problems/3sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/3sum/",
         "type": "problem",
+        "id_base": "3sum",
         "id": "15LC",
         "title": "3Sum",
         "platform": "LC"
@@ -105,6 +114,7 @@
         "expanded_url": "https://leetcode.com/problems/container-with-most-water/",
         "expanded_stripped_url": "https://leetcode.com/problems/container-with-most-water/",
         "type": "problem",
+        "id_base": "container-with-most-water",
         "id": "11LC",
         "title": "Container With Most Water",
         "platform": "LC"
@@ -116,6 +126,7 @@
         "expanded_url": "https://leetcode.com/problems/sum-of-two-integers/description/",
         "expanded_stripped_url": "https://leetcode.com/problems/sum-of-two-integers/description/",
         "type": "problem",
+        "id_base": "sum-of-two-integers",
         "id": "371LC",
         "title": "Sum of Two Integers",
         "platform": "LC"
@@ -127,6 +138,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-1-bits/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-1-bits/",
         "type": "problem",
+        "id_base": "number-of-1-bits",
         "id": "191LC",
         "title": "Number of 1 Bits",
         "platform": "LC"
@@ -138,6 +150,7 @@
         "expanded_url": "https://leetcode.com/problems/counting-bits/",
         "expanded_stripped_url": "https://leetcode.com/problems/counting-bits/",
         "type": "problem",
+        "id_base": "counting-bits",
         "id": "338LC",
         "title": "Counting Bits",
         "platform": "LC"
@@ -149,6 +162,7 @@
         "expanded_url": "https://leetcode.com/problems/missing-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/missing-number/",
         "type": "problem",
+        "id_base": "missing-number",
         "id": "268LC",
         "title": "Missing Number",
         "platform": "LC"
@@ -160,6 +174,7 @@
         "expanded_url": "https://leetcode.com/problems/reverse-bits/",
         "expanded_stripped_url": "https://leetcode.com/problems/reverse-bits/",
         "type": "problem",
+        "id_base": "reverse-bits",
         "id": "190LC",
         "title": "Reverse Bits",
         "platform": "LC"
@@ -171,6 +186,7 @@
         "expanded_url": "https://leetcode.com/problems/climbing-stairs/",
         "expanded_stripped_url": "https://leetcode.com/problems/climbing-stairs/",
         "type": "problem",
+        "id_base": "climbing-stairs",
         "id": "70LC",
         "title": "Climbing Stairs",
         "platform": "LC"
@@ -182,6 +198,7 @@
         "expanded_url": "https://leetcode.com/problems/coin-change/",
         "expanded_stripped_url": "https://leetcode.com/problems/coin-change/",
         "type": "problem",
+        "id_base": "coin-change",
         "id": "322LC",
         "title": "Coin Change",
         "platform": "LC"
@@ -193,6 +210,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
         "type": "problem",
+        "id_base": "longest-increasing-subsequence",
         "id": "300LC",
         "title": "Longest Increasing Subsequence",
         "platform": "LC"
@@ -204,6 +222,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-common-subsequence/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-common-subsequence/",
         "type": "problem",
+        "id_base": "longest-common-subsequence",
         "id": "1143LC",
         "title": "Longest Common Subsequence",
         "platform": "LC"
@@ -215,6 +234,7 @@
         "expanded_url": "https://leetcode.com/problems/word-break/",
         "expanded_stripped_url": "https://leetcode.com/problems/word-break/",
         "type": "problem",
+        "id_base": "word-break",
         "id": "139LC",
         "title": "Word Break",
         "platform": "LC"
@@ -226,6 +246,7 @@
         "expanded_url": "https://leetcode.com/problems/combination-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/combination-sum/",
         "type": "problem",
+        "id_base": "combination-sum",
         "id": "39LC",
         "title": "Combination Sum",
         "platform": "LC"
@@ -237,6 +258,7 @@
         "expanded_url": "https://leetcode.com/problems/house-robber/",
         "expanded_stripped_url": "https://leetcode.com/problems/house-robber/",
         "type": "problem",
+        "id_base": "house-robber",
         "id": "198LC",
         "title": "House Robber",
         "platform": "LC"
@@ -248,6 +270,7 @@
         "expanded_url": "https://leetcode.com/problems/house-robber-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/house-robber-ii/",
         "type": "problem",
+        "id_base": "house-robber-ii",
         "id": "213LC",
         "title": "House Robber II",
         "platform": "LC"
@@ -259,6 +282,7 @@
         "expanded_url": "https://leetcode.com/problems/decode-ways/",
         "expanded_stripped_url": "https://leetcode.com/problems/decode-ways/",
         "type": "problem",
+        "id_base": "decode-ways",
         "id": "91LC",
         "title": "Decode Ways",
         "platform": "LC"
@@ -270,6 +294,7 @@
         "expanded_url": "https://leetcode.com/problems/unique-paths/",
         "expanded_stripped_url": "https://leetcode.com/problems/unique-paths/",
         "type": "problem",
+        "id_base": "unique-paths",
         "id": "62LC",
         "title": "Unique Paths",
         "platform": "LC"
@@ -281,6 +306,7 @@
         "expanded_url": "https://leetcode.com/problems/jump-game/",
         "expanded_stripped_url": "https://leetcode.com/problems/jump-game/",
         "type": "problem",
+        "id_base": "jump-game",
         "id": "55LC",
         "title": "Jump Game",
         "platform": "LC"
@@ -292,6 +318,7 @@
         "expanded_url": "https://leetcode.com/problems/clone-graph/",
         "expanded_stripped_url": "https://leetcode.com/problems/clone-graph/",
         "type": "problem",
+        "id_base": "clone-graph",
         "id": "133LC",
         "title": "Clone Graph",
         "platform": "LC"
@@ -303,6 +330,7 @@
         "expanded_url": "https://leetcode.com/problems/course-schedule/",
         "expanded_stripped_url": "https://leetcode.com/problems/course-schedule/",
         "type": "problem",
+        "id_base": "course-schedule",
         "id": "207LC",
         "title": "Course Schedule",
         "platform": "LC"
@@ -314,6 +342,7 @@
         "expanded_url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
         "expanded_stripped_url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
         "type": "problem",
+        "id_base": "pacific-atlantic-water-flow",
         "id": "417LC",
         "title": "Pacific Atlantic Water Flow",
         "platform": "LC"
@@ -325,6 +354,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-islands/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-islands/",
         "type": "problem",
+        "id_base": "number-of-islands",
         "id": "200LC",
         "title": "Number of Islands",
         "platform": "LC"
@@ -336,6 +366,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
         "type": "problem",
+        "id_base": "longest-consecutive-sequence",
         "id": "128LC",
         "title": "Longest Consecutive Sequence",
         "platform": "LC"
@@ -347,6 +378,7 @@
         "expanded_url": "https://leetcode.com/problems/alien-dictionary/solution/",
         "expanded_stripped_url": "https://leetcode.com/problems/alien-dictionary/solution/",
         "type": "problem",
+        "id_base": "alien-dictionary",
         "id": "269LC",
         "title": "Alien Dictionary",
         "platform": "LC"
@@ -358,6 +390,7 @@
         "expanded_url": "https://leetcode.com/problems/graph-valid-tree/solutions/",
         "expanded_stripped_url": "https://leetcode.com/problems/graph-valid-tree/solutions/",
         "type": "problem",
+        "id_base": "graph-valid-tree",
         "id": "261LC",
         "title": "Graph Valid Tree",
         "platform": "LC"
@@ -369,6 +402,7 @@
         "expanded_url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
         "expanded_stripped_url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
         "type": "problem",
+        "id_base": "number-of-connected-components-in-an-undirected-graph",
         "id": "323LC",
         "title": "Number of Connected Components in an Undirected Graph",
         "platform": "LC"
@@ -380,6 +414,7 @@
         "expanded_url": "https://leetcode.com/problems/insert-interval/",
         "expanded_stripped_url": "https://leetcode.com/problems/insert-interval/",
         "type": "problem",
+        "id_base": "insert-interval",
         "id": "57LC",
         "title": "Insert Interval",
         "platform": "LC"
@@ -391,6 +426,7 @@
         "expanded_url": "https://leetcode.com/problems/merge-intervals/",
         "expanded_stripped_url": "https://leetcode.com/problems/merge-intervals/",
         "type": "problem",
+        "id_base": "merge-intervals",
         "id": "56LC",
         "title": "Merge Intervals",
         "platform": "LC"
@@ -402,6 +438,7 @@
         "expanded_url": "https://leetcode.com/problems/non-overlapping-intervals/",
         "expanded_stripped_url": "https://leetcode.com/problems/non-overlapping-intervals/",
         "type": "problem",
+        "id_base": "non-overlapping-intervals",
         "id": "435LC",
         "title": "Non-overlapping Intervals",
         "platform": "LC"
@@ -413,6 +450,7 @@
         "expanded_url": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
         "expanded_stripped_url": "https://www.interviewbit.com/problems/repeat-and-missing-number-array/",
         "type": "problem",
+        "id_base": "repeat-and-missing-number-array",
         "id": "60IB",
         "title": "Repeat and Missing Number Array",
         "platform": "IB"
@@ -424,6 +462,7 @@
         "expanded_url": "https://leetcode.com/problems/meeting-rooms/",
         "expanded_stripped_url": "https://leetcode.com/problems/meeting-rooms/",
         "type": "problem",
+        "id_base": "meeting-rooms",
         "id": "252LC",
         "title": "Meeting Rooms",
         "platform": "LC"
@@ -435,6 +474,7 @@
         "expanded_url": "https://leetcode.com/problems/meeting-rooms-ii/",
         "expanded_stripped_url": "https://leetcode.com/problems/meeting-rooms-ii/",
         "type": "problem",
+        "id_base": "meeting-rooms-ii",
         "id": "253LC",
         "title": "Meeting Rooms II",
         "platform": "LC"
@@ -446,6 +486,7 @@
         "expanded_url": "https://leetcode.com/problems/reverse-linked-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/reverse-linked-list/",
         "type": "problem",
+        "id_base": "reverse-linked-list",
         "id": "206LC",
         "title": "Reverse Linked List",
         "platform": "LC"
@@ -457,6 +498,7 @@
         "expanded_url": "https://leetcode.com/problems/linked-list-cycle/",
         "expanded_stripped_url": "https://leetcode.com/problems/linked-list-cycle/",
         "type": "problem",
+        "id_base": "linked-list-cycle",
         "id": "141LC",
         "title": "Linked List Cycle",
         "platform": "LC"
@@ -468,6 +510,7 @@
         "expanded_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
         "expanded_stripped_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
         "type": "problem",
+        "id_base": "merge-two-sorted-lists",
         "id": "21LC",
         "title": "Merge Two Sorted Lists",
         "platform": "LC"
@@ -479,6 +522,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/merge-k-sorted-arrays_975379",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/merge-k-sorted-arrays_975379",
         "type": "problem",
+        "id_base": "merge-k-sorted-arrays_975379",
         "id": "9108C360",
         "title": "Merge K Sorted Arrays",
         "platform": "C360"
@@ -490,6 +534,7 @@
         "expanded_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
         "type": "problem",
+        "id_base": "remove-nth-node-from-end-of-list",
         "id": "19LC",
         "title": "Remove Nth Node From End of List",
         "platform": "LC"
@@ -501,6 +546,7 @@
         "expanded_url": "https://leetcode.com/problems/reorder-list/",
         "expanded_stripped_url": "https://leetcode.com/problems/reorder-list/",
         "type": "problem",
+        "id_base": "reorder-list",
         "id": "143LC",
         "title": "Reorder List",
         "platform": "LC"
@@ -512,6 +558,7 @@
         "expanded_url": "https://leetcode.com/problems/set-matrix-zeroes/",
         "expanded_stripped_url": "https://leetcode.com/problems/set-matrix-zeroes/",
         "type": "problem",
+        "id_base": "set-matrix-zeroes",
         "id": "73LC",
         "title": "Set Matrix Zeroes",
         "platform": "LC"
@@ -523,6 +570,7 @@
         "expanded_url": "https://leetcode.com/problems/spiral-matrix/",
         "expanded_stripped_url": "https://leetcode.com/problems/spiral-matrix/",
         "type": "problem",
+        "id_base": "spiral-matrix",
         "id": "54LC",
         "title": "Spiral Matrix",
         "platform": "LC"
@@ -534,6 +582,7 @@
         "expanded_url": "https://leetcode.com/problems/rotate-image/",
         "expanded_stripped_url": "https://leetcode.com/problems/rotate-image/",
         "type": "problem",
+        "id_base": "rotate-image",
         "id": "48LC",
         "title": "Rotate Image",
         "platform": "LC"
@@ -545,6 +594,7 @@
         "expanded_url": "https://leetcode.com/problems/word-search/",
         "expanded_stripped_url": "https://leetcode.com/problems/word-search/",
         "type": "problem",
+        "id_base": "word-search",
         "id": "79LC",
         "title": "Word Search",
         "platform": "LC"
@@ -556,6 +606,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
         "type": "problem",
+        "id_base": "longest-substring-without-repeating-characters",
         "id": "3LC",
         "title": "Longest Substring Without Repeating Characters",
         "platform": "LC"
@@ -567,6 +618,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
         "type": "problem",
+        "id_base": "longest-repeating-character-replacement",
         "id": "424LC",
         "title": "Longest Repeating Character Replacement",
         "platform": "LC"
@@ -578,6 +630,7 @@
         "expanded_url": "https://leetcode.com/problems/minimum-window-substring/",
         "expanded_stripped_url": "https://leetcode.com/problems/minimum-window-substring/",
         "type": "problem",
+        "id_base": "minimum-window-substring",
         "id": "76LC",
         "title": "Minimum Window Substring",
         "platform": "LC"
@@ -589,6 +642,7 @@
         "expanded_url": "https://leetcode.com/problems/valid-anagram/",
         "expanded_stripped_url": "https://leetcode.com/problems/valid-anagram/",
         "type": "problem",
+        "id_base": "valid-anagram",
         "id": "242LC",
         "title": "Valid Anagram",
         "platform": "LC"
@@ -600,6 +654,7 @@
         "expanded_url": "https://leetcode.com/problems/group-anagrams/",
         "expanded_stripped_url": "https://leetcode.com/problems/group-anagrams/",
         "type": "problem",
+        "id_base": "group-anagrams",
         "id": "49LC",
         "title": "Group Anagrams",
         "platform": "LC"
@@ -611,6 +666,7 @@
         "expanded_url": "https://leetcode.com/problems/valid-parentheses/",
         "expanded_stripped_url": "https://leetcode.com/problems/valid-parentheses/",
         "type": "problem",
+        "id_base": "valid-parentheses",
         "id": "20LC",
         "title": "Valid Parentheses",
         "platform": "LC"
@@ -622,6 +678,7 @@
         "expanded_url": "https://leetcode.com/problems/palindrome-number/",
         "expanded_stripped_url": "https://leetcode.com/problems/palindrome-number/",
         "type": "problem",
+        "id_base": "palindrome-number",
         "id": "9LC",
         "title": "Palindrome Number",
         "platform": "LC"
@@ -633,6 +690,7 @@
         "expanded_url": "https://leetcode.com/problems/longest-palindromic-substring/",
         "expanded_stripped_url": "https://leetcode.com/problems/longest-palindromic-substring/",
         "type": "problem",
+        "id_base": "longest-palindromic-substring",
         "id": "5LC",
         "title": "Longest Palindromic Substring",
         "platform": "LC"
@@ -644,6 +702,7 @@
         "expanded_url": "https://leetcode.com/problems/palindromic-substrings/",
         "expanded_stripped_url": "https://leetcode.com/problems/palindromic-substrings/",
         "type": "problem",
+        "id_base": "palindromic-substrings",
         "id": "647LC",
         "title": "Palindromic Substrings",
         "platform": "LC"
@@ -655,6 +714,7 @@
         "expanded_url": "https://leetcode.com/problems/encode-and-decode-strings/",
         "expanded_stripped_url": "https://leetcode.com/problems/encode-and-decode-strings/",
         "type": "problem",
+        "id_base": "encode-and-decode-strings",
         "id": "271LC",
         "title": "Encode and Decode Strings",
         "platform": "LC"
@@ -666,6 +726,7 @@
         "expanded_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
         "type": "problem",
+        "id_base": "maximum-depth-of-binary-tree",
         "id": "104LC",
         "title": "Maximum Depth of Binary Tree",
         "platform": "LC"
@@ -677,6 +738,7 @@
         "expanded_url": "https://leetcode.com/problems/same-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/same-tree/",
         "type": "problem",
+        "id_base": "same-tree",
         "id": "100LC",
         "title": "Same Tree",
         "platform": "LC"
@@ -688,6 +750,7 @@
         "expanded_url": "https://leetcode.com/problems/invert-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/invert-binary-tree/",
         "type": "problem",
+        "id_base": "invert-binary-tree",
         "id": "226LC",
         "title": "Invert Binary Tree",
         "platform": "LC"
@@ -699,6 +762,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
         "type": "problem",
+        "id_base": "binary-tree-maximum-path-sum",
         "id": "124LC",
         "title": "Binary Tree Maximum Path Sum",
         "platform": "LC"
@@ -710,6 +774,7 @@
         "expanded_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
         "type": "problem",
+        "id_base": "binary-tree-level-order-traversal",
         "id": "102LC",
         "title": "Binary Tree Level Order Traversal",
         "platform": "LC"
@@ -721,6 +786,7 @@
         "expanded_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
         "type": "problem",
+        "id_base": "serialize-and-deserialize-binary-tree",
         "id": "297LC",
         "title": "Serialize and Deserialize Binary Tree",
         "platform": "LC"
@@ -732,6 +798,7 @@
         "expanded_url": "https://leetcode.com/problems/subtree-of-another-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/subtree-of-another-tree/",
         "type": "problem",
+        "id_base": "subtree-of-another-tree",
         "id": "572LC",
         "title": "Subtree of Another Tree",
         "platform": "LC"
@@ -743,6 +810,7 @@
         "expanded_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
         "expanded_stripped_url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
         "type": "problem",
+        "id_base": "construct-binary-tree-from-inorder-and-postorder-traversal",
         "id": "106LC",
         "title": "Construct Binary Tree from Inorder and Postorder Traversal",
         "platform": "LC"
@@ -754,6 +822,7 @@
         "expanded_url": "https://leetcode.com/problems/validate-binary-search-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/validate-binary-search-tree/",
         "type": "problem",
+        "id_base": "validate-binary-search-tree",
         "id": "98LC",
         "title": "Validate Binary Search Tree",
         "platform": "LC"
@@ -765,6 +834,7 @@
         "expanded_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
         "expanded_stripped_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
         "type": "problem",
+        "id_base": "kth-smallest-element-in-a-bst",
         "id": "230LC",
         "title": "Kth Smallest Element in a BST",
         "platform": "LC"
@@ -776,6 +846,7 @@
         "expanded_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
         "type": "problem",
+        "id_base": "lowest-common-ancestor-of-a-binary-search-tree",
         "id": "235LC",
         "title": "Lowest Common Ancestor of a Binary Search Tree",
         "platform": "LC"
@@ -787,6 +858,7 @@
         "expanded_url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
         "expanded_stripped_url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
         "type": "problem",
+        "id_base": "implement-trie-prefix-tree",
         "id": "208LC",
         "title": "Implement Trie (Prefix Tree)",
         "platform": "LC"
@@ -798,6 +870,7 @@
         "expanded_url": "https://www.naukri.com/code360/problems/implement-trie_1387095?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_tries_videos",
         "expanded_stripped_url": "https://www.naukri.com/code360/problems/implement-trie_1387095",
         "type": "problem",
+        "id_base": "implement-trie_1387095",
         "id": "11836C360",
         "title": "Implement Trie ll",
         "platform": "C360"
@@ -809,6 +882,7 @@
         "expanded_url": "https://leetcode.com/problems/top-k-frequent-elements/",
         "expanded_stripped_url": "https://leetcode.com/problems/top-k-frequent-elements/",
         "type": "problem",
+        "id_base": "top-k-frequent-elements",
         "id": "347LC",
         "title": "Top K Frequent Elements",
         "platform": "LC"
@@ -820,6 +894,7 @@
         "expanded_url": "https://leetcode.com/problems/find-median-from-data-stream/",
         "expanded_stripped_url": "https://leetcode.com/problems/find-median-from-data-stream/",
         "type": "problem",
+        "id_base": "find-median-from-data-stream",
         "id": "295LC",
         "title": "Find Median from Data Stream",
         "platform": "LC"
