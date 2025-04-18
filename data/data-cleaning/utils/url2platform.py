@@ -2,18 +2,24 @@ from utils.enums import TutorialPlatform
 from utils.enums import ProblemPlatform
 
 
+def is_problem_url(url: str) -> bool:
+    if problem_url2platform(url) == ProblemPlatform.UNKNOWN:
+        return False
+    return True
+
+
 def problem_url2platform(url: str) -> ProblemPlatform:
     if "leetcode.com/problems" in url:
         return ProblemPlatform.LEETCODE
-    elif "neetcode.io" in url:
+    elif "neetcode.io/problems" in url:
         return ProblemPlatform.NEETCODE
     elif "geeksforgeeks.org/problems" in url:
         return ProblemPlatform.GFG
-    elif "naukri.com/code360" in url:
+    elif "naukri.com/code360/problems" in url:
         return ProblemPlatform.CODE360
-    elif "interviewbit.com" in url:
+    elif "interviewbit.com/problems" in url:
         return ProblemPlatform.INTERVIEWBIT
-    elif "codechef.com" in url:
+    elif "codechef.com/problems" in url:
         return ProblemPlatform.CODECHEF
     elif "codeforces.com" in url:
         return ProblemPlatform.CODEFORCES
@@ -32,7 +38,6 @@ def problem_url2platform(url: str) -> ProblemPlatform:
     elif "hackerrank.com/challenges" in url:
         return ProblemPlatform.HACKERRANK
     else:
-        print(f"Unknown platform for url: {url}")
         return ProblemPlatform.UNKNOWN
     
 
@@ -51,6 +56,6 @@ def tutorial_url2platform(url: str) -> TutorialPlatform:
     elif "youtube.com" in url:
         return TutorialPlatform.YOUTUBE
     else:
-        print(f"Unknown platform for url: {url}")
+        print(f"Unknown platform for tutorial url: {url}")
     return TutorialPlatform.UNKNOWN
     
