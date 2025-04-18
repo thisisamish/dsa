@@ -1,6 +1,7 @@
 from utils.url2platform import problem_url2platform
 from utils.enums import ProblemPlatform
 
+from urllib.parse import urlparse
 
 
 def problem_url2slug(url: str, platform: ProblemPlatform) -> str:
@@ -20,19 +21,32 @@ def problem_url2slug(url: str, platform: ProblemPlatform) -> str:
     return ''
 
 
+def _extract_relative_path(url, base_path):
+    parsed = urlparse(url)
+    path = parsed.path
+    if path.startswith(base_path):
+        return path[len(base_path):]
+    return ''
+
+
 def tutorial_url2slug(url):
     """
-    Supports GFG, YouTube
+    Supports GFG, YouTube, Naukri Code 360, Scaler Topics, Programiz
     """
     slug = ""
     if "geeksforgeeks.org" in url:
         slug = url.strip("/").split("/")[-1]
-        return slug
     elif "youtube.com/watch" in url:
         slug = url.split("watch/?v=")[-1].split("&")[0]
-        return slug
     elif "youtube.com/playlist" in url:
         slug = url.split("playlist?list=")[-1].split("&")[0]
-        return slug
-    print(f"No slug found for tutorial url: {url}")
+    elif "naukri.com/code360/library/" in url:
+        slug = _extract_relative_path(url, "/code360/library/")
+    elif "scaler.com/topics/" in url:
+        slug = _extract_relative_path(url, "/topics/")
+    elif "programiz.com/" in url:
+        slug = _extract_relative_path(url, "/")
+    if len(slug) == 0:
+        print(f"No slug found for tutorial url: {url}")
+        return ""
     return slug
