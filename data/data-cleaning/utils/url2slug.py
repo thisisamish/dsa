@@ -1,4 +1,12 @@
-def problem_url2slug(url: str) -> str:
+from utils.url2platform import problem_url2platform
+from utils.enums import ProblemPlatform
+
+
+
+def problem_url2slug(url: str, platform: ProblemPlatform) -> str:
+    if problem_url2platform(url) == ProblemPlatform.LINTCODE:
+        slug = url.strip('/').split('/')[-1]
+        return slug
     # Extract the path, remove trailing slashes, and split by '/'
     path_parts = url.strip('/').split('/')
     
@@ -9,7 +17,6 @@ def problem_url2slug(url: str) -> str:
             return path_parts[index + 1]
     
     # If not matched above, return empty string
-    print(f"No slug found for url: {url}")
     return ''
 
 
@@ -27,5 +34,5 @@ def tutorial_url2slug(url):
     elif "youtube.com/playlist" in url:
         slug = url.split("playlist?list=")[-1].split("&")[0]
         return slug
-    print(f"No slug found for url: {url}")
+    print(f"No slug found for tutorial url: {url}")
     return slug
