@@ -106,9 +106,11 @@ export default function RootLayout({
           >
             <div vaul-drawer-wrapper="">
               <div className="relative flex min-h-svh flex-col bg-background">
+              <div data-wrapper="" className="border-grid flex flex-1 flex-col">
                 <SiteHeader />
-                {children}
+                <main className="flex flex-1 flex-col">{children}</main>
                 <SiteFooter />
+                </div>
               </div>
             </div>
             <TailwindIndicator />
