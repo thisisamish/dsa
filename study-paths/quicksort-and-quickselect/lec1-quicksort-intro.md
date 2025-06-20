@@ -27,6 +27,44 @@ It reduces the problem size with each recursive call:
 - Worst Case TC - $O(n^2)$ [Poor pivots (e.g., already sorted array + bad pivot choice)]
 - SC - $O(log n)$ [Due to recursion stack (in-place otherwise)]
 
+## Derivation of Time Complexities
+### Best / Average Case: $O(n log n)$
+Let’s say the pivot always splits the array in half.
+
+| Step        | Number of subarrays | Elements in each | Work per level |
+| ----------- | ------------------- | ---------------- | -------------- |
+| Level 0     | 1                   | n                | n              |
+| Level 1     | 2                   | n/2              | n              |
+| Level 2     | 4                   | n/4              | n              |
+| ...         | ...                 | ...              | ...            |
+| Level log n | 2^log n = n         | size = 1         | n              |
+
+- Total levels: $log_2n$
+- Work per level: $O(n)$
+- Total = $O(n log n)$
+
+This is ideal if the pivot always splits perfectly in the middle.
+
+### Worst Case: $O(n^2)$
+This happens when:
+- The pivot is always the smallest or largest element
+- **Example**: sorted array + picking first/last element as pivot
+
+| Step      | Remaining elements | Work |
+| --------- | ------------------ | ---- |
+| Level 0   | n                  | n    |
+| Level 1   | n - 1              | n-1  |
+| Level 2   | n - 2              | n-2  |
+| ...       | ...                | ...  |
+| Level n-1 | 1                  | 1    |
+
+$Total = n + (n-1) + (n-2) + ... + 1 = O(n²)$
+
+That’s why bad pivots kill Quicksort.
+
+### Solution: Randomized Quicksort
+Randomizing the pivot makes the expected split balanced, giving us expected $O(n log n)$ time regardless of input order.
+
 ## Key Concept - Partitioning
 Partitioning is the core step where:
 * We pick a pivot.

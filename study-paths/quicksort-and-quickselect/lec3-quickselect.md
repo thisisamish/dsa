@@ -27,6 +27,34 @@
 - Worst Case TC - $O(n^2)$ (bad pivots)
 - SC - $O(log n)$
 
+## Derivation of Time Complexities
+Quickselect is like Quicksort, but only recurses into one side — the one that contains the k-th element.
+
+### Best / Average Case: $O(n)$
+Assume the pivot splits array roughly in half each time.
+
+| Step    | Array size | Work (partition) |
+| ------- | ---------- | ---------------- |
+| Level 0 | n          | n                |
+| Level 1 | n/2        | n/2              |
+| Level 2 | n/4        | n/4              |
+| ...     | ...        | ...              |
+
+$Total = n + n/2 + n/4 + ... ≈ 2n = O(n)$
+
+This is like a geometric series:
+$$T(n) = n + n/2 + n/4 + ... = O(n)$$
+
+That’s why Quickselect is <u>very fast on average</u>.
+
+### Worst Case: $O(n²)$
+If pivot always splits badly, like choosing smallest/largest element:
+- First call: partition n elements
+- Next call: n - 1 elements
+- Total: $n + (n - 1) + (n - 2) + ... = O(n²)$
+
+Same failure case as Quicksort.
+
 ## Quickselect Implementation (using Lomuto partition) in C++
 ```cpp
 int lomutoPartition(vector<int>& arr, int low, int high) {
