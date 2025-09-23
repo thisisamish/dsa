@@ -1,0 +1,24 @@
+{
+  "name": "DSA",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "golang.go",
+        "ms-vscode.cpptools",
+        "redhat.java"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "python.formatting.provider": "black",
+        "go.formatTool": "goimports",
+        "C_Cpp.clang_format_style": "Google",
+        "java.format.enabled": true
+      }
+    }
+  }
+}

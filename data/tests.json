@@ -1,0 +1,4 @@
+{
+  "count_problem_sheets": "SELECT COUNT(*) FROM problem_sheets;",
+  "count_problems_in_problem_sheets": "SELECT ps.name AS sheet_name, COUNT(sp.problem_id) AS number_of_problems FROM problem_sheets ps LEFT JOIN sheet_problems sp ON ps.id = sp.sheet_id GROUP BY ps.name;"
+}

@@ -11,6 +11,7 @@ Tags: Brute-force
 Pre-requisites: None
 
 ## Approach
+
 Since the constraints are very low, we can brute-force the solution. That makes this problem trivial. The more interesting solution is in the second part of this problem which has stricter constraints. Find that one [here](https://github.com/thisisamish/dsa/blob/main/leetcode-daily/03-april-2025/README.md).
 
 ## Code

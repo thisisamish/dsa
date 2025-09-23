@@ -1,0 +1,45 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Python: Run Current File",
+      "type": "shell",
+      "command": "python3 ${file}",
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "Go: Run Current File",
+      "type": "shell",
+      "command": "go run ${file}",
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "C++: Compile and Run",
+      "type": "shell",
+      "command": "g++ -std=c++17 ${file} -o ${fileDirname}/${fileBasenameNoExtension} && ${fileDirname}/${fileBasenameNoExtension}",
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "Java: Compile and Run",
+      "type": "shell",
+      "command": "javac ${file} && java -cp ${fileDirname} ${fileBasenameNoExtension}",
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    }
+  ]
+}

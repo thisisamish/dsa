@@ -1,0 +1,15 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "lc_link2details.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leetcode-query": "^1.2.3"
+  }
+}

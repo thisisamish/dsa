@@ -11,6 +11,7 @@ Tags: Greedy, Sorting
 Pre-requisites: None
 
 ## Approach
+
 The key insight is to note that if you split the marbles into contiguous segments (bags), then only the boundaries between segments add extra cost. Specifically, if you place a cut between positions `i` and `i + 1`, then you “pay” an extra cost of `weights[i] + weights[i + 1]`.
 
 ### Observation:
@@ -19,18 +20,18 @@ The key insight is to note that if you split the marbles into contiguous segment
 
 2. For `k > 1`, every time you add a cut, you are “splitting” the bag into two, and the cost of the two resulting bags becomes:
 
-    Left bag: `weights[start] + weights[i]`
+   Left bag: `weights[start] + weights[i]`
 
-    Right bag: `weights[i + 1] + weights[end]`
+   Right bag: `weights[i + 1] + weights[end]`
 
-    Notice that aside from the fixed contributions from the very first and last marbles, each cut contributes an extra amount equal to `weights[i] + weights[i + 1]`.
+   Notice that aside from the fixed contributions from the very first and last marbles, each cut contributes an extra amount equal to `weights[i] + weights[i + 1]`.
 
 3. No matter how you cut, the total cost always includes the fixed part: `weights[0] + weights[n – 1]`. The additional cost comes solely from the chosen `k – 1` cut boundaries. Therefore, the total score can be written as:
-    $$ score = fixed + \sum_{\text{cut at i}}(weights[𝑖] + weights[i + 1])$$
+   $$ score = fixed + \sum\_{\text{cut at i}}(weights[𝑖] + weights[i + 1])$$
 
 4. To maximize the score, you would choose the `k – 1` cuts that have the largest contributions (largest values of `weights[i] + weights[i + 1]`).
 
-    To minimize the score, you choose the `k – 1` cuts that have the smallest contributions.
+   To minimize the score, you choose the `k – 1` cuts that have the smallest contributions.
 
 ## Code
 

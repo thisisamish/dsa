@@ -14,10 +14,12 @@ CREATE TABLE IF NOT EXISTS resources (
 CREATE TABLE IF NOT EXISTS sheets (
     id INTEGER PRIMARY KEY,
     name TEXT NOT NULL UNIQUE,
+    user_id INTEGER,
     href TEXT NOT NULL,
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
     updated_at DATETIME,
-    deleted_at DATETIME
+    deleted_at DATETIME,
+    FOREIGN KEY (user_id) REFERENCES users(id)
 );
 
 CREATE TABLE IF NOT EXISTS sheet_resources (

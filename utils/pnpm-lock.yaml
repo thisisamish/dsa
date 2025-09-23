@@ -1,0 +1,90 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      leetcode-query:
+        specifier: ^1.2.3
+        version: 1.2.3
+
+packages:
+
+  '@fetch-impl/cross-fetch@1.0.0':
+    resolution: {integrity: sha512-vNvwtCQ7yruvpYnp1i/4paVi/icrGYx9O4eHNDYorjTAFg78bhitO0l39opJSVfsTKqyWqj3+2+YenoGhZOCJA==}
+    peerDependencies:
+      '@fetch-impl/fetcher': ^1.0.0
+      cross-fetch: '*'
+
+  '@fetch-impl/fetcher@1.0.0':
+    resolution: {integrity: sha512-UPUN9Yfjnk513Vc08iNW8/9L1nSwQMsTx6nOvmjPNfU2Rtbew/2KgAbQDPuoL6PrNgEmEmmyeM29BkcVBpt3gQ==}
+
+  cross-fetch@4.1.0:
+    resolution: {integrity: sha512-uKm5PU+MHTootlWEY+mZ4vvXoCn4fLQxT9dSc1sXVMSFkINTJVN8cAQROpwcKm8bJ/c7rgZVIBWzH5T78sNZZw==}
+
+  eventemitter3@5.0.1:
+    resolution: {integrity: sha512-GWkBvjiSZK87ELrYOSESUYeVIc9mvLLf/nXalMOS5dYrgZq9o5OVkbZAVM06CVxYsCwH9BDZFPlQTlPA1j4ahA==}
+
+  leetcode-query@1.2.3:
+    resolution: {integrity: sha512-J73ehmjgIfDd3Ugg1ee83bDALNaGh78nQwDS5qyPOsgGahK55a2lcl9Q/iaByKi6AUMMxsHEyEsUNGBX4Lmn2Q==}
+
+  node-fetch@2.7.0:
+    resolution: {integrity: sha512-c4FRfUm/dbcWZ7U+1Wq0AwCyFL+3nt2bEw05wfxSz+DWpWsitgmSgYmy2dQdWyKC1694ELPqMs/YzUSNozLt8A==}
+    engines: {node: 4.x || >=6.0.0}
+    peerDependencies:
+      encoding: ^0.1.0
+    peerDependenciesMeta:
+      encoding:
+        optional: true
+
+  tr46@0.0.3:
+    resolution: {integrity: sha512-N3WMsuqV66lT30CrXNbEjx4GEwlow3v6rr4mCcv6prnfwhS01rkgyFdjPNBYd9br7LpXV1+Emh01fHnq2Gdgrw==}
+
+  webidl-conversions@3.0.1:
+    resolution: {integrity: sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ==}
+
+  whatwg-url@5.0.0:
+    resolution: {integrity: sha512-saE57nupxk6v3HY35+jzBwYa0rKSy0XR8JSxZPwgLr7ys0IBzhGviA1/TUGJLmSVqs8pb9AnvICXEuOHLprYTw==}
+
+snapshots:
+
+  '@fetch-impl/cross-fetch@1.0.0(@fetch-impl/fetcher@1.0.0)(cross-fetch@4.1.0)':
+    dependencies:
+      '@fetch-impl/fetcher': 1.0.0
+      cross-fetch: 4.1.0
+
+  '@fetch-impl/fetcher@1.0.0': {}
+
+  cross-fetch@4.1.0:
+    dependencies:
+      node-fetch: 2.7.0
+    transitivePeerDependencies:
+      - encoding
+
+  eventemitter3@5.0.1: {}
+
+  leetcode-query@1.2.3:
+    dependencies:
+      '@fetch-impl/cross-fetch': 1.0.0(@fetch-impl/fetcher@1.0.0)(cross-fetch@4.1.0)
+      '@fetch-impl/fetcher': 1.0.0
+      cross-fetch: 4.1.0
+      eventemitter3: 5.0.1
+    transitivePeerDependencies:
+      - encoding
+
+  node-fetch@2.7.0:
+    dependencies:
+      whatwg-url: 5.0.0
+
+  tr46@0.0.3: {}
+
+  webidl-conversions@3.0.1: {}
+
+  whatwg-url@5.0.0:
+    dependencies:
+      tr46: 0.0.3
+      webidl-conversions: 3.0.1

@@ -1,0 +1,8 @@
+a
+__pycache__
+.venv
+test.*
+*-added.json
+*-expanded.json
+*-progress.json
+node_modules

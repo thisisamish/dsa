@@ -1,0 +1,752 @@
+[
+    {
+        "url": "https://leetcode.com/problems/merge-strings-alternately",
+        "expanded_url": "https://leetcode.com/problems/merge-strings-alternately",
+        "expanded_stripped_url": "https://leetcode.com/problems/merge-strings-alternately",
+        "type": "problem",
+        "id_base": "merge-strings-alternately",
+        "id": "1768LC",
+        "title": "Merge Strings Alternately",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+        "expanded_url": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+        "expanded_stripped_url": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+        "type": "problem",
+        "id_base": "greatest-common-divisor-of-strings",
+        "id": "1071LC",
+        "title": "Greatest Common Divisor of Strings",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies",
+        "expanded_url": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies",
+        "expanded_stripped_url": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies",
+        "type": "problem",
+        "id_base": "kids-with-the-greatest-number-of-candies",
+        "id": "1431LC",
+        "title": "Kids With the Greatest Number of Candies",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/can-place-flowers",
+        "expanded_url": "https://leetcode.com/problems/can-place-flowers",
+        "expanded_stripped_url": "https://leetcode.com/problems/can-place-flowers",
+        "type": "problem",
+        "id_base": "can-place-flowers",
+        "id": "605LC",
+        "title": "Can Place Flowers",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+        "expanded_url": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+        "expanded_stripped_url": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+        "type": "problem",
+        "id_base": "reverse-vowels-of-a-string",
+        "id": "345LC",
+        "title": "Reverse Vowels of a String",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "expanded_url": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "expanded_stripped_url": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "type": "problem",
+        "id_base": "reverse-words-in-a-string",
+        "id": "151LC",
+        "title": "Reverse Words in a String",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/product-of-array-except-self",
+        "expanded_url": "https://leetcode.com/problems/product-of-array-except-self",
+        "expanded_stripped_url": "https://leetcode.com/problems/product-of-array-except-self",
+        "type": "problem",
+        "id_base": "product-of-array-except-self",
+        "id": "238LC",
+        "title": "Product of Array Except Self",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/increasing-triplet-subsequence",
+        "expanded_url": "https://leetcode.com/problems/increasing-triplet-subsequence",
+        "expanded_stripped_url": "https://leetcode.com/problems/increasing-triplet-subsequence",
+        "type": "problem",
+        "id_base": "increasing-triplet-subsequence",
+        "id": "334LC",
+        "title": "Increasing Triplet Subsequence",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/string-compression",
+        "expanded_url": "https://leetcode.com/problems/string-compression",
+        "expanded_stripped_url": "https://leetcode.com/problems/string-compression",
+        "type": "problem",
+        "id_base": "string-compression",
+        "id": "443LC",
+        "title": "String Compression",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/move-zeroes",
+        "expanded_url": "https://leetcode.com/problems/move-zeroes",
+        "expanded_stripped_url": "https://leetcode.com/problems/move-zeroes",
+        "type": "problem",
+        "id_base": "move-zeroes",
+        "id": "283LC",
+        "title": "Move Zeroes",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/is-subsequence",
+        "expanded_url": "https://leetcode.com/problems/is-subsequence",
+        "expanded_stripped_url": "https://leetcode.com/problems/is-subsequence",
+        "type": "problem",
+        "id_base": "is-subsequence",
+        "id": "392LC",
+        "title": "Is Subsequence",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/container-with-most-water",
+        "expanded_url": "https://leetcode.com/problems/container-with-most-water",
+        "expanded_stripped_url": "https://leetcode.com/problems/container-with-most-water",
+        "type": "problem",
+        "id_base": "container-with-most-water",
+        "id": "11LC",
+        "title": "Container With Most Water",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/max-number-of-k-sum-pairs",
+        "expanded_url": "https://leetcode.com/problems/max-number-of-k-sum-pairs",
+        "expanded_stripped_url": "https://leetcode.com/problems/max-number-of-k-sum-pairs",
+        "type": "problem",
+        "id_base": "max-number-of-k-sum-pairs",
+        "id": "1679LC",
+        "title": "Max Number of K-Sum Pairs",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-average-subarray-i",
+        "expanded_url": "https://leetcode.com/problems/maximum-average-subarray-i",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-average-subarray-i",
+        "type": "problem",
+        "id_base": "maximum-average-subarray-i",
+        "id": "643LC",
+        "title": "Maximum Average Subarray I",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length",
+        "expanded_url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length",
+        "type": "problem",
+        "id_base": "maximum-number-of-vowels-in-a-substring-of-given-length",
+        "id": "1456LC",
+        "title": "Maximum Number of Vowels in a Substring of Given Length",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/max-consecutive-ones-iii",
+        "expanded_url": "https://leetcode.com/problems/max-consecutive-ones-iii",
+        "expanded_stripped_url": "https://leetcode.com/problems/max-consecutive-ones-iii",
+        "type": "problem",
+        "id_base": "max-consecutive-ones-iii",
+        "id": "1004LC",
+        "title": "Max Consecutive Ones III",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+        "expanded_url": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+        "expanded_stripped_url": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+        "type": "problem",
+        "id_base": "longest-subarray-of-1s-after-deleting-one-element",
+        "id": "1493LC",
+        "title": "Longest Subarray of 1's After Deleting One Element",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/find-the-highest-altitude",
+        "expanded_url": "https://leetcode.com/problems/find-the-highest-altitude",
+        "expanded_stripped_url": "https://leetcode.com/problems/find-the-highest-altitude",
+        "type": "problem",
+        "id_base": "find-the-highest-altitude",
+        "id": "1732LC",
+        "title": "Find the Highest Altitude",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/find-pivot-index",
+        "expanded_url": "https://leetcode.com/problems/find-pivot-index",
+        "expanded_stripped_url": "https://leetcode.com/problems/find-pivot-index",
+        "type": "problem",
+        "id_base": "find-pivot-index",
+        "id": "724LC",
+        "title": "Find Pivot Index",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/find-the-difference-of-two-arrays",
+        "expanded_url": "https://leetcode.com/problems/find-the-difference-of-two-arrays",
+        "expanded_stripped_url": "https://leetcode.com/problems/find-the-difference-of-two-arrays",
+        "type": "problem",
+        "id_base": "find-the-difference-of-two-arrays",
+        "id": "2215LC",
+        "title": "Find the Difference of Two Arrays",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/unique-number-of-occurrences",
+        "expanded_url": "https://leetcode.com/problems/unique-number-of-occurrences",
+        "expanded_stripped_url": "https://leetcode.com/problems/unique-number-of-occurrences",
+        "type": "problem",
+        "id_base": "unique-number-of-occurrences",
+        "id": "1207LC",
+        "title": "Unique Number of Occurrences",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/determine-if-two-strings-are-close",
+        "expanded_url": "https://leetcode.com/problems/determine-if-two-strings-are-close",
+        "expanded_stripped_url": "https://leetcode.com/problems/determine-if-two-strings-are-close",
+        "type": "problem",
+        "id_base": "determine-if-two-strings-are-close",
+        "id": "1657LC",
+        "title": "Determine if Two Strings Are Close",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/equal-row-and-column-pairs",
+        "expanded_url": "https://leetcode.com/problems/equal-row-and-column-pairs",
+        "expanded_stripped_url": "https://leetcode.com/problems/equal-row-and-column-pairs",
+        "type": "problem",
+        "id_base": "equal-row-and-column-pairs",
+        "id": "2352LC",
+        "title": "Equal Row and Column Pairs",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/removing-stars-from-a-string",
+        "expanded_url": "https://leetcode.com/problems/removing-stars-from-a-string",
+        "expanded_stripped_url": "https://leetcode.com/problems/removing-stars-from-a-string",
+        "type": "problem",
+        "id_base": "removing-stars-from-a-string",
+        "id": "2390LC",
+        "title": "Removing Stars From a String",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/asteroid-collision",
+        "expanded_url": "https://leetcode.com/problems/asteroid-collision",
+        "expanded_stripped_url": "https://leetcode.com/problems/asteroid-collision",
+        "type": "problem",
+        "id_base": "asteroid-collision",
+        "id": "735LC",
+        "title": "Asteroid Collision",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/decode-string",
+        "expanded_url": "https://leetcode.com/problems/decode-string",
+        "expanded_stripped_url": "https://leetcode.com/problems/decode-string",
+        "type": "problem",
+        "id_base": "decode-string",
+        "id": "394LC",
+        "title": "Decode String",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/number-of-recent-calls",
+        "expanded_url": "https://leetcode.com/problems/number-of-recent-calls",
+        "expanded_stripped_url": "https://leetcode.com/problems/number-of-recent-calls",
+        "type": "problem",
+        "id_base": "number-of-recent-calls",
+        "id": "933LC",
+        "title": "Number of Recent Calls",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/dota2-senate",
+        "expanded_url": "https://leetcode.com/problems/dota2-senate",
+        "expanded_stripped_url": "https://leetcode.com/problems/dota2-senate",
+        "type": "problem",
+        "id_base": "dota2-senate",
+        "id": "649LC",
+        "title": "Dota2 Senate",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list",
+        "expanded_url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list",
+        "expanded_stripped_url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list",
+        "type": "problem",
+        "id_base": "delete-the-middle-node-of-a-linked-list",
+        "id": "2095LC",
+        "title": "Delete the Middle Node of a Linked List",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/odd-even-linked-list",
+        "expanded_url": "https://leetcode.com/problems/odd-even-linked-list",
+        "expanded_stripped_url": "https://leetcode.com/problems/odd-even-linked-list",
+        "type": "problem",
+        "id_base": "odd-even-linked-list",
+        "id": "328LC",
+        "title": "Odd Even Linked List",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/reverse-linked-list",
+        "expanded_url": "https://leetcode.com/problems/reverse-linked-list",
+        "expanded_stripped_url": "https://leetcode.com/problems/reverse-linked-list",
+        "type": "problem",
+        "id_base": "reverse-linked-list",
+        "id": "206LC",
+        "title": "Reverse Linked List",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list",
+        "expanded_url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list",
+        "type": "problem",
+        "id_base": "maximum-twin-sum-of-a-linked-list",
+        "id": "2130LC",
+        "title": "Maximum Twin Sum of a Linked List",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+        "expanded_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+        "type": "problem",
+        "id_base": "maximum-depth-of-binary-tree",
+        "id": "104LC",
+        "title": "Maximum Depth of Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/leaf-similar-trees",
+        "expanded_url": "https://leetcode.com/problems/leaf-similar-trees",
+        "expanded_stripped_url": "https://leetcode.com/problems/leaf-similar-trees",
+        "type": "problem",
+        "id_base": "leaf-similar-trees",
+        "id": "872LC",
+        "title": "Leaf-Similar Trees",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+        "expanded_url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+        "expanded_stripped_url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+        "type": "problem",
+        "id_base": "count-good-nodes-in-binary-tree",
+        "id": "1448LC",
+        "title": "Count Good Nodes in Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/path-sum-iii",
+        "expanded_url": "https://leetcode.com/problems/path-sum-iii",
+        "expanded_stripped_url": "https://leetcode.com/problems/path-sum-iii",
+        "type": "problem",
+        "id_base": "path-sum-iii",
+        "id": "437LC",
+        "title": "Path Sum III",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree",
+        "expanded_url": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree",
+        "expanded_stripped_url": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree",
+        "type": "problem",
+        "id_base": "longest-zigzag-path-in-a-binary-tree",
+        "id": "1372LC",
+        "title": "Longest ZigZag Path in a Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "expanded_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "expanded_stripped_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "type": "problem",
+        "id_base": "lowest-common-ancestor-of-a-binary-tree",
+        "id": "236LC",
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/binary-tree-right-side-view",
+        "expanded_url": "https://leetcode.com/problems/binary-tree-right-side-view",
+        "expanded_stripped_url": "https://leetcode.com/problems/binary-tree-right-side-view",
+        "type": "problem",
+        "id_base": "binary-tree-right-side-view",
+        "id": "199LC",
+        "title": "Binary Tree Right Side View",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree",
+        "expanded_url": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree",
+        "type": "problem",
+        "id_base": "maximum-level-sum-of-a-binary-tree",
+        "id": "1161LC",
+        "title": "Maximum Level Sum of a Binary Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/search-in-a-binary-search-tree",
+        "expanded_url": "https://leetcode.com/problems/search-in-a-binary-search-tree",
+        "expanded_stripped_url": "https://leetcode.com/problems/search-in-a-binary-search-tree",
+        "type": "problem",
+        "id_base": "search-in-a-binary-search-tree",
+        "id": "700LC",
+        "title": "Search in a Binary Search Tree",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/delete-node-in-a-bst",
+        "expanded_url": "https://leetcode.com/problems/delete-node-in-a-bst",
+        "expanded_stripped_url": "https://leetcode.com/problems/delete-node-in-a-bst",
+        "type": "problem",
+        "id_base": "delete-node-in-a-bst",
+        "id": "450LC",
+        "title": "Delete Node in a BST",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/keys-and-rooms",
+        "expanded_url": "https://leetcode.com/problems/keys-and-rooms",
+        "expanded_stripped_url": "https://leetcode.com/problems/keys-and-rooms",
+        "type": "problem",
+        "id_base": "keys-and-rooms",
+        "id": "841LC",
+        "title": "Keys and Rooms",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/number-of-provinces",
+        "expanded_url": "https://leetcode.com/problems/number-of-provinces",
+        "expanded_stripped_url": "https://leetcode.com/problems/number-of-provinces",
+        "type": "problem",
+        "id_base": "number-of-provinces",
+        "id": "547LC",
+        "title": "Number of Provinces",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+        "expanded_url": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+        "expanded_stripped_url": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+        "type": "problem",
+        "id_base": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+        "id": "1466LC",
+        "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/evaluate-division",
+        "expanded_url": "https://leetcode.com/problems/evaluate-division",
+        "expanded_stripped_url": "https://leetcode.com/problems/evaluate-division",
+        "type": "problem",
+        "id_base": "evaluate-division",
+        "id": "399LC",
+        "title": "Evaluate Division",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze",
+        "expanded_url": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze",
+        "expanded_stripped_url": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze",
+        "type": "problem",
+        "id_base": "nearest-exit-from-entrance-in-maze",
+        "id": "1926LC",
+        "title": "Nearest Exit from Entrance in Maze",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/rotting-oranges",
+        "expanded_url": "https://leetcode.com/problems/rotting-oranges",
+        "expanded_stripped_url": "https://leetcode.com/problems/rotting-oranges",
+        "type": "problem",
+        "id_base": "rotting-oranges",
+        "id": "994LC",
+        "title": "Rotting Oranges",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "expanded_url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "expanded_stripped_url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "type": "problem",
+        "id_base": "kth-largest-element-in-an-array",
+        "id": "215LC",
+        "title": "Kth Largest Element in an Array",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/smallest-number-in-infinite-set",
+        "expanded_url": "https://leetcode.com/problems/smallest-number-in-infinite-set",
+        "expanded_stripped_url": "https://leetcode.com/problems/smallest-number-in-infinite-set",
+        "type": "problem",
+        "id_base": "smallest-number-in-infinite-set",
+        "id": "2336LC",
+        "title": "Smallest Number in Infinite Set",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/maximum-subsequence-score",
+        "expanded_url": "https://leetcode.com/problems/maximum-subsequence-score",
+        "expanded_stripped_url": "https://leetcode.com/problems/maximum-subsequence-score",
+        "type": "problem",
+        "id_base": "maximum-subsequence-score",
+        "id": "2542LC",
+        "title": "Maximum Subsequence Score",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+        "expanded_url": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+        "expanded_stripped_url": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+        "type": "problem",
+        "id_base": "total-cost-to-hire-k-workers",
+        "id": "2462LC",
+        "title": "Total Cost to Hire K Workers",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/guess-number-higher-or-lower",
+        "expanded_url": "https://leetcode.com/problems/guess-number-higher-or-lower",
+        "expanded_stripped_url": "https://leetcode.com/problems/guess-number-higher-or-lower",
+        "type": "problem",
+        "id_base": "guess-number-higher-or-lower",
+        "id": "374LC",
+        "title": "Guess Number Higher or Lower",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions",
+        "expanded_url": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions",
+        "expanded_stripped_url": "https://leetcode.com/problems/successful-pairs-of-spells-and-potions",
+        "type": "problem",
+        "id_base": "successful-pairs-of-spells-and-potions",
+        "id": "2300LC",
+        "title": "Successful Pairs of Spells and Potions",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/find-peak-element",
+        "expanded_url": "https://leetcode.com/problems/find-peak-element",
+        "expanded_stripped_url": "https://leetcode.com/problems/find-peak-element",
+        "type": "problem",
+        "id_base": "find-peak-element",
+        "id": "162LC",
+        "title": "Find Peak Element",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/koko-eating-bananas",
+        "expanded_url": "https://leetcode.com/problems/koko-eating-bananas",
+        "expanded_stripped_url": "https://leetcode.com/problems/koko-eating-bananas",
+        "type": "problem",
+        "id_base": "koko-eating-bananas",
+        "id": "875LC",
+        "title": "Koko Eating Bananas",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "expanded_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "expanded_stripped_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "type": "problem",
+        "id_base": "letter-combinations-of-a-phone-number",
+        "id": "17LC",
+        "title": "Letter Combinations of a Phone Number",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/combination-sum-iii",
+        "expanded_url": "https://leetcode.com/problems/combination-sum-iii",
+        "expanded_stripped_url": "https://leetcode.com/problems/combination-sum-iii",
+        "type": "problem",
+        "id_base": "combination-sum-iii",
+        "id": "216LC",
+        "title": "Combination Sum III",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/n-th-tribonacci-number",
+        "expanded_url": "https://leetcode.com/problems/n-th-tribonacci-number",
+        "expanded_stripped_url": "https://leetcode.com/problems/n-th-tribonacci-number",
+        "type": "problem",
+        "id_base": "n-th-tribonacci-number",
+        "id": "1137LC",
+        "title": "N-th Tribonacci Number",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/min-cost-climbing-stairs",
+        "expanded_url": "https://leetcode.com/problems/min-cost-climbing-stairs",
+        "expanded_stripped_url": "https://leetcode.com/problems/min-cost-climbing-stairs",
+        "type": "problem",
+        "id_base": "min-cost-climbing-stairs",
+        "id": "746LC",
+        "title": "Min Cost Climbing Stairs",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/house-robber",
+        "expanded_url": "https://leetcode.com/problems/house-robber",
+        "expanded_stripped_url": "https://leetcode.com/problems/house-robber",
+        "type": "problem",
+        "id_base": "house-robber",
+        "id": "198LC",
+        "title": "House Robber",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/domino-and-tromino-tiling",
+        "expanded_url": "https://leetcode.com/problems/domino-and-tromino-tiling",
+        "expanded_stripped_url": "https://leetcode.com/problems/domino-and-tromino-tiling",
+        "type": "problem",
+        "id_base": "domino-and-tromino-tiling",
+        "id": "790LC",
+        "title": "Domino and Tromino Tiling",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/unique-paths",
+        "expanded_url": "https://leetcode.com/problems/unique-paths",
+        "expanded_stripped_url": "https://leetcode.com/problems/unique-paths",
+        "type": "problem",
+        "id_base": "unique-paths",
+        "id": "62LC",
+        "title": "Unique Paths",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/longest-common-subsequence",
+        "expanded_url": "https://leetcode.com/problems/longest-common-subsequence",
+        "expanded_stripped_url": "https://leetcode.com/problems/longest-common-subsequence",
+        "type": "problem",
+        "id_base": "longest-common-subsequence",
+        "id": "1143LC",
+        "title": "Longest Common Subsequence",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee",
+        "expanded_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee",
+        "expanded_stripped_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee",
+        "type": "problem",
+        "id_base": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+        "id": "714LC",
+        "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/edit-distance",
+        "expanded_url": "https://leetcode.com/problems/edit-distance",
+        "expanded_stripped_url": "https://leetcode.com/problems/edit-distance",
+        "type": "problem",
+        "id_base": "edit-distance",
+        "id": "72LC",
+        "title": "Edit Distance",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/counting-bits",
+        "expanded_url": "https://leetcode.com/problems/counting-bits",
+        "expanded_stripped_url": "https://leetcode.com/problems/counting-bits",
+        "type": "problem",
+        "id_base": "counting-bits",
+        "id": "338LC",
+        "title": "Counting Bits",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/single-number",
+        "expanded_url": "https://leetcode.com/problems/single-number",
+        "expanded_stripped_url": "https://leetcode.com/problems/single-number",
+        "type": "problem",
+        "id_base": "single-number",
+        "id": "136LC",
+        "title": "Single Number",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c",
+        "expanded_url": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c",
+        "expanded_stripped_url": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c",
+        "type": "problem",
+        "id_base": "minimum-flips-to-make-a-or-b-equal-to-c",
+        "id": "1318LC",
+        "title": "Minimum Flips to Make a OR b Equal to c",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "expanded_url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "expanded_stripped_url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "type": "problem",
+        "id_base": "implement-trie-prefix-tree",
+        "id": "208LC",
+        "title": "Implement Trie (Prefix Tree)",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/search-suggestions-system",
+        "expanded_url": "https://leetcode.com/problems/search-suggestions-system",
+        "expanded_stripped_url": "https://leetcode.com/problems/search-suggestions-system",
+        "type": "problem",
+        "id_base": "search-suggestions-system",
+        "id": "1268LC",
+        "title": "Search Suggestions System",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/non-overlapping-intervals",
+        "expanded_url": "https://leetcode.com/problems/non-overlapping-intervals",
+        "expanded_stripped_url": "https://leetcode.com/problems/non-overlapping-intervals",
+        "type": "problem",
+        "id_base": "non-overlapping-intervals",
+        "id": "435LC",
+        "title": "Non-overlapping Intervals",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+        "expanded_url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+        "expanded_stripped_url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+        "type": "problem",
+        "id_base": "minimum-number-of-arrows-to-burst-balloons",
+        "id": "452LC",
+        "title": "Minimum Number of Arrows to Burst Balloons",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/daily-temperatures",
+        "expanded_url": "https://leetcode.com/problems/daily-temperatures",
+        "expanded_stripped_url": "https://leetcode.com/problems/daily-temperatures",
+        "type": "problem",
+        "id_base": "daily-temperatures",
+        "id": "739LC",
+        "title": "Daily Temperatures",
+        "platform": "LC"
+    },
+    {
+        "url": "https://leetcode.com/problems/online-stock-span",
+        "expanded_url": "https://leetcode.com/problems/online-stock-span",
+        "expanded_stripped_url": "https://leetcode.com/problems/online-stock-span",
+        "type": "problem",
+        "id_base": "online-stock-span",
+        "id": "901LC",
+        "title": "Online Stock Span",
+        "platform": "LC"
+    }
+]

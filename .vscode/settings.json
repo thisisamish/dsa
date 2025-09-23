@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+
+  "python.defaultInterpreterPath": "python3",
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["--line-length", "88"],
+
+  "go.formatTool": "goimports",
+
+  "C_Cpp.default.cppStandard": "c++17",
+  "C_Cpp.clang_format_style": "Google",
+
+  "java.format.enabled": true
+}

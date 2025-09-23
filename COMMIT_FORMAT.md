@@ -1,5 +1,7 @@
 | Folder | Commit Type | Commit Format |
 | ------ | ------ | ------- |
+|  | logically related files spread across folders | `add: <lowest_ancestor_folder_name>/(<logical_name>)`. follow the same for updates/deletes. |
+|  | restructure | `restructure` |
 | `leetcode-daily` | basic commit | `lc-daily: <date>` e.g. `lc-daily: april 1, 2025` |
 | `leetcode-daily` | content correction | `errata::` prefix to the basic commit message |
 | `leetcode-daily` | content addition | `addenda::` prefix to the basic commit message |
